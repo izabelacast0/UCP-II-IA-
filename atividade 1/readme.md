@@ -25,15 +25,6 @@ Cada pasta contém os scripts utilizados no exercício e um `README.md` com as r
 
 ##  Exercício 1 — Análise e correção de código
 
-Foi utilizado o seguinte código Java:
-
-```java
-public String getUserInitials(String firstName, String lastName) {
-    return firstName.substring(0, 1).toUpperCase()
-            + lastName.substring(0, 1).toUpperCase();
-}
-```
-
 ### Objetivos
 
 Utilizar os modelos **DeepSeek Coder, StarCoder e Qwen Coder** para:
@@ -49,26 +40,6 @@ Utilizar os modelos **DeepSeek Coder, StarCoder e Qwen Coder** para:
 
 Foram considerados dois trechos de código que implementam uma regra de negócio semelhante:
 
-### Exemplo 1
-
-```java
-public boolean canEnroll(Student student) {
-    return student.isActive()
-            && student.getCompletedCredits() >= 120;
-}
-```
-
-### Exemplo 2
-
-```java
-public boolean canGraduate(Student student) {
-    if (student.isActive() && student.getCompletedCredits() >= 120) {
-        return true;
-    }
-    return false;
-}
-```
-
 ### Objetivo
 
 Utilizar os modelos **CodeBERT** e **all-MiniLM-L6-v2** para calcular a similaridade entre os dois trechos de código e responder se existe **duplicação de lógica**.
@@ -76,18 +47,6 @@ Utilizar os modelos **CodeBERT** e **all-MiniLM-L6-v2** para calcular a similari
 ---
 
 ##  Exercício 3 — Testes e documentação
-
-Foi utilizado o seguinte método Java:
-
-```java
-public double calculateAverage(List<Integer> grades) {
-    int sum = 0;
-    for (Integer grade : grades) {
-        sum += grade;
-    }
-    return sum / grades.size();
-}
-```
 
 ### Objetivos
 
