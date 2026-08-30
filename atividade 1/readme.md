@@ -38,8 +38,6 @@ Utilizar os modelos **DeepSeek Coder, StarCoder e Qwen Coder** para:
 
 ##  Exercício 2 — Similaridade entre códigos
 
-Foram considerados dois trechos de código que implementam uma regra de negócio semelhante:
-
 ### Objetivo
 
 Utilizar os modelos **CodeBERT** e **all-MiniLM-L6-v2** para calcular a similaridade entre os dois trechos de código e responder se existe **duplicação de lógica**.
