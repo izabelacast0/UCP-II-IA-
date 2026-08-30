@@ -30,9 +30,9 @@ public boolean canGraduate(Student student) {
 
 Cada trecho de código foi convertido em um vetor de embedding por dois modelos diferentes, e a similaridade entre os dois vetores foi calculada usando **similaridade de cosseno** (valor entre 0 e 1 — quanto mais próximo de 1, mais semanticamente parecidos os dois trechos são).
 
-Os scripts utilizados estão na pasta `/scripts` deste repositório:
-- `exercicio2_codebert.py` — usa o modelo `microsoft/codebert-base` (biblioteca `transformers`)
-- `exercicio2_minilm.py` — usa o modelo `all-MiniLM-L6-v2` (biblioteca `sentence-transformers`)
+Os scripts utilizados:
+- `codeBert.py` — usa o modelo `microsoft/codebert-base` (biblioteca `transformers`)
+- `sentence_transformer.py` — usa o modelo `all-MiniLM-L6-v2` (biblioteca `sentence-transformers`)
 
 ## Resultados
 
