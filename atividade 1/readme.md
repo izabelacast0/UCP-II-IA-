@@ -42,7 +42,6 @@ Utilizar os modelos **DeepSeek Coder, StarCoder e Qwen Coder** para:
 * Solicitar aos modelos uma correção para os problemas encontrados;
 * Registrar as respostas produzidas pelos modelos.
 
-**Sugestão:** utilização de um modelo local por meio do **Ollama**.
 
 ---
 
@@ -112,6 +111,6 @@ Utilizar os modelos **DeepSeek Coder, StarCoder e Qwen Coder** para:
 
 ---
 
-## 📌 Observação
+##  Observação
 
 As respostas apresentadas nos arquivos `README.md` de cada exercício correspondem às respostas produzidas pelos respectivos modelos utilizados na atividade.
