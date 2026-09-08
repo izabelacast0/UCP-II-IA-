@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 
-# nomes dos arquivos csv que você já gerou (sem o .csv no final)
 llms = ["chatgpt", "gemini", "deepseek", "claude", "perplexity"]
 
 pasta = os.path.dirname(os.path.abspath(__file__))
