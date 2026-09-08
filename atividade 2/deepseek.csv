@@ -1,0 +1,107 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/AIMETON/AIMETON_site_auditor/pull/684,fix(mcp): allow Better DeepSeek Chrome extension origin,2026-08-15T08:54:09Z,2026-08-15T08:57:52Z,0,False,Python
+https://github.com/AmyLFrederick/latent-review/pull/199,"The cover says ""conversation"" once, and the dek that repeated it is gone",2026-09-02T17:12:49Z,2026-09-02T17:15:48Z,0,False,JavaScript
+https://github.com/AIMETON/AIMETON_site_auditor/pull/681,fix(mcp): allow Better DeepSeek browser client on public MCP,2026-08-15T08:40:17Z,2026-08-15T08:42:58Z,0,False,Python
+https://github.com/aandrew-me/tgpt/pull/487,Add deepseek-web provider,2026-08-18T10:56:30Z,2026-08-18T13:33:27Z,3255,False,Go
+https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/805,Add wqx-txdsyl/dsh-ds-attach: DeepSeek Chat same-style attachments,2026-08-16T01:57:27Z,2026-08-16T09:09:16Z,14788,False,Python
+https://github.com/AOSC-Dev/chromium-loongarch64/pull/9,chromium: rebase LoongArch64 support to 148.0.7778.280,2026-08-20T16:52:19Z,2026-08-29T13:50:35Z,18,False,Python
+https://github.com/Nagi-ovo/voyager/pull/981,feat(plugins): add DeepSeek platform adapter,2026-09-07T04:35:45Z,2026-09-07T15:06:51Z,19985,False,TypeScript
+https://github.com/diaoyunxi/OpenAI-Proxy-via-Browser/pull/1,fix(extension): 修复多轮对话第二轮回复混入旧回复与模式徽标,2026-09-05T06:30:55Z,2026-09-05T07:10:40Z,0,False,JavaScript
+https://github.com/Fly143/deepseek-free-api/pull/28,feat: 批量注册账号 + 自动登录 + 多账号轮询（mail.cx 临时邮箱）,2026-08-26T12:26:13Z,2026-08-26T14:21:54Z,269,False,Python
+https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1593,Add wpc0323/deepseek-web-import (DeepSeek web conversation importer),2026-08-18T05:30:38Z,2026-08-18T07:53:25Z,14788,False,Python
+https://github.com/AOSC-Dev/aosc-os-abbs/pull/17259,chromium: backport LoongArch64 fixes for V8 and fix crashpad LoongArch64 signal context parsing,2026-08-20T16:20:15Z,2026-08-25T02:05:57Z,193,False,Shell
+https://github.com/TecFancy/dsh-auth-gate/pull/14,feat(login-page): redesign login page with modern card UI,2026-08-15T12:21:18Z,2026-08-15T12:22:54Z,10,False,TypeScript
+https://github.com/davidrunger/dotfiles/pull/1311,"[zshrc] Fix Ruby native extension issues related to gcc, ld, gmp",2026-07-31T17:43:33Z,2026-07-31T17:44:16Z,0,False,Shell
+https://github.com/AOSC-Dev/wiki/pull/113,Add system requirements page content for AOSC OS,2026-07-23T12:42:53Z,2026-07-24T12:09:23Z,15,False,HTML
+https://github.com/YuemingHub/World-Space/pull/4,World Space — continuous convergence macro 3,2026-09-07T12:57:37Z,2026-09-07T13:27:13Z,0,False,HTML
+https://github.com/la4ox/liska-threadkeeper/pull/1,feat: add complete DeepSeek conversation export,2026-08-12T07:15:33Z,2026-08-12T11:24:21Z,1,True,TypeScript
+https://github.com/timerloggedout-spec/termux-monorepo/pull/215,"hotfix: DeepSeek CI — kill soft-skip, hard-fail, contents:write, ARCHWIZ primary",2026-08-14T15:57:29Z,2026-08-14T15:57:34Z,1,False,Python
+https://github.com/Nagi-ovo/voyager/pull/991,test(popup): cover DeepSeek plugin-only mode,2026-09-07T04:36:42Z,2026-09-07T15:07:00Z,19985,False,TypeScript
+https://github.com/YuemingHub/World-Space/pull/13,World Space — continuous convergence macro 12,2026-09-07T17:05:14Z,2026-09-07T17:05:28Z,0,False,HTML
+https://github.com/Nagi-ovo/voyager/pull/983,fix(plugins): display DeepSeek branding in the plugin manager,2026-09-07T04:35:57Z,2026-09-07T15:06:53Z,19985,False,TypeScript
+https://github.com/zhu1090093659/deepseek-pp/pull/306,fix(automation): resolve missing DeepSeek login token in background runner,2026-07-07T04:24:00Z,2026-07-07T05:04:31Z,1811,False,TypeScript
+https://github.com/Nagi-ovo/voyager/pull/982,feat(plugins): add adjustable DeepSeek reading width,2026-09-07T04:35:51Z,2026-09-07T15:06:52Z,19985,False,TypeScript
+https://github.com/Aendrous/aendrous.github.io/pull/4,Fix GitHub Pages 404 and add DeepSeek chat-to-article pipeline,2026-08-20T19:35:43Z,2026-08-20T20:03:41Z,0,False,Python
+https://github.com/axetroy/Browser-LLM-Gateway/pull/2,feat: add DeepSeek provider,2026-07-20T06:54:13Z,2026-07-20T07:14:50Z,0,False,TypeScript
+https://github.com/qtgf520/QitongAI-zhuanzhan/pull/4,Fix UTF-8 gateway decoding and real-site adapters,2026-08-08T10:39:16Z,2026-08-08T18:35:00Z,1,False,Kotlin
+https://github.com/RezaParsian/RpCli/pull/3,feat: guide users through DeepSeek token setup,2026-08-01T06:38:12Z,2026-08-01T08:12:09Z,12,False,TypeScript
+https://github.com/adityatiwari12/H2AI-AI-Water-Consumption/pull/3,Add image/video/canvas/research detection + hardening,2026-07-19T08:52:53Z,2026-08-29T19:18:36Z,1,False,JavaScript
+https://github.com/zhanglunet/deepseek-harness/pull/8,docs(analysis-site): adopt the product's own design tokens,2026-08-13T17:20:47Z,2026-08-13T17:20:54Z,0,True,TypeScript
+https://github.com/josephfrazier/reported-web/pull/814,Inline `heroku-self-ping` functionality to remove vulnerable `form-data`,2026-07-02T18:51:18Z,2026-07-02T19:02:44Z,12,False,JavaScript
+https://github.com/domestique-labs/domestique-oss/pull/21,"feat(browser): Qwen-cloud + DashScope interception, confirm DeepSeek (T11)",2026-07-15T08:09:27Z,2026-07-15T08:40:14Z,3,False,Python
+https://github.com/TAGYi12138/freeAPI/pull/24,feat: freeapi sniff 支持 --url/--host 抓取任意站点,2026-07-11T05:40:40Z,2026-07-11T05:41:40Z,0,False,Python
+https://github.com/best-of-ai/best-of-ai/pull/90,Add tool: Deepseek Vision,2026-06-21T12:53:45Z,2026-06-21T12:54:22Z,706,False,HTML
+https://github.com/cjangrist/opentabs/pull/19,⚡ perf(deepseek): thread parent_message_id through send_message,2026-08-07T09:48:26Z,2026-08-07T10:04:42Z,0,False,TypeScript
+https://github.com/henrythebozo/GodMode/pull/1,"Modernize GodMode for 2026: fix install, update providers, Mac builds, web version",2026-08-04T07:44:09Z,2026-08-04T10:50:54Z,1,True,TypeScript
+https://github.com/juanwan99/pico/pull/511,fix(tools): map DeepSeek web_search_call URLs into sources (#507),2026-08-13T02:23:19Z,2026-08-13T02:29:06Z,0,False,TypeScript
+https://github.com/diegosouzapw/OmniRoute/pull/2854,fix(deepseek-web): return 400 when client sends tools[] (closes #2848),2026-05-28T13:43:41Z,2026-05-29T03:56:17Z,62512,False,TypeScript
+https://github.com/snake-aabb-wtf/deepseek-web2api-free/pull/5,feat(adapter): use real-Chrome request headers + accept wrapped token,2026-06-18T23:02:11Z,2026-06-24T02:54:23Z,111,False,Python
+https://github.com/paulodiovani/ai-model-access-analysis/pull/12,feat: add DeepSeek to free rankings; remove Zen from paid rankings; scope guardrails,2026-06-12T19:06:06Z,2026-06-12T19:43:54Z,0,False,Shell
+https://github.com/PirateBrook/persona-chat/pull/3,Release 0.2.0: ChatGPT as a third platform + adversarial-review fixes,2026-07-28T02:03:24Z,2026-07-28T02:07:43Z,0,False,TypeScript
+https://github.com/sums001/Deepseek-API/pull/3,auth: tolerate navigation context destroyed during Google OAuth login,2026-06-29T04:35:03Z,2026-06-30T07:33:32Z,271,False,Python
+https://github.com/hrydgard/ppsspp/pull/21648,Remove 2 cases for fast path for soft gpu by Deepseek,2026-05-06T16:26:46Z,2026-05-12T08:45:38Z,14404,False,C++
+https://github.com/TAGYi12138/freeAPI/pull/25,feat: DeepSeek 网页版适配器（serve --adapter deepseek）,2026-07-11T05:55:28Z,2026-07-11T05:56:22Z,0,False,Python
+https://github.com/bentleypark/aiwatch/pull/855,feat(overview): SPA outbound wedge (ActionBanner pill) + extend referral URL map to all categories — #842-A PR-2 (refs #842),2026-07-01T06:36:41Z,2026-07-01T08:20:37Z,27,False,TypeScript
+https://github.com/WhiteLicorice/better-deepseek/pull/4,feat: Deep Research Mode V1,2026-06-10T03:23:12Z,2026-06-10T03:35:53Z,2,True,JavaScript
+https://github.com/LJ996007/Quickstart/pull/4,左滑 AI：将 Prompt+选中文字发送到网页 DeepSeek,2026-05-29T06:10:09Z,2026-05-29T06:10:37Z,1,False,C#
+https://github.com/DeerSpotter/ContextPort/pull/20,[codex] add DeepSeek and harden source and attachment state,2026-07-09T00:46:05Z,2026-07-10T10:42:49Z,8,True,Swift
+https://github.com/DaScient/GoZaddy/pull/13,"Integrate knowledge base, perspectives, creator tools, and publishing resources into index.html",2026-06-11T20:53:36Z,2026-06-11T20:53:45Z,1,False,HTML
+https://github.com/MinhHaDuong/aedist-technical-report/pull/419,data(0224): fix stage-7 Alibaba+DeepSeek to consumer-product dates,2026-05-22T11:42:41Z,2026-05-22T11:45:34Z,0,False,Python
+https://github.com/theopenco/llmgateway/pull/2297,fix: update broken terms of service and privacy policy URLs,2026-05-15T13:14:31Z,2026-05-15T17:41:09Z,1615,False,TypeScript
+https://github.com/chenchaoyi/diting/pull/202,feat(analyze): one-file LLM export + clipboard by default + provider-neutral guidance,2026-06-09T06:57:19Z,2026-06-09T07:00:52Z,1,False,Python
+https://github.com/diegosouzapw/OmniRoute/pull/4644,fix(executors): robust deepseek-web tool-call parsing and agentic context retention,2026-06-22T12:52:24Z,2026-06-22T21:24:30Z,62512,False,TypeScript
+https://github.com/cjangrist/opentabs/pull/29,"✨ feat(deepseek): normalize to SPEC.md — 11 tools, real keyset cursors, full fragment mapping",2026-08-09T19:09:26Z,2026-08-16T22:06:16Z,0,False,TypeScript
+https://github.com/MinhHaDuong/aedist-technical-report/pull/421,fix(timeline): correct Alibaba and DeepSeek stage-1 consumer-product dates,2026-05-22T12:29:21Z,2026-05-22T12:30:14Z,0,False,Python
+https://github.com/Eshaan-Nair/ArcRift/pull/8,feat(platforms): add Perplexity and DeepSeek support (v1.4.1),2026-05-04T09:41:24Z,2026-05-04T09:59:28Z,245,False,TypeScript
+https://github.com/MinhHaDuong/aedist-technical-report/pull/413,manuscript: rename stage 1 'Base instruct LLM' → 'Chat LLM' (and note the date-semantics question),2026-05-22T08:08:15Z,2026-05-22T08:09:06Z,0,False,Python
+https://github.com/blokzdev/ignaite/pull/43,"Directory: +25 web-verified apps, new ""assistant"" category, and the /add-app + /audit-directory upkeep routines",2026-06-06T01:46:22Z,2026-06-06T02:07:17Z,1,True,TypeScript
+https://github.com/bentleypark/aiwatch/pull/621,feat: add DeepSeek App (consumer chat) as a separate app service (refs #619),2026-06-12T13:05:43Z,2026-06-12T13:09:22Z,27,False,TypeScript
+https://github.com/MinhHaDuong/aedist-technical-report/pull/414,manuscript: weave chat-tuned distinction into §3; file 0224 for strictness pass,2026-05-22T08:12:01Z,2026-05-22T08:12:51Z,0,False,Python
+https://github.com/jackwener/OpenCLI/pull/1344,feat(deepseek): add detail and send commands for explicit conversation control,2026-05-06T04:18:32Z,2026-05-06T11:13:55Z,29070,False,JavaScript
+https://github.com/zhu1090093659/deepseek-pp/pull/151,修复 Token 输出速度（tok/s）估算偏差,2026-06-10T16:37:23Z,2026-06-11T01:26:14Z,1811,False,TypeScript
+https://github.com/QingLiii/deepseek-pp/pull/1,feat(agent): Codex-style update_plan tool + tool-history compaction,2026-06-10T08:46:10Z,2026-06-10T09:36:41Z,0,True,TypeScript
+https://github.com/nathanramoscfa/roadmodel/pull/236,feat(selector): DeepSeek reasoning-dial docs tracker (T1: extractor + conformance check F),2026-06-11T14:42:45Z,2026-06-11T14:46:31Z,1,False,Python
+https://github.com/BirdyDK/Bachelor-Projekt/pull/22,Grammar and pcg,2026-04-06T23:09:31Z,2026-04-08T07:52:39Z,0,False,Python
+https://github.com/diegosouzapw/OmniRoute/pull/3101,fix+feat(sse): per-model 403 lockout (#3027) + deepseek-web memory (#2942) & tool-calls (#2820),2026-06-03T10:56:01Z,2026-06-03T21:29:26Z,62512,False,TypeScript
+https://github.com/CloudWaddie/ModelWatcher/pull/41,feat: add AI model watchlist with generic patterns,2026-03-31T04:29:28Z,2026-03-31T04:32:54Z,5,False,JavaScript
+https://github.com/lloydzhou/bash-agent/pull/5,feat: DP compact — cache-aware economics model for context window management,2026-04-28T20:07:39Z,2026-04-29T08:19:33Z,71,False,C
+https://github.com/jackwener/OpenCLI/pull/1088,feat(deepseek): add DeepSeek browser adapter,2026-04-19T15:09:57Z,2026-04-20T08:27:31Z,29070,False,JavaScript
+https://github.com/wmw0515/Chat2API/pull/41,fix(deepseek): align web headers and session referer for Expert mode,2026-04-28T05:28:03Z,2026-04-28T05:28:24Z,9,True,TypeScript
+https://github.com/GooglyBlox/auto-mcgraw/pull/20,fix deepseek integration,2026-03-12T03:26:39Z,2026-03-14T02:05:04Z,59,False,JavaScript
+https://github.com/EdgeTypE/better-deepseek/pull/18,BDS Android,2026-05-07T05:31:51Z,2026-05-07T08:11:35Z,445,False,JavaScript
+https://github.com/Fullstop000/teleprompt/pull/2,feat(settings): add DeepSeek and Gemini targets,2026-02-28T08:53:41Z,2026-02-28T14:52:27Z,0,False,JavaScript
+https://github.com/jackwener/OpenCLI/pull/1343,fix(deepseek): skip pinned conversations and fail fast when resume target unavailable,2026-05-06T03:49:30Z,2026-05-06T09:54:34Z,29070,False,JavaScript
+https://github.com/Nek1s/VisualHub/pull/15,"Добавил миниатюры, корзину, экспорт, удаление из галереи, копии тепер…",2026-01-21T19:02:46Z,2026-01-21T19:32:37Z,0,False,JavaScript
+https://github.com/chaishillomnitech1/context-hub-skills/pull/1,[WIP] Add initial repository setup with SKILL.md definitions,2026-03-12T19:14:19Z,2026-03-12T19:15:11Z,0,False,
+https://github.com/NP-Vincent/ai-share-links/pull/7,Add DeepSeek platform support to AI Share Links,2026-03-02T18:29:40Z,2026-03-02T18:29:52Z,0,False,PHP
+https://github.com/myh333777/gpt4free/pull/261,[pull] main from xtekky:main,2026-02-23T01:43:06Z,2026-02-23T01:43:10Z,0,True,Python
+https://github.com/Pragament/ai-export-chrome-extension/pull/2,Added DeepSeek Support,2026-01-29T21:42:10Z,2026-02-02T13:33:04Z,0,True,JavaScript
+https://github.com/diegosouzapw/OmniRoute/pull/2804,Release v3.8.6,2026-05-27T21:02:32Z,2026-05-29T15:44:29Z,62512,False,TypeScript
+https://github.com/krel99/ChatGPT-Column-Width-Fixed-Extension/pull/5,Add Gemini and DeepSeek layout support,2026-02-03T15:37:00Z,2026-02-03T16:14:44Z,0,False,HTML
+https://github.com/bao1979/ai-labor-tracker/pull/1,feat: Implement AI Labor Tracker Edge browser extension,2026-02-21T06:27:22Z,2026-02-21T06:30:41Z,0,False,TypeScript
+https://github.com/davidrunger/david_runger/pull/8111,[specs] Use separate Redis database numbers for Sidekiq [DEV-247],2026-01-20T20:27:57Z,2026-01-20T23:27:48Z,1,False,Ruby
+https://github.com/planckmax42/chat-mindmap-extension/pull/1,feat: implement Chrome Extension MVP (Phase 1),2026-03-09T10:52:30Z,2026-03-09T11:01:59Z,1,False,TypeScript
+https://github.com/lavilao/chathub-free/pull/1,Add Support for New Chat Platforms,2025-12-25T23:14:44Z,2025-12-25T23:30:24Z,0,True,TypeScript
+https://github.com/JasonLandbridge/Arch-Linux-AUR-Packages-Updater/pull/79,chore(deps): update dependency diegosouzapw/omniroute to v3.8.39,2026-06-28T12:43:17Z,2026-06-28T13:15:59Z,4,False,Shell
+https://github.com/diegosouzapw/OmniRoute/pull/5164,Release v3.8.39,2026-06-27T13:23:27Z,2026-06-28T09:58:29Z,62512,False,TypeScript
+https://github.com/joganubaid/omniexporter-ai-fixed-v2/pull/1,"Fix Priority-0 security issues: sensitive data exposure, broken token refresh, over-broad permissions, unvalidated inputs",2026-02-19T19:54:46Z,2026-02-19T20:00:12Z,2,False,JavaScript
+https://github.com/ladynata-cloud/math-exam-fipi/pull/22,Task14: add DeepSeek helper prompt panel,2025-12-25T19:38:10Z,2025-12-25T19:40:13Z,0,False,HTML
+https://github.com/AGSQ11/claude-code-proxy/pull/4,feat: add DeepSeek chat proxy (OpenAI-compatible wrapper),2025-11-18T22:57:16Z,2025-11-18T22:57:23Z,0,False,Python
+https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/pull/18043,Added rule for chat.deepseek.com,2025-10-10T17:53:40Z,2025-10-10T17:54:35Z,4236,False,JavaScript
+https://github.com/JasonLandbridge/Arch-Linux-AUR-Packages-Updater/pull/32,chore(deps): update dependency diegosouzapw/omniroute to v3.8.7,2026-05-23T08:30:50Z,2026-06-02T17:39:39Z,4,False,Shell
+https://github.com/deepmodeling/abacus-develop/pull/6564,Fix: EXX PW GPU,2025-10-05T06:24:54Z,2025-10-05T07:13:37Z,290,True,C++
+https://github.com/Voxelum/x-minecraft-launcher/pull/1104,Fix inconsistent AI platform icon sizes and layout overlap in crash dialog,2025-10-03T05:29:39Z,2025-10-03T14:26:58Z,1588,False,TypeScript
+https://github.com/carlfreeman/canonlifeshots_website/pull/4,"Upgraded filtering, processing and styling",2025-08-01T00:24:41Z,2025-08-01T00:25:03Z,0,False,JavaScript
+https://github.com/anon987654321/pub3/pull/23,[WIP] Update master.json for anti-truncation enforcement,2025-10-18T08:12:21Z,2025-10-18T08:13:27Z,0,False,Ruby
+https://github.com/sameerasw/my-internet/pull/1163,Separate chat.deepseek.com features,2025-05-31T13:55:55Z,2025-06-01T03:19:48Z,459,False,CSS
+https://github.com/darkreader/darkreader/pull/14124,add chat.deepseek.com selector,2025-03-31T14:16:32Z,2025-03-31T14:17:11Z,22336,False,TypeScript
+https://github.com/darkreader/darkreader/pull/14006,chat.deepseek.com fix,2025-03-05T20:26:42Z,2025-03-06T15:14:58Z,22336,False,TypeScript
+https://github.com/uBlockOrigin/uAssets/pull/27342,cleanup old filters for chat.deepseek.com,2025-02-27T18:53:11Z,2025-02-27T18:57:46Z,5997,False,Adblock Filter List
+https://github.com/uBlockOrigin/uAssets/pull/27339,block analytics request for chat.deepseek.com,2025-02-27T17:02:54Z,2025-02-27T18:28:24Z,5997,False,Adblock Filter List
+https://github.com/davidrunger/dotfiles/pull/616,[delete-lines] Add script to delete lines from git-tracked files,2025-03-22T17:59:03Z,2025-03-22T18:00:01Z,0,False,Shell
+https://github.com/duckduckgo/autoconsent/pull/1018,[1 / 4] 🤖 Add autoconsent rules for 200 sites (7 need review),2025-10-03T23:10:40Z,2025-10-13T11:49:05Z,126,False,TypeScript
+https://github.com/mwyywm/GodMode/pull/6,Add deepseek chat,2025-01-20T13:38:44Z,2025-01-20T13:38:52Z,0,True,TypeScript
+https://github.com/davidrunger/david_runger/pull/6213,Provide a stable SECRET_KEY_BASE env var in development,2025-02-22T06:08:45Z,2025-02-22T06:11:48Z,1,False,Ruby
+https://github.com/davidrunger/runger_style/pull/520,Fix RungerStyle/MultilineMethodArgumentsLineBreaks false positives,2025-01-27T19:21:21Z,2025-01-27T19:21:52Z,1,False,Ruby
+https://github.com/uBlockOrigin/uAssets/pull/26935,Privacy: Block deepseek analytics,2025-01-22T21:06:00Z,2025-01-22T22:32:43Z,5997,False,Adblock Filter List
+https://github.com/davidrunger/fcom/pull/757,Stream results progressively [FCOM-8],2025-01-25T03:36:52Z,2025-01-25T03:51:13Z,4,False,Ruby

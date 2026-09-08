@@ -1,0 +1,1001 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/brandon-fryslie/slopspot-paste/pull/120,Investigate: claude.ai/share file attachment + inline chart recoverability,2026-08-24T08:30:31Z,2026-08-24T08:35:48Z,0,False,TypeScript
+https://github.com/davidrunger/david_runger/pull/9442,[groceries] Remove z-index from 'main' element and '.sidebar-shell',2026-09-06T21:04:08Z,2026-09-06T21:07:56Z,1,False,Ruby
+https://github.com/curaition/skills/pull/9,"docs(curaition-ops): three install surfaces, the claude.ai upload, shared-file cost",2026-08-25T16:00:06Z,2026-08-25T18:46:18Z,0,False,Python
+https://github.com/davidrunger/dotfiles/pull/1448,Rebuild Crystal binaries when utils/crystal/ helpers change,2026-09-04T22:22:38Z,2026-09-04T22:23:15Z,0,False,Shell
+https://github.com/ebremer/RFC10008support/pull/2,add Caddy,2026-08-04T20:10:27Z,2026-08-05T14:18:37Z,0,False,Python
+https://github.com/Treemarkables/TreeMarkablesClone/pull/507,golf-site: self-host all photos + single-file artifact build,2026-09-06T23:56:02Z,2026-09-06T23:57:58Z,0,False,TypeScript
+https://github.com/bounded-systems/bounded.tools/pull/60,claude-relay: forward converted chats through the pathbase door,2026-08-31T16:05:56Z,2026-08-31T16:07:22Z,0,False,TypeScript
+https://github.com/toolarcdev/toolarc-web/pull/339,feat: thin source.md and externalize Claude.ai constraints,2026-09-06T06:10:24Z,2026-09-06T06:20:46Z,1,False,TypeScript
+https://github.com/bounded-systems/.github/pull/314,chat-fetch: one-command direct access to a shared Claude chat,2026-08-31T16:19:33Z,2026-08-31T16:21:09Z,0,False,JavaScript
+https://github.com/acorg/dark-matter/pull/863,Update consensus calling,2026-08-14T22:29:07Z,2026-08-17T10:39:45Z,18,False,Python
+https://github.com/fhdsl/bioc2026Intro/pull/6,Updates to Orchestra and installing lessons,2026-08-07T18:09:18Z,2026-08-07T18:35:23Z,2,False,Dockerfile
+https://github.com/bounded-systems/bounded.tools/pull/51,"Add the Claude chat-session relay: share link in, toolpath Graph out",2026-08-31T15:09:47Z,2026-08-31T15:16:38Z,0,False,TypeScript
+https://github.com/davidrunger/david_runger/pull/9189,[vite] Specify 'server.ws.clientPort' to fix reloading and specs,2026-08-18T05:02:58Z,2026-08-18T05:05:14Z,1,False,Ruby
+https://github.com/jb-glitch1/Bar-Crawl/pull/6,Auto-deploy to GitHub Pages on push to main,2026-08-30T20:21:08Z,2026-08-30T20:21:14Z,0,False,JavaScript
+https://github.com/davidrunger/david_runger/pull/8919,[qr] Don't use '--clean' flag in 'pg_restore' command,2026-07-12T20:12:55Z,2026-07-12T20:16:10Z,1,False,Ruby
+https://github.com/affankhan9332/Memory-Trace-/pull/12,Stage 4: Claude JSON export and shared link parser,2026-07-21T04:12:38Z,2026-07-21T04:17:05Z,0,False,Python
+https://github.com/davidrunger/blog/pull/1202,Add update note about Postgres 18.x mount path wrinkle,2026-07-10T04:56:58Z,2026-07-10T05:00:43Z,3,False,JavaScript
+https://github.com/hivecommons/hive/pull/5628,[guide] docs: document the Claude Remote Control pin-off (#5607) — CHANGELOG v4.1.0 Security + security-model.md Layer 4,2026-09-02T05:51:45Z,2026-09-02T10:01:32Z,51,False,Go
+https://github.com/HoffieKT/DS5111_zuc7ze/pull/7,Lab06a,2026-07-29T00:07:25Z,2026-07-29T05:16:39Z,0,False,Python
+https://github.com/openlinker-project/openlinker/pull/2303,chore(web): sync shared/ui to claude.ai/design as a design system,2026-08-21T22:28:21Z,2026-08-22T09:54:56Z,36,False,TypeScript
+https://github.com/abrish2049/2508_DS5111_wqp7qy/pull/5,Lab06,2026-07-07T00:07:08Z,2026-07-24T04:47:15Z,1,False,Python
+https://github.com/d26clarke/DS5111-011/pull/5,Ds5111 011 lab6a,2026-07-08T03:33:55Z,2026-07-15T01:15:42Z,0,False,Python
+https://github.com/brandon-fryslie/slopspot-paste/pull/101,Fetched conversations are bulk-editable as text (slopspot-editor-s3j.4),2026-08-09T21:51:11Z,2026-08-09T22:00:13Z,0,False,TypeScript
+https://github.com/davidrunger/dotfiles/pull/1293,[bat] Check arguments are present before using '$1',2026-07-10T05:08:02Z,2026-07-10T05:09:31Z,0,False,Shell
+https://github.com/G-AOBptyltd/smiths-lake-website/pull/36,Add Village1st IP & Licence line to the site footer,2026-09-02T01:13:42Z,2026-09-02T01:15:18Z,1,False,HTML
+https://github.com/jzhao0/portable-ai-context/pull/69,Add privacy-safe Claude public-share DOM contract probe,2026-08-19T15:17:38Z,2026-08-19T15:24:50Z,0,False,Python
+https://github.com/shawn-durrani/crossband/pull/189,view_page: a verification interstitial reads as one clean line,2026-08-18T07:55:19Z,2026-08-18T08:03:45Z,1,False,Python
+https://github.com/skizzy1986/erg-dashboard/pull/201,config: sync SplitIQ's shared UI layer to claude.ai/design,2026-08-21T16:13:16Z,2026-08-21T16:35:53Z,0,False,HTML
+https://github.com/HankElmhurst/2605_DS5111_zdd3ga/pull/5,Lab6a oop enrich script,2026-07-10T03:30:13Z,2026-07-24T05:04:00Z,0,False,Python
+https://github.com/bounded-systems/.github/pull/329,verb-server: read_chat as an MCP tool — the seamless read path,2026-08-31T20:55:12Z,2026-08-31T20:56:54Z,0,False,JavaScript
+https://github.com/ispeters/home-manager-config/pull/2,Add declarative iTerm2 configuration,2026-07-13T22:57:41Z,2026-07-13T22:59:35Z,0,False,Nix
+https://github.com/davidrunger/david_runger/pull/8885,[docker-compose/postgres] Bump Postgres from 18.1 to 18.4 [DEV-254],2026-06-28T22:26:49Z,2026-06-28T22:33:32Z,1,False,Ruby
+https://github.com/davidrunger/dotfiles/pull/1282,[brup] Update dotfiles repo and dependencies (with 'main'),2026-06-28T14:28:06Z,2026-06-28T14:29:33Z,0,False,Shell
+https://github.com/brandon-fryslie/slopspot-paste/pull/61,Agentic-handoff for claude.ai/code share links (slopspot-cc-share-4nc),2026-06-30T10:49:44Z,2026-06-30T11:52:27Z,0,False,TypeScript
+https://github.com/brandon-fryslie/slopspot-paste/pull/22,Promote claude.ai/share tool indicators to tool-call Turns (slopspot-claude-share-4pf),2026-06-09T20:38:12Z,2026-06-09T20:43:26Z,0,False,TypeScript
+https://github.com/snacksnack/reid_basic/pull/6,RC1-206: self-hosted Launch Planner overview page + project card,2026-08-02T12:46:22Z,2026-08-02T12:54:39Z,0,False,TypeScript
+https://github.com/Jr-kenny/prime-port/pull/15,docs: ship the design prototype into the repo,2026-07-11T17:37:43Z,2026-07-11T17:39:17Z,2,False,Solidity
+https://github.com/khisal/portfolio-website-design/pull/3,Link featured work cards to the Amtly and Alivyo pages,2026-07-04T23:11:05Z,2026-07-04T23:11:14Z,0,False,HTML
+https://github.com/jitsejan/jitsejan.com/pull/35,Add post on branch-based schema overrides for dbt and Dagster,2026-09-07T02:18:00Z,2026-09-07T02:18:13Z,1,False,Jupyter Notebook
+https://github.com/TolongLabs/MakanLah/pull/91,docs(progress): four instances of one failure pattern,2026-08-29T20:52:30Z,2026-08-29T20:55:46Z,0,False,Python
+https://github.com/mengyahuUSTC-PU/mengyahuUSTC-PU.github.io/pull/105,[en] Click 'share' and you've published: how Claude conversations ended up in Google search,2026-08-05T05:21:24Z,2026-08-05T05:30:11Z,0,False,Python
+https://github.com/PowerOfCreation/SimpleShoppingListApp/pull/299,fix(frontend): build invite links as verified https App Links,2026-09-04T22:32:37Z,2026-09-04T22:38:18Z,0,False,TypeScript
+https://github.com/mengyahuUSTC-PU/mengyahuUSTC-PU.github.io/pull/103,"[zh] 点一下\u201C分享\u201D,你就发布了:Claude 对话是怎么进 Google 搜索的",2026-08-05T03:18:20Z,2026-08-05T04:55:28Z,0,False,Python
+https://github.com/99drew/99drew.github.io/pull/1,Add treino-app: PWA rebuild of the training-log prototype,2026-08-20T02:19:05Z,2026-08-20T02:19:27Z,0,False,JavaScript
+https://github.com/aferna6-cell/agentnexlify/pull/756,ops: morning-digest 2026-09-03,2026-09-03T12:02:56Z,2026-09-03T12:03:04Z,0,False,Python
+https://github.com/antinvestor/service-authentication/pull/858,chore: remove timescale hypertable setup,2026-08-31T16:49:28Z,2026-08-31T17:53:54Z,0,False,Go
+https://github.com/arfct/vapor/pull/54,"Invite dialog: personally/anonymously and app/CLI pulldowns, copy icons, linked paths, Listen section, 420px shell",2026-09-06T13:25:07Z,2026-09-06T13:34:41Z,0,True,TypeScript
+https://github.com/duyduc-dev/webcontainer/pull/2,Add Claude settings local file to gitignore,2026-08-26T09:30:53Z,2026-08-26T09:31:46Z,0,False,TypeScript
+https://github.com/KodiniTools/Equalizer-19/pull/45,Set EQ band Q to 2.5,2026-09-07T19:24:32Z,2026-09-07T19:24:44Z,0,False,Vue
+https://github.com/abdelmohsin70/fitplan/pull/1,FitPlan — تطبيق لياقة وتغذية متكامل,2026-08-01T21:53:58Z,2026-08-02T06:18:59Z,0,False,TypeScript
+https://github.com/cake-robot/cream_cheese/pull/14,Slow the live poller's active-window cadence to 15 minutes,2026-09-04T06:08:17Z,2026-09-04T06:08:25Z,0,False,Python
+https://github.com/antinvestor/service-profile/pull/650,chore: remove timescale hypertable setup,2026-08-31T16:52:57Z,2026-09-01T04:31:26Z,0,False,Go
+https://github.com/codepilot777/eff-nextjs/pull/56,Bring the Instructor/Trainee guides into the app as real pages,2026-08-27T07:20:06Z,2026-08-27T08:00:56Z,0,False,TypeScript
+https://github.com/elmisi/claude-code-automation/pull/18,feat(automate): add Artifact and Workflow subagent tools (2.12.0),2026-06-27T15:06:11Z,2026-06-27T15:08:19Z,0,False,Shell
+https://github.com/ByteApps/graffito/pull/44,"PNTE v1 redesign adaptation: txid note ids, CLASSIFY_VERSION 2, RBF rekey",2026-08-12T07:08:29Z,2026-08-12T12:56:35Z,0,False,Rust
+https://github.com/selftwo/council-of-x/pull/1,Absorb Shreyas Doshi Substack corpus and draft coach-mind gems,2026-07-27T05:12:15Z,2026-07-27T05:12:29Z,0,False,HTML
+https://github.com/lalitac19/lalita-ayush/pull/4,"Link ""Getting There"" mention in the transportation FAQ answer",2026-08-06T18:23:36Z,2026-08-06T18:23:42Z,0,False,TypeScript
+https://github.com/PostHog/posthog/pull/86946,feat(experiments): expose flag cleanup in the MCP tools,2026-08-21T08:24:24Z,2026-08-26T07:46:31Z,39649,False,Python
+https://github.com/heisencoder/heisencoder.github.io/pull/2,Add HeisenMICR font and tools,2026-07-09T02:52:57Z,2026-07-10T21:38:39Z,0,False,Python
+https://github.com/artkrsk/elementor-stubs/pull/72,ci: adopt stub-package-workflows thin callers + Renovate,2026-08-14T06:21:14Z,2026-08-14T06:22:49Z,6,False,PHP
+https://github.com/antinvestor/service-trustage/pull/109,chore: remove timescale hypertable setup,2026-08-31T16:50:22Z,2026-08-31T18:11:26Z,0,False,Go
+https://github.com/aleburrascano/altune/pull/64,refactor(platform): share the binary resolve and availability helpers,2026-09-07T22:47:12Z,2026-09-07T22:51:07Z,1,False,Go
+https://github.com/iribarren/setlistify-v2/pull/27,feat: instant on-demand setlist.fm refresh for entitled users,2026-08-28T00:31:05Z,2026-08-28T00:31:54Z,0,False,PHP
+https://github.com/asadprofficial-code/trendmintmedia/pull/53,"Fix article cover images: clean up duplicate root uploads, fix Trump …",2026-09-04T17:29:28Z,2026-09-04T17:29:40Z,0,False,HTML
+https://github.com/seanhersee/2508_DS5111_cjf4xv/pull/9,Lab06a oop enrich script,2026-07-12T20:37:52Z,2026-07-24T04:23:09Z,0,False,Python
+https://github.com/The-Last-Founder/Build/pull/54,Unblock research ingestion for issue #53 by documenting external-link access failure,2026-07-05T16:48:52Z,2026-07-07T14:07:05Z,10,False,HTML
+https://github.com/shouni/go-prompt-kit/pull/29,docs: document the template seam and correct the CI note,2026-08-27T12:29:30Z,2026-08-27T12:30:35Z,0,False,Go
+https://github.com/hooji/solar-system-by-qwen-3.8-flash-next/pull/7,Add the live app link to the top of both READMEs,2026-09-02T07:25:04Z,2026-09-02T07:25:21Z,0,True,TypeScript
+https://github.com/thorwhalen/thoremin/pull/179,Record the rhythm-from-gesture research map (#178),2026-09-02T14:15:17Z,2026-09-02T14:26:42Z,0,False,TypeScript
+https://github.com/gamzeokmen/csai415-paper-rag/pull/12,D3: AI chat log session summary,2026-06-21T18:18:15Z,2026-06-21T19:28:35Z,0,False,Jupyter Notebook
+https://github.com/antinvestor/service-payment/pull/253,chore: remove timescale hypertable setup,2026-08-31T16:51:44Z,2026-09-01T04:20:46Z,0,False,Go
+https://github.com/MarcelRaschke/---/pull/9,[WIP] Fix ticket system for GitHub integration,2026-06-28T23:55:03Z,2026-06-28T23:55:32Z,0,False,Shell
+https://github.com/tioperfumes07/IH35-TMS/pull/20773,Claude-1-acc49-outbox: DONE line,2026-09-05T23:31:38Z,2026-09-05T23:31:44Z,0,False,TypeScript
+https://github.com/lucas-link-code/llm-threatintel.github.io/pull/12,feat(validate): hard-fail on IOCs that name legitimate AI vendor platforms,2026-05-19T22:01:39Z,2026-05-20T06:09:55Z,0,False,HTML
+https://github.com/TylerFlores1992/Claude-Speak/pull/26,"Share a session with claude.ai, make the model chip real, and unstick the watch button",2026-08-19T19:27:13Z,2026-08-19T19:27:23Z,0,False,Swift
+https://github.com/GGBOND-MAN/DD-BS/pull/17,Extract actual_focus into its own file so both probes can call it,2026-08-22T01:24:49Z,2026-08-22T01:24:59Z,0,False,MATLAB
+https://github.com/InfinityBowman/corates/pull/658,Scope the e2e assign-reviewers dialog by name,2026-09-06T01:11:13Z,2026-09-06T01:13:34Z,3,False,TypeScript
+https://github.com/roiguri/jarvis-agent/pull/103,Context 1b: one owner conversation across channels,2026-08-25T08:37:19Z,2026-08-25T12:28:05Z,0,False,Python
+https://github.com/Municipality-of-Rotterdam/verbonden/pull/74,Ignore local .mcp.json (JetBrains IDE plugin config),2026-08-24T14:50:17Z,2026-08-24T14:50:33Z,1,False,Java
+https://github.com/krosoft-dev/krosoft-packages-react/pull/153,Refactor Storybook workflow to use reusable GitHub Actions,2026-08-21T19:55:29Z,2026-08-21T20:14:30Z,0,False,TypeScript
+https://github.com/VenzDev/ProductCenter/pull/5,Add MCP create-product tool over a shared CreateProduct action,2026-08-31T20:10:59Z,2026-08-31T20:15:11Z,0,False,PHP
+https://github.com/brandon-fryslie/slopspot-paste/pull/96,"Source-origin label: derive host from the URL, not a hardcoded 'claude.ai' (slopspot-provider-lvc)",2026-07-09T14:39:38Z,2026-07-09T14:52:28Z,0,False,TypeScript
+https://github.com/capad-xyz/searchts/pull/41,feat(unlocker): extract complete conversations from AI-chat share links,2026-07-20T10:10:15Z,2026-07-20T13:11:09Z,2,False,Python
+https://github.com/cake-robot/cream_cheese/pull/7,Show date in feed timestamps when not today,2026-09-03T03:36:11Z,2026-09-03T03:36:19Z,0,False,Python
+https://github.com/qualiaMachine/RunAI_apps/pull/173,docs: correct stale claims left by the 1Password rework,2026-09-04T16:06:38Z,2026-09-04T16:06:48Z,2,False,Python
+https://github.com/mykytaabramenko/quibble/pull/3,Release 0.2.0 — ChatGPT & Claude support,2026-06-14T18:23:04Z,2026-06-30T12:15:34Z,0,False,TypeScript
+https://github.com/ByteApps/prime-graffito/pull/40,README: shelved until QuantumLink opens to third-party developers,2026-09-03T03:14:06Z,2026-09-03T03:14:14Z,1,False,Rust
+https://github.com/trick77/loom/pull/570,fix(compose): default BACKEND_OIDC_POST_LOGOUT_REDIRECT_URL to empty,2026-08-23T09:55:13Z,2026-08-23T09:58:24Z,1,False,Go
+https://github.com/omartakrouri01/LittleDreamerV0/pull/4,Ignore .claude/settings.local.json,2026-08-08T16:00:48Z,2026-08-08T16:00:58Z,0,False,TypeScript
+https://github.com/m-scorza/poker/pull/211,feat(design): sync shared components to claude.ai/design + token scoping & PokerCard fixes,2026-07-20T02:56:05Z,2026-07-22T01:19:44Z,0,False,TypeScript
+https://github.com/trick77/music/pull/276,fix(compose): default BACKEND_OIDC_POST_LOGOUT_REDIRECT_URL to empty,2026-08-23T09:55:15Z,2026-08-23T09:58:27Z,0,False,TypeScript
+https://github.com/kwaabs/ea-bknd-3/pull/34,"Fix clicking ""Unknown"" region/district row filtering nothing",2026-09-03T17:39:42Z,2026-09-03T17:40:58Z,0,False,Go
+https://github.com/masudrana175/stockbuddy/pull/73,Apply score gradient colors to Aktie des Tages metric bars,2026-08-19T10:39:02Z,2026-08-19T10:42:51Z,0,False,HTML
+https://github.com/qgis-deployment/qgis-deployment-toolbelt-cli/pull/868,fix(docs): pin sphinx-argparse to <0.6.0 and use Python 3.12 to fix documentation build,2026-07-27T12:37:41Z,2026-07-28T02:42:46Z,28,False,Python
+https://github.com/anandarajRepo/WebScrap/pull/31,Move watchlist.json to shared resources directory,2026-08-30T17:56:26Z,2026-08-30T17:56:40Z,0,False,Python
+https://github.com/trick77/peeq/pull/387,fix(compose): default BACKEND_OIDC_POST_LOGOUT_REDIRECT_URL to empty,2026-08-23T09:55:17Z,2026-08-23T09:59:48Z,0,False,Go
+https://github.com/Deodat-Lawson/LaunchStack/pull/369,feat(artifacts): import and manage Claude artifacts in the workspace,2026-08-30T19:26:22Z,2026-08-30T19:45:51Z,886,False,TypeScript
+https://github.com/nubbymong/claude-command-center/pull/268,fix(dev): ccc --clean must not launch against a half-wiped data dir (#264),2026-08-14T19:47:24Z,2026-08-14T19:55:14Z,45,False,TypeScript
+https://github.com/wfco223/Liquidity-rewards/pull/134,Deploy: bonds earnings line,2026-09-03T03:09:27Z,2026-09-03T03:09:32Z,0,False,Python
+https://github.com/mixpanel/ai-plugins/pull/33,New skill: monitor-metrics,2026-07-03T05:27:03Z,2026-07-17T17:41:58Z,15,False,Python
+https://github.com/anfragment/skills/pull/1,Add the initial version of the system design skill,2026-06-19T21:17:31Z,2026-06-26T19:37:59Z,0,False,
+https://github.com/Izayata/reference-spring-boot-api/pull/12,Fill in missing fields on the domain-model ERD,2026-08-01T11:58:19Z,2026-08-01T12:04:42Z,0,False,Java
+https://github.com/VoidcallerOC/life-tracker/pull/2,Sync main: token-gated admin/summary API routes,2026-09-05T13:21:18Z,2026-09-05T13:21:24Z,0,False,TypeScript
+https://github.com/bk201chayanon-dotcom/Tuytim/pull/1,Add CVS pathology OSPE flashcard app,2026-09-02T15:27:17Z,2026-09-02T15:27:31Z,0,False,HTML
+https://github.com/jamesthemullet/londonlist/pull/352,Add product-roadmap skill and initial ROADMAP.md,2026-09-02T14:12:03Z,2026-09-02T17:07:37Z,0,False,TypeScript
+https://github.com/needsmorergb/charlie-protocol-site/pull/18,distribute: the payout floor is a dispatch input,2026-09-06T02:49:56Z,2026-09-06T02:50:08Z,0,False,Python
+https://github.com/stawilabs/chat/pull/24,chore: remove timescale hypertable setup,2026-08-31T16:59:24Z,2026-08-31T18:47:51Z,0,False,Dart
+https://github.com/michaelbrowk/brain/pull/21,docs(release): notes for 0.9.5,2026-09-05T15:46:26Z,2026-09-05T15:47:29Z,3,False,TypeScript
+https://github.com/recodelabs/icr/pull/64,site: why-campaigns-first cards rewrite,2026-09-02T18:39:59Z,2026-09-02T18:40:02Z,0,False,GLSL
+https://github.com/erandaweligala/cdr-service/pull/20,Create custom deserializer for AccountingEvent Kafka messages,2026-09-05T16:31:54Z,2026-09-05T16:32:53Z,0,False,Java
+https://github.com/dp-web4/web4/pull/812,chore: ignore .wt/ worktrees,2026-09-02T04:52:18Z,2026-09-02T04:52:21Z,12,False,Python
+https://github.com/tk0miya/roadside_station_maps/pull/428,Add existing stations backdrop layer to plan map,2026-09-06T04:24:08Z,2026-09-06T04:37:40Z,1,False,TypeScript
+https://github.com/lalitac19/lalita-ayush/pull/10,"Move WhatsApp contact cards into the ""Whom should I call"" FAQ answer",2026-08-08T18:09:32Z,2026-08-08T18:09:37Z,0,False,TypeScript
+https://github.com/e-dream-ai/frontend/pull/636,Update prompt for Abstract action preset (to stage),2026-06-03T20:26:54Z,2026-06-03T20:42:55Z,1,False,TypeScript
+https://github.com/su-record/vibe/pull/113,4.0.4: one description everywhere,2026-09-04T00:05:54Z,2026-09-04T00:16:02Z,0,False,TypeScript
+https://github.com/GitUpSer/squire/pull/3,web: trim title/og:description for share-card limits,2026-08-29T21:02:39Z,2026-08-29T21:02:44Z,0,False,Python
+https://github.com/lobehub/lobe-ui/pull/642,💄 style(text): make shiny text color overridable via --shiny-color,2026-09-07T18:10:57Z,2026-09-07T18:14:40Z,2171,False,TypeScript
+https://github.com/mhuggins102-sudo/pokergrid-web/pull/352,Trading Post joins the daily rotation,2026-09-06T23:45:01Z,2026-09-06T23:45:09Z,0,False,TypeScript
+https://github.com/snuedev/keeper-extension/pull/1,docs: add implementation plan for Keeper v1,2026-08-19T17:57:07Z,2026-08-19T17:57:43Z,0,False,JavaScript
+https://github.com/armuss/armus/pull/97,Extend the goal quiz with 5 more universal steps,2026-09-06T23:11:56Z,2026-09-06T23:12:34Z,0,False,HTML
+https://github.com/matteofuzz/monk/pull/42,Reorganize lib/monk error classes by subsystem,2026-09-07T21:08:20Z,2026-09-07T21:08:54Z,1,False,Ruby
+https://github.com/erock97/tru-pulse/pull/132,Two personal admin accounts; shared admin@ login retired from the seed,2026-09-02T16:30:34Z,2026-09-02T16:50:03Z,0,False,TypeScript
+https://github.com/mixpanel/ai-plugins/pull/27,new skill: manage-boards,2026-06-09T17:10:41Z,2026-07-20T18:05:44Z,15,False,Python
+https://github.com/wadiz-jooyoul-lee/mentis-dashboard-v2/pull/12,feat: 오더 상세에 아티팩트 탭(구현 내용 HTML + claude.ai 공개 링크),2026-07-22T02:15:56Z,2026-07-22T02:16:31Z,0,False,TypeScript
+https://github.com/DipenBambhaniya/ICT-Class-2/pull/1,Fix quiz answer guessability by shuffling option order per question,2026-09-07T05:04:08Z,2026-09-07T05:08:19Z,0,False,HTML
+https://github.com/gengwg/agentlens/pull/41,Stop shipping stale dashboard bundles,2026-09-06T23:14:33Z,2026-09-06T23:15:07Z,1,False,TypeScript
+https://github.com/christhomas/rust-fs-ntfs/pull/117,Release v0.3.5,2026-09-04T06:07:11Z,2026-09-04T08:30:29Z,3,False,Rust
+https://github.com/MattBannVan/me/pull/1,Create Material 3 “Matt chats with AI” page with sortable links and secure inline previews,2026-06-27T22:44:23Z,2026-06-27T22:47:30Z,0,False,JavaScript
+https://github.com/quaternionmedia/qm/pull/94,"Add a leak check, and redact a transcript's provenance header",2026-08-23T15:39:09Z,2026-08-23T16:11:54Z,2,False,Python
+https://github.com/fhoffa/geotab-vibe-guide/pull/115,"MotherDuck skill: link public field test, and implement its follow-ups",2026-07-10T15:54:46Z,2026-07-10T16:12:23Z,46,False,HTML
+https://github.com/Pri1s/ChatNote/pull/4,S2-001/S2-002: OpenRouter extractor + one-shot run command,2026-07-09T19:39:12Z,2026-07-09T19:40:37Z,0,False,Python
+https://github.com/incendiary/RubricAI/pull/122,chore: release v1.7.0 — GitHub Advisory as primary source,2026-06-22T00:34:01Z,2026-06-22T01:17:21Z,0,False,Python
+https://github.com/Crashman1983/dev-process/pull/56,"docs: certificates are keyed by what they certify, never a single slot (v2.9.2)",2026-09-07T11:19:25Z,2026-09-07T11:19:33Z,0,False,Python
+https://github.com/olimpiadi-informatica/pixie/pull/135,Fix HostsConfig doc comment: row/column octet order was swapped,2026-09-04T16:41:08Z,2026-09-04T16:49:00Z,10,False,Rust
+https://github.com/TimurSalakhetdinov/TimurSalakhetdinov.github.io/pull/29,Align the P-003 and P-002 blurbs with the team project convention,2026-08-30T08:21:12Z,2026-08-30T08:21:18Z,0,False,HTML
+https://github.com/ned4417/grubguide/pull/17,"Remove ""Find a table"" reservation link",2026-08-28T00:21:47Z,2026-08-28T00:22:02Z,0,False,TypeScript
+https://github.com/sameeeeeeep/switchboard/pull/148,feat(sidekick): tool pre-flight — agentic turns route only where the app's tools can run (codex-parity slice 2),2026-09-07T15:12:18Z,2026-09-07T15:14:59Z,1,False,Swift
+https://github.com/DominicStewart/shopscout/pull/10,Refactor: bot and web quality review findings,2026-08-22T13:34:26Z,2026-08-22T13:34:28Z,0,False,Python
+https://github.com/needsmorergb/charlie-protocol-site/pull/8,distribute: the configured key is parsed and its wallet named on every run,2026-09-05T14:36:21Z,2026-09-05T14:37:24Z,0,False,Python
+https://github.com/pru-lilylau/home-tool/pull/17,Add baby-recipes favicon from uploaded artwork,2026-08-04T05:45:15Z,2026-08-04T05:45:22Z,0,False,HTML
+https://github.com/andrewtheguy/libvpx-prebuilt/pull/2,Revert the Coffee Lake floor for linux-x86_64 scalar code,2026-09-02T16:53:39Z,2026-09-02T16:53:42Z,0,False,Rust
+https://github.com/backnotprop/product-engineering/pull/24,brand: router card,2026-08-26T02:56:19Z,2026-08-26T02:56:52Z,9,False,HTML
+https://github.com/DanielMilstein/auto-print/pull/1,Document why only Postgres is in docker compose,2026-08-22T00:27:17Z,2026-08-22T00:27:30Z,0,False,TypeScript
+https://github.com/mfillbrunn/UnknownMediocreTutorial/pull/91,"Polish competitive UI: reward toolbar, rarity cards, waiting wave, su…",2026-08-23T00:59:25Z,2026-08-23T00:59:38Z,0,False,JavaScript
+https://github.com/Greenbaum-Lab/mhc-fst/pull/17,Switch Manhattan plot from score to FST visualization,2026-08-27T10:21:45Z,2026-08-27T10:21:56Z,0,False,Python
+https://github.com/aihridoy/moviedb/pull/16,feat: favorites nav count + persistent hearts,2026-07-23T20:41:35Z,2026-07-23T20:42:48Z,0,False,JavaScript
+https://github.com/daniel-gomez-cano/d3-event-service/pull/2,Archivos basicos del microservicio,2026-05-03T20:26:49Z,2026-05-10T22:56:14Z,0,False,Java
+https://github.com/Dedication86/zoo-quest/pull/1,M1: content backbone,2026-09-04T05:34:12Z,2026-09-04T05:34:51Z,0,False,Python
+https://github.com/davidrunger/david_runger/pull/8763,[loki] Add config file to limit Loki's own internal logs,2026-05-23T05:54:50Z,2026-05-23T05:58:46Z,1,False,Ruby
+https://github.com/motionimagingjp/motionimaging/pull/9,Rebrand night slot tweets from tips-based to Jake's personal experience,2026-09-05T23:55:50Z,2026-09-06T00:06:09Z,1,False,JavaScript
+https://github.com/pragmastudi0/flow-finance/pull/5,fix: use file:// URLs for _shared imports in edge functions,2026-08-03T18:57:32Z,2026-08-03T18:57:41Z,0,False,TypeScript
+https://github.com/syamaner/roastpilot-agent/pull/415,chore(design-sync): sync shared web components to claude.ai/design,2026-06-28T18:22:16Z,2026-06-28T18:26:27Z,2,False,Python
+https://github.com/philoserf/t5/pull/56,Shorten the characteristics line to the UPP,2026-07-13T00:30:45Z,2026-07-13T00:31:06Z,0,False,Go
+https://github.com/a-mcf/k3s-gitops/pull/1585,retrosync: fix saves PV path,2026-07-06T16:39:29Z,2026-07-06T16:39:32Z,1,False,Python
+https://github.com/afeather07/recovery-together/pull/6,Make never-sold/traded email promise explicit everywhere,2026-09-04T20:15:00Z,2026-09-04T20:15:05Z,0,False,TypeScript
+https://github.com/NimoRotem/Claude_tmux_manager/pull/27,Disable claude.ai account connectors in team sessions,2026-06-29T20:19:09Z,2026-06-29T20:19:12Z,0,False,Python
+https://github.com/hachej/boring-ui/pull/1522,[Factory Plugin] epic request: extract the host runtime into plugins/boring-factory,2026-09-04T08:54:33Z,2026-09-04T19:36:28Z,46,False,TypeScript
+https://github.com/parkerous/first-test-2021/pull/88,Point wrangler.toml at the real SOAI KV namespace,2026-08-29T03:50:30Z,2026-08-29T03:50:35Z,0,False,JavaScript
+https://github.com/pragmastudi0/flow-finance/pull/6,fix: use deno import maps for _shared modules,2026-08-03T18:59:47Z,2026-08-03T18:59:54Z,0,False,TypeScript
+https://github.com/Mark-NYC/multiplying-disciples/pull/209,Add Watch videos to Three Thirds and How to Share the Gospel at Work,2026-08-04T20:56:26Z,2026-08-04T20:56:35Z,0,False,MDX
+https://github.com/play198x/play198x.github.io/pull/16,Stop the wordmark being a link just to have a name,2026-08-28T11:00:28Z,2026-08-28T11:01:46Z,0,False,TypeScript
+https://github.com/missionaurelia/mission-aurelia-website/pull/13,Add Substack to footer and contact social links,2026-07-24T20:26:09Z,2026-07-24T20:34:33Z,0,False,HTML
+https://github.com/gabepsilva/Fit_/pull/91,docs: every agent works in its own worktree,2026-09-04T19:19:53Z,2026-09-04T19:30:24Z,0,False,TypeScript
+https://github.com/zevallos-fg/family-coordinator/pull/14,test: scope the baby share sheet's Done button,2026-09-06T20:50:24Z,2026-09-06T20:50:39Z,0,False,TypeScript
+https://github.com/wfco223/Liquidity-rewards/pull/174,Deploy: buy-more order steps back to a cheaper 30% slot,2026-09-03T20:04:24Z,2026-09-03T20:04:32Z,0,False,Python
+https://github.com/cpolito17/portfolio2/pull/4,Update page titles and meta descriptions across all variants,2026-08-31T19:52:13Z,2026-08-31T19:52:25Z,0,False,JavaScript
+https://github.com/radiusred/www/pull/58,chore: point codecrew at the radiusred/ops hub,2026-09-02T21:19:38Z,2026-09-02T21:20:36Z,0,False,Python
+https://github.com/Judylai0612/travelplanerrr/pull/6,Split share-tab copy actions into code and link buttons,2026-09-03T14:25:46Z,2026-09-03T14:27:17Z,0,False,HTML
+https://github.com/latina0202/latina0202.github.io/pull/3,"Refactor to vanilla JS, add SEO meta tags, and update project content",2026-08-20T16:19:27Z,2026-08-20T16:21:52Z,0,False,HTML
+https://github.com/cliptown/cliptown-infra/pull/12,feat(infra): db-providers + supabase/neon scaffolds,2026-09-05T13:40:40Z,2026-09-06T01:56:50Z,0,False,JavaScript
+https://github.com/pixelme1369/Ytel_Daily_Monitor_ADP/pull/203,Flag timeout calls with no callback in the Timeouts > 1 Min modal,2026-09-07T19:10:18Z,2026-09-07T19:10:29Z,0,False,HTML
+https://github.com/aifedespaix/hots-stats/pull/80,Implement global game mode filter in header,2026-08-15T09:45:00Z,2026-08-15T09:45:35Z,1,False,Python
+https://github.com/MatthewBrockmann/atlasglinn-website/pull/41,"About: no photograph for J. Reneé Renobato, her bio takes the row",2026-09-06T04:20:09Z,2026-09-06T04:20:21Z,0,False,HTML
+https://github.com/aihridoy/firm-fresh/pull/50,Server-render the hero stats instead of fetching them in the browser,2026-09-04T10:08:05Z,2026-09-04T10:22:26Z,0,False,TypeScript
+https://github.com/happy-wakey/happy-wakey-infra/pull/7,feat(infra): db-providers + supabase/neon scaffolds,2026-09-05T13:41:19Z,2026-09-05T18:26:51Z,0,False,JavaScript
+https://github.com/sourcehaven-bv/quarterdeck/pull/1,ci: require session-trailer check on PRs,2026-09-04T05:39:12Z,2026-09-04T07:57:52Z,0,False,Go
+https://github.com/vivekmurugesan/lang-assessment/pull/70,fix: resolve remaining assessment workflow issues,2026-08-29T06:49:51Z,2026-08-29T06:50:09Z,0,False,Java
+https://github.com/bowo-prasetyo/forkbuild/pull/571,Add Selected Snapshot Materialization (0.9.158),2026-09-05T07:01:45Z,2026-09-05T07:02:18Z,0,False,JavaScript
+https://github.com/ochanuco/comfyui-recipes/pull/58,Finalize a layerdiffuse base as compose-then-redraw,2026-09-06T15:49:42Z,2026-09-06T15:49:51Z,0,False,Python
+https://github.com/anticaptrad/act-infra/pull/8,feat(infra): db-providers + supabase/neon scaffolds,2026-09-05T13:39:18Z,2026-09-05T16:58:06Z,0,False,Just
+https://github.com/Joielectric/LitFriends/pull/88,Feedback capture + analytics portal (CSV/JSON export),2026-08-08T14:41:17Z,2026-08-08T14:41:23Z,0,False,HTML
+https://github.com/radiusred/.github/pull/34,chore: point codecrew at the radiusred/ops hub,2026-09-02T21:20:13Z,2026-09-02T21:20:46Z,0,False,
+https://github.com/nlqdb/nlqdb/pull/988,Add Open Graph image tags to docs site,2026-08-14T10:19:36Z,2026-08-14T12:32:42Z,1,False,TypeScript
+https://github.com/tyranasaurus/abhauditwedding-website/pull/1,🗺️ Add an interactive venue map page,2026-06-20T18:41:59Z,2026-06-26T16:08:57Z,0,False,TypeScript
+https://github.com/palermostest25/Ejectify-Den/pull/4,Optionally sleep after a dock or display disconnect,2026-09-04T12:27:43Z,2026-09-04T12:27:55Z,1,True,Swift
+https://github.com/sourcehaven-bv/scupper/pull/6,ci: require session-trailer check on PRs,2026-09-04T05:39:24Z,2026-09-04T09:13:48Z,0,False,Go
+https://github.com/sourcehaven-bv/commentlint/pull/1,ci: require session-trailer check on PRs,2026-09-04T05:39:32Z,2026-09-04T07:58:25Z,0,False,Go
+https://github.com/ejc3/node-monorepo-perf/pull/15,Add high-resolution PNG render of the tool-comparison chart,2026-06-29T07:28:45Z,2026-06-29T07:28:47Z,0,False,JavaScript
+https://github.com/Jobaben/Argus/pull/12,"feat: the Chronicle — cross-source swimlane timeline of runs, agents, and sessions",2026-07-09T20:58:39Z,2026-07-09T21:01:55Z,1,False,TypeScript
+https://github.com/davidrunger/david_runger/pull/8764,"[loki] Configure log level (warn) via command, not config file",2026-05-23T06:20:26Z,2026-05-23T06:23:52Z,1,False,Ruby
+https://github.com/sourcehaven-bv/neoq/pull/1,ci: require session-trailer check on PRs,2026-09-04T05:39:34Z,2026-09-04T07:58:29Z,0,True,Go
+https://github.com/annanetra37/CCredit/pull/7,Language switcher on every page; colorful in-portal user manual at /m…,2026-08-10T06:30:38Z,2026-08-10T06:31:03Z,0,False,TypeScript
+https://github.com/sourcehaven-bv/plimsoll/pull/5,ci: require session-trailer check on PRs,2026-09-04T05:39:22Z,2026-09-04T09:11:55Z,0,False,Go
+https://github.com/sourcehaven-bv/rela/pull/1517,ci: require session-trailer check on PRs,2026-09-04T05:39:15Z,2026-09-04T17:03:25Z,0,False,Go
+https://github.com/bitbaum/fleetcrown/pull/461,"fix(deploy): the .nvmrc fallback tracks the box, not history",2026-09-02T15:37:10Z,2026-09-02T15:40:42Z,1,False,TypeScript
+https://github.com/mixpanel/ai-plugins/pull/29,new skill: analyze-report,2026-06-09T17:53:01Z,2026-07-17T17:41:07Z,15,False,Python
+https://github.com/f7sbtpgt8g-ai/Karting/pull/3,"Add login, driver selection, and offline upload queue to unigo_sync",2026-09-05T19:45:35Z,2026-09-05T19:47:32Z,0,False,Python
+https://github.com/faceariec-dev/Dp/pull/1,Remove payroll service mentions from site content and SEO metadata,2026-08-28T13:48:35Z,2026-08-30T11:02:21Z,0,False,JavaScript
+https://github.com/ALeonard9/druthers-web/pull/16,"Top 5 share cards: canvas renderer, share modal, page integrations",2026-07-18T13:59:42Z,2026-07-18T14:28:22Z,0,False,TypeScript
+https://github.com/tkunst/better-arbor-hills/pull/2,chore: tidy retired thermal-map (drop orphaned assets) + fix CLAUDE.md,2026-09-01T04:20:52Z,2026-09-01T04:20:55Z,0,False,HTML
+https://github.com/CropWatchDevelopment/website/pull/44,technology: new double-sensor check flow diagram (from Claude Design),2026-07-20T04:33:50Z,2026-07-20T12:40:52Z,1,False,Svelte
+https://github.com/brandon-fryslie/slopspot-paste/pull/52,firecrawl: wait for SPA hydration selector before scraping,2026-06-15T14:33:21Z,2026-06-15T14:54:35Z,0,False,TypeScript
+https://github.com/bwl8772/aadm-website/pull/32,Member: Bearer token guide + OAuth-only Connectors tab,2026-08-17T15:44:24Z,2026-08-17T15:44:30Z,0,False,Astro
+https://github.com/Oleksii-An-jpg/spadok/pull/3,Refactor items and members list to use server-side pagination,2026-09-04T19:16:00Z,2026-09-04T19:42:52Z,0,False,TypeScript
+https://github.com/easonop123/study-feed/pull/2,Move to studyfeed.app,2026-08-09T03:00:18Z,2026-08-09T03:00:25Z,0,False,JavaScript
+https://github.com/Mena-E/skoolmotion-website/pull/12,partners: drop the revenue-share percentage; lead with per-ride payouts in dollars,2026-09-04T07:53:46Z,2026-09-04T07:54:32Z,0,False,HTML
+https://github.com/zrcoderre-ux/Claude/pull/204,The bookmark button stops hunting the header and lives in the upper left,2026-08-18T16:39:31Z,2026-08-18T16:39:43Z,0,False,JavaScript
+https://github.com/Breezyslasher/MangaBrain/pull/24,fix: keep account sync buttons inside the panel,2026-08-14T15:24:51Z,2026-08-14T15:25:05Z,0,False,Python
+https://github.com/tteon/seocho/pull/612,docs(adr): ADR-0218 the agentic-RAG bottleneck is LLM round-trips,2026-08-17T12:29:09Z,2026-08-17T12:30:07Z,58,False,Python
+https://github.com/needsmorergb/charlie-protocol-site/pull/6,"HANDOFF.md: what this repository holds, and where the full handoff is",2026-09-05T13:54:38Z,2026-09-05T13:54:57Z,0,False,Python
+https://github.com/badpad93/Lead-generator/pull/690,Dashboard: signed-in product journey below the tiles for scroll depth,2026-09-03T02:14:50Z,2026-09-03T02:14:57Z,0,False,TypeScript
+https://github.com/starlake-ai/starflow/pull/1741,fix: escape SQL string literals consistently in audit and expectations sinks,2026-09-05T08:26:57Z,2026-09-05T16:20:39Z,213,False,Scala
+https://github.com/OpenSID/rilis-premium/pull/18,Add released and prereleased triggers to deployment workflow,2026-05-20T04:08:21Z,2026-05-20T04:16:50Z,31,False,PHP
+https://github.com/stephen99-dot/aiqs-portal/pull/319,"Super Brain phase 2: the chat cites the sibling app's knowledge, advi…",2026-08-16T13:22:48Z,2026-08-16T13:22:56Z,0,False,JavaScript
+https://github.com/davidrunger/vue_rails_model_explorer/pull/402,Verify we are logged into npm before releasing,2026-05-16T13:48:16Z,2026-05-16T13:48:49Z,2,False,TypeScript
+https://github.com/Ashley4734/Bliss-Fox/pull/14,Add Book of Shadows post-purchase download page,2026-08-09T17:53:28Z,2026-08-09T17:53:35Z,0,False,HTML
+https://github.com/SABI9666/Laxora-billing-frontend/pull/71,"Share bills and statements on WhatsApp, by link, or as PDF",2026-09-03T17:05:15Z,2026-09-03T17:05:25Z,0,False,TypeScript
+https://github.com/felix-howard/ella/pull/249,Release: add Cash Plan folder to SHARED TO CLIENT structure,2026-08-25T15:33:37Z,2026-08-25T15:54:04Z,0,False,TypeScript
+https://github.com/chmonitor/chmonitor/pull/2599,chore(tooling): add CommandCode taste file,2026-07-11T15:07:01Z,2026-07-11T15:08:27Z,287,False,TypeScript
+https://github.com/rikadr/TennisTable-deno-kv/pull/178,Use URL as source of truth for PvP player selection,2026-08-18T08:01:09Z,2026-08-18T08:01:24Z,1,False,HTML
+https://github.com/Performant-Labs/holler-server/pull/300,Add docs/releasing.md,2026-09-07T13:08:38Z,2026-09-07T13:16:57Z,0,False,Rust
+https://github.com/OneVVish/StudentLoanROI/pull/270,Internal links carry the visitor's scenario,2026-09-07T03:44:01Z,2026-09-07T03:47:19Z,0,False,Python
+https://github.com/NVIDIA/stdexec/pull/2138,Create a stdexec module,2026-07-24T17:10:49Z,2026-07-27T17:52:09Z,2428,False,C++
+https://github.com/Mohamed-20004/hh-plumbing-gas/pull/17,Pulsing live dot on the emergency banner,2026-08-23T12:14:38Z,2026-08-23T19:24:19Z,0,False,TypeScript
+https://github.com/CR4SH3UR/JobCCQ/pull/160,Ajoute les scrapers CD Peintre et Cas par Cas,2026-09-05T17:28:55Z,2026-09-05T17:34:31Z,0,False,TypeScript
+https://github.com/acouprie/quote_system/pull/27,:memo: anonymize documentation for portfolio use,2026-09-01T11:03:43Z,2026-09-01T11:05:15Z,0,False,Ruby
+https://github.com/kontourai/station/pull/1477,fix(ci): surface the failing shard's FAIL line as the full-regression causal excerpt,2026-09-04T19:38:48Z,2026-09-05T00:23:18Z,2,False,TypeScript
+https://github.com/btownbrief/btownbrief.github.io/pull/36,Leaderboards: link the newest games (Skate + Yeet),2026-08-27T20:47:17Z,2026-08-27T20:47:23Z,0,False,JavaScript
+https://github.com/Tzeusy/syzygy/pull/10,feat: ingest a real test artifact and render Verified [syzygy-0r9],2026-08-30T07:48:35Z,2026-08-30T07:53:05Z,0,False,TypeScript
+https://github.com/skydiscover-ai/skydiscover-ai.github.io/pull/2,Publish blog: Building Specialized Systems that We Can Trust with Agents,2026-09-03T07:35:05Z,2026-09-03T07:35:16Z,1,False,HTML
+https://github.com/Abhay5474/NexusFlow/pull/2,docs: add full technical defense report (nexusflow-report.html),2026-07-13T13:47:07Z,2026-07-13T13:47:18Z,0,False,Java
+https://github.com/trick77/loom/pull/378,"Shared-thread pill; drop thinking logo, header tool-count, share-button border",2026-06-28T09:33:57Z,2026-06-28T09:35:13Z,1,False,Go
+https://github.com/AmitDas-Flowv/amit-das-portfolio/pull/3,"Redesign work cards: still on top, text below",2026-09-02T11:46:05Z,2026-09-02T11:46:18Z,0,False,Python
+https://github.com/brandon-fryslie/slopspot-paste/pull/39,Editor preview: apply derived platform theme (x1o.1),2026-06-12T08:47:25Z,2026-06-12T08:49:43Z,0,False,TypeScript
+https://github.com/holdestmade/Unifi-WAN/pull/53,Add unredacted raw data dumps for local inspection,2026-08-11T14:37:06Z,2026-08-11T14:37:42Z,34,False,Python
+https://github.com/minemikki/staymotion/pull/31,Premium HTML email template for order emails,2026-09-04T20:34:07Z,2026-09-04T20:34:13Z,0,False,HTML
+https://github.com/onnxsim/onnxsim/pull/644,Add benchmark results for issue #633 follow-up analysis,2026-08-19T02:45:32Z,2026-08-19T09:58:11Z,4396,False,Python
+https://github.com/coderoadpl/docu-signer/pull/18,feat: related-document links with CLI pair,2026-08-16T12:24:14Z,2026-08-16T12:28:56Z,0,False,TypeScript
+https://github.com/ShawnGarello/socal-whale-vessel-risk/pull/23,feat(M5): whale display delivery slice,2026-09-06T23:04:53Z,2026-09-06T23:06:16Z,0,False,Python
+https://github.com/harmanjohll/genapp/pull/84,"Remove dead code from the v0.7.0 redesign (v0.7.1, internal only)",2026-08-24T04:11:13Z,2026-08-24T04:11:21Z,0,False,HTML
+https://github.com/evgunter/cad/pull/1882,"work: CURVED and TRIM logs for 2026-09-04 — draws, ratifications, dispatches, the spiric [ev] thread",2026-09-04T23:37:12Z,2026-09-04T23:43:48Z,0,False,Rust
+https://github.com/bronlabs-intents/intents-sdk/pull/9,proxy: enable keep-alive on the proxy agent to reuse CONNECT tunnels,2026-08-26T14:52:00Z,2026-08-26T14:52:12Z,0,False,TypeScript
+https://github.com/cats-inc/cats-platform/pull/58,chore(release): bump desktop version to 0.1.29,2026-09-04T17:15:47Z,2026-09-04T17:23:48Z,0,False,TypeScript
+https://github.com/DoyelG/fulbitoGM/pull/90,feat: pagination hooks for mobile/web and history page pagination,2026-07-20T16:50:02Z,2026-07-24T15:00:07Z,2,False,TypeScript
+https://github.com/sportsbyadrika/association_management/pull/31,Add related members & contributions to events (like gifts),2026-08-09T02:28:19Z,2026-08-09T02:28:39Z,0,False,PHP
+https://github.com/MarineTeam/MarineTeamVideos/pull/22,Add viewer group picker to single-video Share modal,2026-07-29T16:22:59Z,2026-07-29T16:24:02Z,0,False,JavaScript
+https://github.com/needsmorergb/charlie-protocol-site/pull/11,"tools: idl_show, named instructions and types off a program's on-chain IDL",2026-09-05T14:58:25Z,2026-09-05T14:58:32Z,0,False,Python
+https://github.com/michaelrobert9/Match-Pulse-Rugby/pull/67,Nest team URLs under org type; make school page a season-record overview,2026-09-07T06:35:08Z,2026-09-07T06:58:44Z,0,False,JavaScript
+https://github.com/turrican128/my_retro_website/pull/54,feat: home-page share image shows Alex's portrait over the synthwave scene,2026-09-06T19:25:47Z,2026-09-06T19:26:03Z,0,False,CSS
+https://github.com/jasproj/wanderpuertorico/pull/312,fix(leads): point the bio-bay quiz at WPR's own Formspree endpoint,2026-09-03T16:02:50Z,2026-09-03T16:02:53Z,0,False,HTML
+https://github.com/davidrunger/david_runger/pull/8762,[docker-compose/loki] Limit and rotate log files,2026-05-23T05:14:14Z,2026-05-23T05:16:26Z,1,False,Ruby
+https://github.com/Victor-Nyangi/snapcount/pull/19,Add a product handover for a PM session,2026-08-27T06:36:54Z,2026-09-02T04:16:45Z,0,False,TypeScript
+https://github.com/onewolfmoon/abeam/pull/48,Send explicit stop signal when screen mirroring ends,2026-08-20T16:34:43Z,2026-08-20T21:28:23Z,0,False,Swift
+https://github.com/bmatge/dsfr-data/pull/530,fix(studio): « Effacer » réinitialise aussi le document et l'aperçu,2026-09-01T21:44:19Z,2026-09-01T21:46:28Z,3,False,TypeScript
+https://github.com/canglang-social/agent-kit/pull/20,feat(snippets): session close-out audit step,2026-07-19T08:04:02Z,2026-07-19T08:28:32Z,0,False,Python
+https://github.com/Mark-NYC/multiplying-disciples/pull/127,Add thumbnail image for Biblical Fasting and Prayer article,2026-07-21T16:46:11Z,2026-07-21T16:46:18Z,0,False,MDX
+https://github.com/jasproj/wanderhawaii/pull/291,fix(leads): point the island quiz at WHAW's own Formspree endpoint,2026-09-03T16:02:41Z,2026-09-03T16:02:44Z,0,False,HTML
+https://github.com/jamesthemullet/20TwentyScore/pull/436,Add product-roadmap skill and initial ROADMAP.md,2026-09-02T15:31:12Z,2026-09-02T17:20:15Z,0,False,TypeScript
+https://github.com/zrcoderre-ux/Claude/pull/116,"Save a chat as Markdown, for the next chat to read",2026-08-08T21:09:52Z,2026-08-08T21:09:57Z,0,False,JavaScript
+https://github.com/semmes/DrinkTracker/pull/66,Year in review: a complete year shares its twelve months as bars (ADR-0029) — opens 1.3,2026-09-05T15:26:55Z,2026-09-05T15:37:04Z,0,False,Swift
+https://github.com/DS-X256/fitness-tracker/pull/20,Add share functionality for assistant messages,2026-09-01T18:52:32Z,2026-09-01T18:52:48Z,0,False,TypeScript
+https://github.com/richmosko/mosko-fintech/pull/496,chore(agent-memory): housekeeping 5 — the 238/240/329 round,2026-08-18T16:27:48Z,2026-08-18T16:31:46Z,0,False,PLpgSQL
+https://github.com/davidrunger/david_runger/pull/8719,[gitignore] Add '/app/javascript/node_modules/.vite/vitest/',2026-05-16T19:21:09Z,2026-05-16T19:23:18Z,1,False,Ruby
+https://github.com/akinamanyee/Spending_record/pull/26,Update app icons to edge-to-edge logo and fix OG meta,2026-09-06T03:29:28Z,2026-09-06T03:30:24Z,0,False,TypeScript
+https://github.com/andicoder/vocab/pull/80,feat: add Streamable HTTP transport for MCP server at /mcp,2026-06-05T20:10:33Z,2026-06-06T17:13:12Z,0,False,Python
+https://github.com/davidrunger/david_runger/pull/8720,[RunAnnotate] Ignore any git diff in 'app/javascript/',2026-05-16T19:35:10Z,2026-05-16T19:46:25Z,1,False,Ruby
+https://github.com/webdomainkinderhospitals/admin/pull/11,Doctors can practise at several hospitals,2026-09-04T08:36:54Z,2026-09-04T08:37:12Z,0,False,JavaScript
+https://github.com/stratifyyourgrowth/cgm-dashboard-legal/pull/1,Update privacy policy examples for data sharing,2026-09-06T22:35:54Z,2026-09-06T22:37:51Z,0,False,HTML
+https://github.com/markcipolla/Shelvarr/pull/97,Make read progress per-user for multi-account servers,2026-09-03T11:19:30Z,2026-09-03T11:29:35Z,0,False,TypeScript
+https://github.com/sseshachala/conductai/pull/1638,feat(web): shareable Lens session URLs,2026-09-05T15:51:51Z,2026-09-05T15:59:29Z,32,False,Python
+https://github.com/hirdav/Watermark/pull/1,"Personalize the client gallery with a welcome greeting, studio brandi…",2026-08-02T19:23:33Z,2026-08-02T19:24:00Z,0,False,TypeScript
+https://github.com/frendyardiansyah31/librawatch/pull/1,"command reliability: agent serial worker + job dedup, destructive lea…",2026-09-07T09:32:58Z,2026-09-07T09:33:10Z,0,False,Go
+https://github.com/imranrazabozdar/PSX-INTELLIGENCE-NEW-2026/pull/5,Add workflow_dispatch for PSX FIRE Engine daily batch,2026-09-06T10:20:59Z,2026-09-06T10:21:04Z,0,False,Python
+https://github.com/Mikecranesync/MIRA/pull/3449,"docs: Phase-4 device acceptance evidence (1.0.7, Commodity Phase 3 surfaces)",2026-08-27T22:01:49Z,2026-08-30T17:33:24Z,0,False,Python
+https://github.com/boubnacer/mafqoudat/pull/86,Align mobile Login/SignUp social auth with web,2026-08-09T19:29:35Z,2026-08-09T19:29:48Z,0,False,JavaScript
+https://github.com/techtimo/vdd-rittatlas/pull/2,Use native share API in mobile modal share button,2026-06-06T17:18:51Z,2026-06-06T17:19:30Z,0,False,JavaScript
+https://github.com/andymai/gridfinity-layout-tool/pull/4125,fix(designer): keep the cut editor reachable under an underside lightweight floor,2026-09-06T04:38:03Z,2026-09-06T05:21:43Z,343,False,TypeScript
+https://github.com/sprowtling/playbakemon/pull/1,"Redesign shared header: persistent login via localStorage, plain-text…",2026-08-26T01:24:41Z,2026-08-26T01:25:02Z,0,False,HTML
+https://github.com/joshuawowk/esp32bruce/pull/3,"docs(split-display): ""Divorced Bruce"" assembly guide (HTML + PDF)",2026-08-08T18:08:50Z,2026-08-08T18:09:37Z,0,True,C++
+https://github.com/simonw/datasette/pull/2669,Column actions panel on mobile,2026-03-18T16:00:56Z,2026-03-18T16:04:28Z,11441,False,Python
+https://github.com/budhash/confix/pull/25,"Rewire the web demo onto the library, drop the duplicate core (PR5)",2026-09-06T04:14:27Z,2026-09-06T04:16:00Z,4,False,Shell
+https://github.com/Abernus/Athar/pull/18,Native share on entity and source detail,2026-06-27T20:05:38Z,2026-06-27T20:06:08Z,0,False,TypeScript
+https://github.com/hololocheck/AdvancedSchematicCannon/pull/4,PorjectE非導入環境でさまざまなブロックの採掘速度が遅くなることへの対処,2026-05-10T07:18:29Z,2026-05-15T10:50:47Z,1,False,Java
+https://github.com/GGBOND-MAN/DD-BS/pull/8,Fix unfair sharing baseline; add literal OJ-COMS AoSA arm,2026-08-21T01:12:47Z,2026-08-21T01:12:55Z,0,False,MATLAB
+https://github.com/BaoTNguyen/marrow/pull/2,Stop committing one developer's home directory,2026-09-01T19:59:40Z,2026-09-01T20:04:24Z,0,False,Python
+https://github.com/restora-home/restora.home/pull/29,Improve SEO and social media metadata across all pages,2026-08-04T19:50:52Z,2026-08-04T19:56:08Z,0,False,HTML
+https://github.com/Parshkov/Resonance/pull/156,Evidence: Card B executed from a real Claude custom connector on production,2026-09-04T16:28:27Z,2026-09-04T16:28:39Z,1,False,Python
+https://github.com/Kartik-Singhal26/paperscope/pull/24,Dynamic page titles per view (v1.0.3),2026-07-25T10:00:20Z,2026-07-25T10:00:33Z,0,False,HTML
+https://github.com/trained-assist/trained-assist-agent/pull/160,feat(hh): add manager field to vacancy listings,2026-09-03T03:40:27Z,2026-09-03T03:42:16Z,0,False,JavaScript
+https://github.com/aifedespaix/hots-stats/pull/89,Add game mode filtering to stats and comparison queries,2026-08-15T13:58:10Z,2026-08-15T13:58:20Z,1,False,Python
+https://github.com/Bluechip23/bluechipblockexplorer/pull/53,"Fix USD funding history, add per-wallet trade history, drop dead LP-f…",2026-08-28T01:49:28Z,2026-08-28T01:49:56Z,0,False,TypeScript
+https://github.com/inersphobia/Salvation/pull/28,Add salvation3a/ standalone snapshot with the zooming fractal camera,2026-07-09T03:01:02Z,2026-07-09T03:01:10Z,0,False,HTML
+https://github.com/Build4All-NET/build4all-wholesale-frontend/pull/78,Add Cloudflare Pages deploy tier to wholesale web build,2026-08-21T17:51:54Z,2026-08-21T17:52:06Z,0,False,Dart
+https://github.com/scottxxxxx/ghostpour/pull/786,"share page: playable audio, transcript follows playback",2026-08-24T17:06:30Z,2026-08-24T17:16:11Z,4,False,Python
+https://github.com/kotoba-lang/kotoba-native/pull/106,Renumber the xgetbv ADR to 0041: two streams landed a 0039 the same day,2026-09-02T02:40:37Z,2026-09-02T02:40:39Z,0,False,Clojure
+https://github.com/DevWRG/wrg-os/pull/663,docs(onboarding): brief + pagar tim outsource,2026-07-28T00:55:52Z,2026-07-28T01:00:05Z,0,False,TypeScript
+https://github.com/bozkus24/trpuzzle1/pull/1,Add Bağlantılar Turkish word puzzle game with docs,2026-08-08T00:58:23Z,2026-08-08T01:16:26Z,0,False,HTML
+https://github.com/toudachoice-coder/afim-consulting/pull/28,Add blog article cover images and sector blog links,2026-09-01T00:18:38Z,2026-09-01T00:24:46Z,0,False,HTML
+https://github.com/BaoTNguyen/heart/pull/3,Stop committing one developer's home directory,2026-09-01T19:59:36Z,2026-09-01T20:04:17Z,0,False,Python
+https://github.com/jasproj/floridasandbartours/pull/186,fix(leads): point the boat-day quiz at FST's own Formspree endpoint,2026-09-03T16:02:32Z,2026-09-03T16:02:35Z,0,False,HTML
+https://github.com/LexMarkAI/AILane-website/pull/433,wsux: bell renamed Notifications; sidebar Alerts gains vcn Notificati…,2026-07-15T23:46:06Z,2026-07-15T23:46:12Z,0,False,HTML
+https://github.com/nikita-petrich/homepage/pull/32,Centralize metadata and Open Graph configuration,2026-07-30T14:25:52Z,2026-07-31T04:06:22Z,0,False,TypeScript
+https://github.com/glenneboy/Stash/pull/42,"docs: archive task-reminders brief, introduce profile-sharing brief",2026-09-06T15:27:26Z,2026-09-06T15:27:44Z,1,False,TypeScript
+https://github.com/yokelburg-cloud/testingforwac/pull/1,Fix chart bars and avatar decode; add total watch time to Wrapped,2026-08-03T19:40:18Z,2026-08-03T19:45:08Z,0,True,TypeScript
+https://github.com/ldippo/hokyz/pull/13,"V3-5: feats with rewards, weekly seed runs, records screen, run telemetry",2026-09-05T18:55:04Z,2026-09-05T18:55:09Z,0,False,TypeScript
+https://github.com/sprimault/cohue/pull/89,"feat(game): les gemmes s'effacent, et leur âge se lit",2026-09-02T10:49:34Z,2026-09-02T10:58:52Z,0,False,Go
+https://github.com/sabbour/agentweaver/pull/1176,fix(auth): preserve shared static OAuth callbacks,2026-09-04T08:05:00Z,2026-09-04T08:14:25Z,5,False,C#
+https://github.com/saibighnesh/Carrier/pull/308,fix: extract shared isStale() helper for autoFit/refresh guards,2026-09-05T22:20:12Z,2026-09-05T22:20:55Z,0,False,HTML
+https://github.com/Carlospromo/PublicSpendingSpain./pull/15,chore(ide): add PyCharm run configurations and __main__ guard,2026-07-17T09:21:13Z,2026-07-17T09:21:35Z,0,False,Python
+https://github.com/andrespty/tornasol/pull/17,Refine WhatsApp sharing placement and permissions,2026-08-26T04:20:22Z,2026-08-26T04:20:34Z,0,False,JavaScript
+https://github.com/davidalpharocai/survey-ops-tracker/pull/49,"feat(connector): survey_stats + survey_report (counts, reports, .xlsx export)",2026-08-04T16:44:51Z,2026-08-04T16:44:53Z,0,False,TypeScript
+https://github.com/SNEAXIII/Mawster/pull/421,refactor: reduce cognitive complexity of WarPlacementResponse flattening,2026-08-25T14:56:17Z,2026-08-25T15:37:06Z,0,False,Python
+https://github.com/aaronjmars/aeon-agent/pull/186,fix(dashboard): keep feed card content inside its box,2026-08-20T18:45:46Z,2026-08-20T18:45:49Z,11,False,JavaScript
+https://github.com/sarrazola/openlivery/pull/48,Loosen the channel page header spacing,2026-09-02T20:02:43Z,2026-09-02T20:16:47Z,41,False,Python
+https://github.com/aaronjmars/aeon-bd/pull/61,fix(dashboard): keep feed card content inside its box,2026-08-20T18:45:54Z,2026-08-20T18:45:57Z,0,False,JavaScript
+https://github.com/BaoTNguyen/arteries/pull/4,Stop committing one developer's home directory,2026-09-01T19:59:38Z,2026-09-01T20:04:20Z,0,False,Python
+https://github.com/razamdaadil01/cityline-isp-platform/pull/582,Make Customer ID/PPPoE ID/App Password cards full-width,2026-08-17T07:19:20Z,2026-08-17T07:19:30Z,0,False,JavaScript
+https://github.com/D1424-da/Expenses/pull/178,SEO: fix heading hierarchy (h4→h3) and add twitter:card to 29 articles,2026-07-23T00:33:49Z,2026-07-23T00:33:58Z,0,False,HTML
+https://github.com/njrini99-code/helmv3/pull/1719,fix(push): deactivate the device token at sign-out,2026-09-01T13:29:50Z,2026-09-02T16:28:39Z,0,False,TypeScript
+https://github.com/kuttykuyy/railway-pvc-system/pull/85,PVC preview honours outside-PVC entries and the Clause 39 amount,2026-09-02T21:02:14Z,2026-09-02T21:02:24Z,0,False,TypeScript
+https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi/pull/149,feat(iam): migrate identity and authorization to Keycloak,2026-09-04T20:42:26Z,2026-09-07T20:50:20Z,164,False,HTML
+https://github.com/jef132/jef132.github.io/pull/31,"SEO improvements: sync metadata with new positioning, add sitemap and robots.txt",2026-08-09T03:17:55Z,2026-08-09T03:25:34Z,0,False,Astro
+https://github.com/badpad93/Lead-generator/pull/691,Site: staggered scroll-reveal animations + chapter-card sectioning,2026-09-03T02:29:11Z,2026-09-03T02:29:19Z,0,False,TypeScript
+https://github.com/dlemosdelira-gif/b1-c1/pull/108,Add 'Open in Chat' button to AI Analysis Bridge,2026-05-26T19:55:04Z,2026-05-26T19:55:11Z,0,False,HTML
+https://github.com/brandon-fryslie/slopspot-paste/pull/23,Scrub AWS pre-signed URL credentials from claude-share fixture (slopspot-claude-share-4pf.2),2026-06-09T22:31:11Z,2026-06-09T22:32:12Z,0,False,TypeScript
+https://github.com/petwashglobal/petwash-marketplace/pull/1781,fix(privacy): /api/access-requests/mine — hide decidedBy + approvalScope (PR-ACCESS-REQUESTS-MINE-PROJECTION),2026-08-15T15:30:07Z,2026-08-18T19:12:03Z,1,False,TypeScript
+https://github.com/learning-with-court/workshop-template/pull/66,promote: base-v20,2026-07-30T05:13:17Z,2026-07-30T05:14:25Z,0,False,TypeScript
+https://github.com/GreyVersusBlue/tools-and-games/pull/180,"BACKLOG: Fourth Quarter Phase 6 closed (#179), 107 to 106 ranked items",2026-09-08T00:54:01Z,2026-09-08T00:54:48Z,0,False,JavaScript
+https://github.com/brandon-fryslie/rad-plugins/pull/26,rad-p10k: truncate long branch names in the command footer,2026-08-01T21:39:41Z,2026-08-01T21:44:54Z,3,False,Shell
+https://github.com/ybdn/T41-Assistant-Pro/pull/13,feat: Add BONNETEAU game to the arcade easter egg,2026-08-13T07:55:45Z,2026-08-13T07:55:53Z,1,False,JavaScript
+https://github.com/voilelab/plainshelf/pull/310,docs: explain why pCloud key should not be bundled,2026-08-11T13:25:56Z,2026-08-11T13:43:38Z,0,False,TypeScript
+https://github.com/indigoai-us/hq-core/pull/167,"feat(delegate): ownership transfer — board, PRD, work mesh, journal (US-006)",2026-08-07T16:36:37Z,2026-08-08T06:50:20Z,82,False,Shell
+https://github.com/arniByte/weaver/pull/1,feat: WEAVER — minimal browser groovebox (house/techno/edm/dnb),2026-07-04T21:42:28Z,2026-07-04T21:42:39Z,0,False,JavaScript
+https://github.com/shadoath/dot_files/pull/35,Share iTerm's swatch palette and let a hand-picked tab color stick,2026-09-01T19:08:29Z,2026-09-01T22:20:44Z,3,False,Shell
+https://github.com/Breezyslasher/MangaBrain/pull/34,feat: per-medium deep links matching Anibrain's structure,2026-08-16T04:36:06Z,2026-08-16T04:36:13Z,0,False,Python
+https://github.com/ossia/score/pull/2209,nodal: readable many-control nodes; js: Score.select(); cmake: test PCH opt-out,2026-08-15T12:31:18Z,2026-08-16T01:46:34Z,2059,False,C++
+https://github.com/davidrunger/dotfiles/pull/1226,[kitty/hints] Open to line and column (if provided) for files in CWD,2026-05-01T17:27:12Z,2026-05-01T17:28:41Z,0,False,Shell
+https://github.com/solanabr/superteam-academy/pull/544,docs(specs): learning-experience research — evidence review + roadmap,2026-07-25T13:10:26Z,2026-07-25T13:18:36Z,17,False,TypeScript
+https://github.com/Pintag-cyrora/pintag/pull/25,Fix WhatsApp preview — remove incorrect og:url,2026-06-18T06:09:08Z,2026-06-18T06:09:45Z,0,False,JavaScript
+https://github.com/kwchenm/ChildPlay/pull/4,Add 5 more play modes to the toddler game (5 -> 10 total),2026-09-04T15:10:22Z,2026-09-04T15:10:30Z,0,False,HTML
+https://github.com/ABDE777/BACKEND-212LEARN/pull/16,feat(groups): enforce one group per course per student,2026-08-15T02:37:31Z,2026-08-15T02:38:17Z,0,False,JavaScript
+https://github.com/Bryan-an/tasker-mobile/pull/27,Enforce architectural boundaries with import tests,2026-09-02T22:20:16Z,2026-09-03T13:29:57Z,2,False,Dart
+https://github.com/tech-gabriel/pulsar/pull/121,release: og:image em 1200x630,2026-08-27T18:28:32Z,2026-08-27T18:32:20Z,1,False,C#
+https://github.com/brandon-fryslie/slopspot-paste/pull/1,"Source-dropdown parsers, claude-share/jsonl ingestion, lit, and pure renderTurns",2026-05-22T14:57:23Z,2026-06-08T16:22:55Z,0,False,TypeScript
+https://github.com/colin357/ADT-Landing-Page/pull/3,Add Meta Conversions API integration for server-side Lead events,2026-09-02T15:27:02Z,2026-09-02T15:27:38Z,0,False,TypeScript
+https://github.com/richmosko/mosko-fintech/pull/491,chore(agent-memory): housekeeping 4 — the SELF-233/328 round,2026-08-17T21:00:45Z,2026-08-17T21:03:27Z,0,False,PLpgSQL
+https://github.com/m-uesaka/regional-quiz-entry-form/pull/45,feat(backend): add tournament management API for general staff,2026-08-23T07:54:03Z,2026-08-23T08:08:26Z,0,False,TypeScript
+https://github.com/jeffreytwin/lifeinlongboatkey/pull/143,Add ?type= deep link for the Community Type filter,2026-07-26T02:18:12Z,2026-07-26T02:18:36Z,0,False,JavaScript
+https://github.com/antosubash/dotfiles/pull/5,"Optimize /ship pipeline: scoped reviews, state file, QA contract, hot reload, run report",2026-08-20T09:28:32Z,2026-08-20T09:45:02Z,2,False,TypeScript
+https://github.com/GreyVersusBlue/tools-and-games/pull/124,"BACKLOG: Hearth Phase 7 shipped, and the table is 129 rows",2026-09-05T17:09:02Z,2026-09-05T17:10:36Z,0,False,JavaScript
+https://github.com/Warper2001/Silver-Bullet-ML-BMAD/pull/46,deploy: add YANK_MAX_GAP_ATR_RATIO=0.426 to trader-yank.service,2026-08-19T13:11:09Z,2026-08-19T13:11:16Z,0,False,Python
+https://github.com/CalvinOnce/wisemanrecords/pull/26,Add social share image + Twitter Card meta to /call-it-rain/,2026-07-14T01:38:37Z,2026-07-14T01:38:52Z,0,False,HTML
+https://github.com/browser-use/browser-harness/pull/267,domain-skills: add claude-ai/share-export,2026-04-30T22:53:31Z,2026-05-02T19:01:26Z,17417,False,Python
+https://github.com/charliebeckstrand/midgard/pull/1080,Extract floating reference composition into useFloatingReference,2026-08-08T04:13:55Z,2026-08-08T13:32:06Z,0,False,TypeScript
+https://github.com/inersphobia/Salvation/pull/34,Add salvation3b/ standalone snapshot of the polished build,2026-07-09T03:54:34Z,2026-07-09T03:54:40Z,0,False,HTML
+https://github.com/ayyanarsripath-svg/pro_app/pull/4,"Fix auto backup gating, add pre-backup reminder, widget sizing, offers & per-fault warranty, rupee symbol",2026-08-30T07:25:25Z,2026-08-30T07:26:01Z,1,False,Dart
+https://github.com/kencht/mosaic-laboratory/pull/3,Add cutout shape feature for organic mosaic edges,2026-08-12T08:20:28Z,2026-08-12T08:23:10Z,0,False,JavaScript
+https://github.com/edward-sia/llm-usage-tracker/pull/1,"Honor Retry-After on 429, log every fetch, avoid the wake burst",2026-08-24T03:32:45Z,2026-08-24T03:37:37Z,0,False,Swift
+https://github.com/octdanb/smspit/pull/16,Remove example UAT hostname from README,2026-07-19T23:19:44Z,2026-07-19T23:19:51Z,0,False,Python
+https://github.com/Ashley4734/Bliss-Fox/pull/4,"Harden Etsy sync auth: trim key, verify with ping, clearer errors",2026-07-29T16:07:28Z,2026-07-29T16:07:36Z,0,False,HTML
+https://github.com/Fristail27/vocab-bloom-hub/pull/246,feat: add an admin documentation section for the public API,2026-08-19T21:46:01Z,2026-08-19T21:54:21Z,0,False,TypeScript
+https://github.com/AaravHEHE/campmathos/pull/1,Switch cron authentication from shared secret to Supabase anon key,2026-07-29T17:48:29Z,2026-07-31T00:47:46Z,0,False,TypeScript
+https://github.com/jrhuc/vgc-model-league/pull/37,Even out the results grid instead of favoring the schedule,2026-08-03T23:38:28Z,2026-08-03T23:38:30Z,0,False,TypeScript
+https://github.com/lucas-link-code/llm-threatintel.github.io/pull/11,docs(automation): teach the bot the AI-platform IOC deny list,2026-05-19T21:57:48Z,2026-05-20T06:08:49Z,0,False,HTML
+https://github.com/dnegstad/devcontainer-dev-certs/pull/85,Release version 1.4.0,2026-08-27T22:15:02Z,2026-08-27T22:18:00Z,5,False,TypeScript
+https://github.com/bleleve/claude-terminal/pull/46,feat(remote): put chat sessions on claude.ai via Claude Remote Control,2026-09-05T21:22:39Z,2026-09-07T09:53:02Z,0,True,JavaScript
+https://github.com/antedesign/site/pull/1,Add VAT number to footer across all pages,2026-08-24T10:21:50Z,2026-08-24T10:22:22Z,0,False,HTML
+https://github.com/OWFCstats/webpage/pull/102,Home-screen icons: halve the white margin around the crest,2026-09-02T15:38:07Z,2026-09-02T15:39:57Z,0,False,JavaScript
+https://github.com/BodhiProtocol/bodhiprotocol-site/pull/14,Add Charlie Munger to Great Minds,2026-08-13T03:32:52Z,2026-08-13T03:41:40Z,0,False,TypeScript
+https://github.com/haghdk/familyfoodplan/pull/78,[familyfoodplan]-Add an Open button for the shared grocery list,2026-07-30T18:32:04Z,2026-07-30T18:32:12Z,0,False,TypeScript
+https://github.com/TechbeeAT/spectacled/pull/97,Fix iOS App Store archive signing with distribution certificate,2026-08-19T09:22:03Z,2026-08-19T09:22:28Z,1,False,Kotlin
+https://github.com/MacieiraPT/macieira.cc/pull/13,Make anchor scrolls speed-proportional instead of fixed-duration,2026-08-11T03:55:06Z,2026-08-11T03:55:26Z,0,False,JavaScript
+https://github.com/Asomisetty27/theta-landing/pull/2,/verify: the certificate experience (assembly scan + score reveal),2026-07-15T23:27:54Z,2026-07-18T22:21:51Z,0,False,TypeScript
+https://github.com/songkon202-sara/procurement-docs/pull/9,เชื่อมเลขที่หนังสือ (document_numbers) เข้ากับ backend registry จริง,2026-08-18T03:51:56Z,2026-08-18T13:53:01Z,0,False,TypeScript
+https://github.com/bouthouriMed/VAYA/pull/63,"Show real recent search picks in composer, not hardcoded mock places",2026-08-24T06:13:37Z,2026-08-24T06:13:56Z,0,False,TypeScript
+https://github.com/ejzimmer/journal/pull/80,Show a not-done item count on each work list,2026-09-02T21:16:18Z,2026-09-02T21:28:55Z,0,False,TypeScript
+https://github.com/bavanchun/ariadnev-skein/pull/27,docs(plans): record what phases 4 and 5 actually shipped,2026-09-05T08:36:18Z,2026-09-05T08:37:25Z,0,False,Swift
+https://github.com/jonstump/nms-base-planner/pull/126,ADR-0009: Generic OIDC with Pocket ID as reference deployment,2026-08-29T16:39:31Z,2026-08-29T16:40:41Z,0,False,TypeScript
+https://github.com/syv-ai/agentic-coding-playbook/pull/17,feat(skills): hjernen + tilbud — global entry points to the 1brain company brain,2026-07-08T17:22:44Z,2026-07-08T17:24:34Z,12,False,TypeScript
+https://github.com/Eximinati/sabil-real/pull/4,Fix leaked canonical-metadata warning; add 365-day plan overview page,2026-09-07T19:50:50Z,2026-09-07T19:51:01Z,0,False,TypeScript
+https://github.com/frizzleqq/dab-pipelines/pull/30,"Remove test target name prefix, use catalog isolation",2026-08-13T06:59:26Z,2026-08-13T07:03:07Z,0,False,Python
+https://github.com/ychowdhrey/ultratextgen/pull/614,Add hero image assets for content pages,2026-07-22T01:40:29Z,2026-07-22T01:41:12Z,0,False,HTML
+https://github.com/brandon-fryslie/slopspot-paste/pull/65,Add chatgpt.com/share as a provider (slopspot-chatgpt-share-nfs),2026-06-30T16:34:09Z,2026-06-30T16:37:34Z,0,False,TypeScript
+https://github.com/beebeeb-io/web/pull/29,1366: AdminStats.users: pilots + test_accounts (pre-mortem 04),2026-09-07T06:30:48Z,2026-09-07T06:38:49Z,0,False,TypeScript
+https://github.com/rishivendhan84/github-resources/pull/1,"Reposition repo for growth: landing README, license, contributing, co…",2026-07-21T05:34:43Z,2026-07-21T05:34:52Z,3,False,
+https://github.com/thegspiro/the-logbook/pull/1361,Allow members to view their own record via GET /users/{id}/with-roles,2026-08-13T11:46:33Z,2026-08-13T11:46:40Z,0,False,Python
+https://github.com/MOSSLM/crm-vercel/pull/661,Redesign démarchage layout as 3-column cockpit-style workspace,2026-08-13T17:24:40Z,2026-08-13T17:24:47Z,0,False,TypeScript
+https://github.com/Lockeee86/SmartRace-LiveDashboard/pull/101,Leaderboard: Vollbild-Button + Strafen-Widget (wie Dashboard),2026-08-08T07:04:10Z,2026-08-08T07:04:19Z,0,False,HTML
+https://github.com/alwaysreddyathletics/ara-landing/pull/21,Add free 5-day athletic reset landing page and navigation,2026-07-16T15:06:47Z,2026-07-16T16:21:54Z,0,False,HTML
+https://github.com/3ashry/Protech-Stores/pull/19,Financials: 📄 Download PDF button,2026-09-07T15:02:24Z,2026-09-07T15:02:32Z,0,False,JavaScript
+https://github.com/seamapi/fake-seam-connect/pull/282,Fix npm rebuild race condition by rebuilding native modules by name,2026-08-19T23:47:00Z,2026-08-19T23:58:08Z,0,False,TypeScript
+https://github.com/squalrus/car-rainbow/pull/12,Improve SEO with descriptive meta tags and Open Graph/Twitter cards,2026-06-07T05:17:51Z,2026-06-07T05:19:23Z,0,False,JavaScript
+https://github.com/LerianStudio/fetcher/pull/328,chore: promote release-candidate to main,2026-07-24T02:46:29Z,2026-07-24T13:02:45Z,0,False,Go
+https://github.com/vikas335474/HorizonPlan/pull/28,Add read-only audit-log UI for admins (docs/09 Session 6),2026-07-26T16:19:19Z,2026-07-26T16:25:24Z,0,False,PHP
+https://github.com/archichudinow/layout/pull/6,Board: self-recovering locks + wider presence window,2026-08-13T12:59:47Z,2026-08-13T12:59:54Z,0,False,HTML
+https://github.com/jsierram-dev/calismap-app/pull/3,:bug: Fix: navbar tabs unclickable app-wide,2026-08-16T09:30:06Z,2026-08-16T09:30:20Z,0,False,TypeScript
+https://github.com/crtragency/swar/pull/73,fix(dashboard): make edit-booking modal scrollable on small screens,2026-07-16T19:16:07Z,2026-07-16T19:16:21Z,0,False,TypeScript
+https://github.com/joaomeio/tennispro-vercel/pull/8,"Sell the EN page as three tiers, with the app on a phone in the hero",2026-08-27T01:04:45Z,2026-08-27T01:04:54Z,0,False,JavaScript
+https://github.com/sbeitzel/CeolKit/pull/144,Release 1.4.0,2026-09-04T15:59:41Z,2026-09-04T16:03:28Z,0,False,Swift
+https://github.com/848848448/Heya/pull/3,"Fix modal bug, add donation management",2026-09-07T03:40:18Z,2026-09-07T03:40:46Z,0,False,HTML
+https://github.com/AmericanScientific/AmericanScientificWebsite/pull/50,feat: Life Sciences hero — bioluminescence,2026-07-29T13:27:10Z,2026-07-29T13:28:28Z,0,False,TypeScript
+https://github.com/GreyVersusBlue/tools-and-games/pull/122,"BACKLOG: Hearth Phase 6 shipped whole, and the table is 130 rows",2026-09-05T15:10:19Z,2026-09-05T15:11:31Z,0,False,JavaScript
+https://github.com/adrianwedd/adrianwedd.com/pull/547,fix(ci): pin worker/ wrangler to 4.99.0 (4.100.0 zone-routes auth regression),2026-07-19T06:10:02Z,2026-07-19T06:11:35Z,0,False,TypeScript
+https://github.com/awtyler1/tyler-agent-haven/pull/131,Add insider/professional writing standard for industry-facing articles,2026-07-21T02:15:31Z,2026-07-21T02:15:37Z,0,False,TypeScript
+https://github.com/florianlepont/skypane/pull/32,docs(06.6.4.1): companion-wide UI/UX audit — 19 findings + 7 design-direction items,2026-09-02T20:22:04Z,2026-09-02T20:36:15Z,0,False,Python
+https://github.com/leonghaojie/micro-invest-app/pull/9,Ground simulation engine in real historical fund data (amends DECISIONS.md #1),2026-08-19T09:13:42Z,2026-08-19T09:14:50Z,0,False,TypeScript
+https://github.com/tamaa13/khoros/pull/80,fix(agent): global LLM job queue (RPC 'Cannot set new job'),2026-07-02T04:59:47Z,2026-07-02T04:59:50Z,0,False,TypeScript
+https://github.com/wow-look-at-my/go-s3-server/pull/73,"Scope prefetch suppression to builds, not users",2026-09-07T08:30:06Z,2026-09-07T09:02:06Z,0,False,Go
+https://github.com/cperry8800-droid/shape-app/pull/1282,WORKLOG: living-profile dashboard pages (#1280) + assign-time & compaction (#1281),2026-06-12T15:28:24Z,2026-06-12T15:31:40Z,0,False,HTML
+https://github.com/sherifomarsaleh/testahil/pull/129,Add MODON (ADX) revision-2 valuation study with H1-2026 revaluation,2026-08-10T06:06:50Z,2026-08-10T06:20:32Z,0,False,HTML
+https://github.com/barrowsbr/Meus-investimentos-dev/pull/182,"Fix inflated FX exposure %: divide by total patrimônio, not positions",2026-06-09T15:35:02Z,2026-06-09T15:35:10Z,0,False,TypeScript
+https://github.com/jonncy18-maker/AI-Capital-Planning/pull/178,Add OAuth to the MCP connector for claude.ai / Cowork / Claude Code Remote,2026-08-22T14:58:22Z,2026-08-22T14:58:45Z,2,False,JavaScript
+https://github.com/teallarson/skills/pull/2,Add claude-share-to-markdown skill,2026-07-22T15:10:00Z,2026-07-22T15:37:15Z,0,False,HTML
+https://github.com/RecessTech/recess-roster/pull/34,Add editable Order Qty column to Stocktake tab,2026-08-30T23:08:37Z,2026-08-30T23:09:55Z,0,False,JavaScript
+https://github.com/alii13/open-mercy/pull/144,feat(mp): solo-waiter state in the waiting room,2026-08-12T18:19:42Z,2026-08-13T04:36:04Z,15,False,TypeScript
+https://github.com/escalier-lang/escalier/pull/935,Fix keyof distribution over unions to intersect member keys,2026-07-26T22:06:02Z,2026-07-28T01:25:07Z,11,False,Go
+https://github.com/Gaurav1303/AshaFastners/pull/1,Add complete marketing site and product catalogue for Asha Fasteners,2026-09-01T15:48:04Z,2026-09-01T15:49:34Z,0,False,JavaScript
+https://github.com/EgorAlifa/test4/pull/286,fix(ElemCalendar): sync second dual-month calendar to the end date,2026-08-04T09:09:45Z,2026-08-04T09:09:55Z,0,False,Vue
+https://github.com/samvera/hyku/pull/3231,Screening room theme,2026-08-21T03:16:54Z,2026-08-21T16:08:39Z,109,False,Ruby
+https://github.com/aerandir83/Termix/pull/4,"feat: ARD frontend — types, host editor UI, tab/session wiring, i18n",2026-08-28T14:41:01Z,2026-08-28T14:46:22Z,0,True,TypeScript
+https://github.com/CLIdaho/CallBax/pull/6,Capture email mid-call and send the proposal in one tap,2026-08-03T22:06:23Z,2026-08-03T22:06:34Z,0,False,JavaScript
+https://github.com/gadots/healthtracker/pull/2,Restructure README into About/Features and Getting started,2026-08-18T19:00:11Z,2026-08-18T19:00:20Z,0,False,TypeScript
+https://github.com/fcavalcantirj/esp-atlas/pull/154,fix(jr): admit spends only its call share on the launcher backlog; PR body carries the real budget,2026-09-07T22:05:42Z,2026-09-07T22:12:28Z,0,False,Python
+https://github.com/dylanrog/Waiver-Wire/pull/14,"Fix start/sit confidence: compare against the bench, not another starter",2026-09-05T01:15:21Z,2026-09-05T01:18:16Z,0,False,TypeScript
+https://github.com/youssefelsane-hash/portalSp/pull/182,feat(catalog): Phase A.3 unified booking engine — service deposit pol…,2026-08-21T13:54:29Z,2026-08-21T13:55:02Z,0,False,TypeScript
+https://github.com/davidrunger/dotfiles/pull/1222,[kitty/hints] Match files in current working directory,2026-04-28T05:37:31Z,2026-04-28T05:45:27Z,0,False,Shell
+https://github.com/mrobinsonqcs/titanpressurecontrol/pull/49,Update Nathaniel Harris headshot object-position to 15% 15%,2026-06-17T02:30:54Z,2026-06-17T02:31:40Z,0,False,HTML
+https://github.com/gabrielying/FEP-Compass-AiAdvisor/pull/73,Point leaderboard defaults at the Singapore Supabase project,2026-07-07T17:16:39Z,2026-07-07T17:23:05Z,1,False,JavaScript
+https://github.com/KarthikRagula/KarthikRagula/pull/1,Add personal portfolio website with modern design and animations,2026-08-07T17:11:34Z,2026-08-07T17:15:14Z,0,False,HTML
+https://github.com/vaibhav9579/vaibhavbhujbal-portfolio/pull/4,Quantify project impact and sharpen credibility signals,2026-07-23T12:10:44Z,2026-07-23T12:10:55Z,0,False,TypeScript
+https://github.com/schimon-anchor-digital/tacos-mi-rancho-arlington-va/pull/2,"Homepage first draft: testimonials, EN/ES toggle, weekend hours",2026-09-05T23:05:31Z,2026-09-06T03:36:15Z,0,False,JavaScript
+https://github.com/chiaraberti13/mywebsite/pull/11,journal: rework Italy section layout for better UX,2026-07-31T19:46:32Z,2026-07-31T19:46:44Z,0,False,Astro
+https://github.com/drkostas/soma/pull/448,feat(app): nutrition quick-add + skip-slot (part of #415),2026-08-28T08:44:38Z,2026-08-28T08:45:44Z,13,False,TypeScript
+https://github.com/oratis/TakoAPI/pull/53,docs: UX + technical review with phased optimization plans (2026-09-05),2026-09-06T07:12:11Z,2026-09-07T14:24:55Z,1,False,TypeScript
+https://github.com/ACC-Instructional-Web/image-compressor/pull/1,Fix single-image drops and download lone images unzipped,2026-08-30T20:39:36Z,2026-08-30T20:39:50Z,0,False,JavaScript
+https://github.com/fspv/.bashrc/pull/34,Simplify init-user-env.sh invocation in nix-develop workflow,2026-08-13T22:23:34Z,2026-08-13T22:36:26Z,4,False,Lua
+https://github.com/fujii-ken/fujii-ken.github.io/pull/1,Add travel itinerary site for Minakami & Karuizawa trip,2026-09-02T17:57:55Z,2026-09-02T17:58:05Z,0,False,HTML
+https://github.com/carospecs/ahlam/pull/70,"Ultimate sites: fix Spanish title bug, Facebook/Yelp icons, promo banner (DAD)",2026-09-01T04:14:34Z,2026-09-01T04:14:46Z,0,False,HTML
+https://github.com/alicoding/mill/pull/307,feat: markdown live preview + markdown sticky notes (goal 0145),2026-08-21T03:54:52Z,2026-08-21T04:10:31Z,1,False,TypeScript
+https://github.com/iedora/platform/pull/124,build: Turborepo + oxlint pre-pass + restore correctness CI,2026-07-21T16:17:57Z,2026-07-21T17:30:34Z,0,False,TypeScript
+https://github.com/michaelscloud/containeralab/pull/1,Fixing Grafana in Telemitry Lab,2026-04-29T07:27:24Z,2026-04-29T07:29:14Z,0,False,Shell
+https://github.com/antosubash/simple_module_python/pull/267,fix(framework): five issues surfaced by the git-module field test,2026-08-19T14:48:51Z,2026-08-20T09:50:59Z,0,False,Python
+https://github.com/PrashobhPaul/CogniFlow/pull/5,Claude Desktop Extension (.mcpb): double-click install for the MCP server,2026-09-04T03:36:03Z,2026-09-04T04:16:23Z,0,False,TypeScript
+https://github.com/EduardoCanale/learn-app/pull/1,docs: rewrite README setup as an ordered walkthrough,2026-08-29T16:56:57Z,2026-08-29T17:02:44Z,1,False,TypeScript
+https://github.com/The-Portland-Company/devnotes/pull/6,Proof capture: screenshots + screen recordings with per-org storage,2026-09-03T17:51:13Z,2026-09-03T17:51:23Z,0,False,TypeScript
+https://github.com/wmo-raf/georiva-source-ecmwf/pull/14,IFS-only surface variables and extended pressure levels,2026-09-01T07:02:06Z,2026-09-01T07:03:03Z,0,False,Python
+https://github.com/FriendOfMankind/Trees/pull/1,Refactor to multi-trip hub with shared renderer,2026-09-04T00:50:53Z,2026-09-04T00:58:14Z,0,False,JavaScript
+https://github.com/arun-karra/columba/pull/1,Add comprehensive test suite for API routes and auth,2026-08-15T20:38:04Z,2026-08-15T20:39:28Z,0,False,TypeScript
+https://github.com/slzwei/lyfe-app/pull/102,fix(db): cascade callback breadcrumbs on callback delete + types resync,2026-08-06T08:09:55Z,2026-08-06T08:11:23Z,0,False,TypeScript
+https://github.com/slzwei/lyfe-app/pull/100,feat(db): blacklisted internship status value + types resync,2026-08-06T07:35:24Z,2026-08-06T07:37:13Z,0,False,TypeScript
+https://github.com/m16khb-org/issueops/pull/494,docs(skill): add sharing-backend-work audience-routing skill,2026-08-28T02:24:22Z,2026-08-28T02:24:31Z,1,False,Go
+https://github.com/szponciciel04/DzienniczekSzpontniczek/pull/4,Translate SECURITY.md to Polish and update content,2026-04-24T12:53:57Z,2026-04-25T11:58:18Z,19,False,Kotlin
+https://github.com/cperry8800-droid/shape-app/pull/1112,Trainer Library: move featured top card to Workouts + Programs sub-tabs,2026-06-04T21:45:35Z,2026-06-04T21:45:44Z,0,False,HTML
+https://github.com/hansselmirabal-spec/Api-MG-/pull/5,fix(mgagencia): reuse Formulario Meta status instead of a new value,2026-09-07T19:59:59Z,2026-09-07T20:00:47Z,0,False,Apex
+https://github.com/Compass2026/GTD-Project-Tracker/pull/7,Document routine architecture and cross-device session continuity,2026-08-30T21:55:14Z,2026-08-30T21:55:19Z,0,False,TypeScript
+https://github.com/anandmnair/anandmnair.github.io/pull/2,feat(projects): add project cards for all 5 open-source projects,2026-08-23T07:07:46Z,2026-08-23T07:08:12Z,0,False,Astro
+https://github.com/JensFugl/richtersskala/pull/28,Add past events section and improve concert calendar filtering,2026-08-18T13:59:37Z,2026-08-18T14:01:05Z,0,False,HTML
+https://github.com/Nox-HQ/nox/pull/601,"docs: an execution plan for Phases 1-12, grounded in what the tree already has",2026-09-07T06:21:46Z,2026-09-07T06:31:24Z,10,False,Go
+https://github.com/dferdowsfy/SmartPR/pull/52,Cap incentives sidebar height and add mobile drawer trigger,2026-09-04T03:08:28Z,2026-09-04T03:08:32Z,1,False,TypeScript
+https://github.com/inersphobia/Salvation/pull/188,"The long-texts library, and the return key learns to work (v191)",2026-08-07T18:44:27Z,2026-08-07T18:44:35Z,0,False,HTML
+https://github.com/theoden8/webspace_app/pull/465,Add version 22 changelog,2026-07-05T18:50:10Z,2026-07-05T18:59:21Z,202,False,Dart
+https://github.com/vanillagreencom/kendex/pull/1667,fix(KEN-650): agent skill roots follow the native .agents reads,2026-08-26T06:30:50Z,2026-08-26T06:45:33Z,75,False,Shell
+https://github.com/usshadowop/elnerds_STATIC/pull/21,Use directions link for partner event's Directions chip,2026-08-01T21:00:39Z,2026-08-01T21:00:45Z,0,False,TypeScript
+https://github.com/lnyousif/lnyousif.github.io/pull/17,Redesign homepage as book-first with three city hubs,2026-09-04T20:19:58Z,2026-09-04T20:20:40Z,0,False,HTML
+https://github.com/crickertech/nife/pull/190,roadmap: milestone 87's machine is bought,2026-08-15T04:51:03Z,2026-08-15T05:13:45Z,2,False,Rust
+https://github.com/studiophotuna/studiophotuna-website/pull/67,Support multi-user discount code restriction and gallery subscription…,2026-08-23T13:47:32Z,2026-08-23T13:48:01Z,0,False,HTML
+https://github.com/agustinajait/oportunai-v2/pull/49,Update share texts: candidate vs viewer perspective,2026-07-31T16:25:25Z,2026-07-31T16:25:52Z,0,False,TypeScript
+https://github.com/Azaher7/Sa7ne/pull/10,Add mobile hamburger menu,2026-07-23T07:26:35Z,2026-07-23T07:26:50Z,0,False,HTML
+https://github.com/webjsdev/webjs/pull/1179,feat(website): world-class brand and design system,2026-07-29T18:37:48Z,2026-07-30T07:16:32Z,109,False,JavaScript
+https://github.com/mrnickrushing/mow/pull/201,The Cemetery's card was the flat green rectangle again,2026-09-06T23:56:20Z,2026-09-06T23:56:22Z,0,False,Luau
+https://github.com/tk0miya/roadside_station_maps/pull/309,Add Google Apps Script API for development plan spreadsheet updates,2026-08-09T03:40:55Z,2026-08-09T03:44:12Z,1,False,TypeScript
+https://github.com/Larleeloo/Larsons-Game-Engine/pull/76,"B10 prep: two argument-free profile runs, and a macOS bug they exposed",2026-08-03T22:43:30Z,2026-08-03T22:43:38Z,0,False,Java
+https://github.com/antosubash/simple_module_python/pull/271,"Wireframe + hi-fi shell UI: topbar, ⌘K palette, honest lists",2026-08-20T13:38:05Z,2026-08-20T14:05:42Z,0,False,Python
+https://github.com/matdac12/orchestrator/pull/11,feat(bedigital-visual-tests): v3 rich HTML report + shareable Artifact,2026-07-07T10:56:26Z,2026-07-07T10:57:35Z,1,False,Python
+https://github.com/wamburamuhere-afk/BMS/pull/1351,"refactor(purchase): give Purchase Order, Purchase Return, and Debit N…",2026-07-16T15:19:33Z,2026-07-16T15:19:43Z,0,False,PHP
+https://github.com/mayank609/ACT-SAT-GO/pull/5,"Add Score Trend/Accuracy chart, Strongest/Needs Practice insights, an…",2026-07-22T09:01:32Z,2026-07-22T09:01:40Z,0,False,TypeScript
+https://github.com/dapperav/pyek-helpdesk/pull/153,"desktop: Sunset Shift Home — wave on top, analytics below (Mark's 3 picks)",2026-08-18T17:03:38Z,2026-08-18T17:04:55Z,0,False,Vue
+https://github.com/RCushmaniii/cushlabs/pull/182,chore(azucar): host client proposal at /azucar/ (noindex),2026-07-09T15:52:09Z,2026-07-09T15:52:11Z,3,False,Astro
+https://github.com/fz172/squawkit/pull/809,Render iPad and Play tablet store screenshots,2026-09-06T04:46:36Z,2026-09-06T04:48:46Z,0,False,Kotlin
+https://github.com/kurgelecom-oss/ansar-habits-tracker/pull/7,HASS gets its guide back — a subtitled heading now registers its short head,2026-09-01T11:05:04Z,2026-09-01T11:06:26Z,0,False,TypeScript
+https://github.com/DogukanUrker/BenchKit/pull/42,Add treejs-arena: creative three.js rendering benchmark,2026-08-28T19:00:39Z,2026-08-29T14:49:29Z,18,False,Python
+https://github.com/travellertope/moveee/pull/468,fix: replace isomorphic-dompurify with zero-dep regex sanitizer,2026-06-13T15:41:29Z,2026-06-13T15:41:40Z,0,False,TypeScript
+https://github.com/pwcberry/guess-the-scribble/pull/16,Remove shared workspace; duplicate protocol.ts into client and server,2026-09-06T19:31:57Z,2026-09-06T19:36:04Z,0,False,TypeScript
+https://github.com/XPOZpublic/xpoz-docs/pull/6,"Add Claude (Web), Claude Desktop, Claude Cowork, and ChatGPT integration pages",2026-07-21T08:06:31Z,2026-07-21T11:24:51Z,4,False,MDX
+https://github.com/franckobby/thejlovesstory26/pull/24,"Simplify the QR poster, enlarge the code",2026-06-11T18:13:27Z,2026-06-11T18:13:35Z,0,False,TypeScript
+https://github.com/blackarmchair/draftpunk/pull/4,"Add draft pick grading, value curves, and an all-teams board",2026-09-01T14:35:06Z,2026-09-01T14:35:14Z,0,False,TypeScript
+https://github.com/leonardoaranhaa/Precedente/pull/55,feat(mobile): swipe-to-delete + share analysis,2026-09-06T12:45:59Z,2026-09-06T12:47:59Z,0,False,TypeScript
+https://github.com/goatedapps/Chinese-Practice/pull/3,"Add a My Vocab feature to Dictation, and clean up Quiz's now-redundan…",2026-08-29T08:41:17Z,2026-08-29T08:41:33Z,0,False,TypeScript
+https://github.com/davidrunger/david_runger/pull/8671,[FetchIpInfoForRecord] Handle unexpected string response from API,2026-05-06T03:29:38Z,2026-05-06T03:32:33Z,1,False,Ruby
+https://github.com/bowo-prasetyo/forkbuild/pull/236,Add unified snapshot state inspection view (0.8.46),2026-08-26T13:45:31Z,2026-08-26T13:46:12Z,0,False,JavaScript
+https://github.com/krstivoja/frontpress-studio/pull/78,feat(admin): Settings → Skills tab with stack-tailored skill download,2026-07-05T07:42:04Z,2026-07-05T08:56:39Z,32,False,PHP
+https://github.com/kaybenleroll/data_workshops/pull/137,Consolidate IT workshop Quarto config into _quarto.yml,2026-07-18T16:52:35Z,2026-07-18T16:53:22Z,59,False,HTML
+https://github.com/Flyvendedk799/aileadz/pull/42,AI empowerment pass: cross-silo learner and HR navigation tools,2026-08-28T21:49:44Z,2026-08-28T21:49:54Z,0,False,Python
+https://github.com/olljanat-ai/aks-terraform/pull/1,Add AKS Terraform module and prototype environments,2026-08-20T07:10:19Z,2026-08-20T07:57:10Z,0,False,HCL
+https://github.com/Choozy96/samwise/pull/2,Release v0.3.0,2026-06-20T11:40:48Z,2026-06-20T11:56:26Z,0,False,Go
+https://github.com/diegosouzapw/OmniRoute/pull/7711,fix: unify claude-web User-Agents behind one fingerprint (#7548),2026-07-19T05:13:42Z,2026-07-19T05:31:26Z,62511,False,TypeScript
+https://github.com/africanshops-platform/civic-web/pull/14,feat(settings): active-sessions list with per-device and bulk revoke,2026-08-13T03:47:40Z,2026-08-13T04:11:53Z,0,False,JavaScript
+https://github.com/KNOBSOCK/KNOBSOCK.github.io/pull/121,"Redo video controls: viewer badge, no pop-out, hide chat moved",2026-09-03T15:40:19Z,2026-09-03T15:40:23Z,1,False,HTML
+https://github.com/Digital-Process-Tools/claude-supertool/pull/2219,ci: exclude checkout and runner temp dir from Windows Defender scanning (#2218),2026-09-03T15:37:08Z,2026-09-03T20:16:32Z,16,False,Python
+https://github.com/warpshoot/lab/pull/85,add x-post-mock: X post mockup app sibling to dm-mock,2026-06-06T02:36:25Z,2026-06-06T02:38:09Z,0,False,HTML
+https://github.com/overnightworks/atelier-2/pull/1066,test_workflow_lease_dispatch: the five plain scenarios wait through the shared helpers,2026-09-02T23:12:30Z,2026-09-02T23:42:43Z,3,False,Python
+https://github.com/functionalscript/functionalscript/pull/1581,Add vnd.fjs.lock dialect for shared lock maps,2026-08-15T07:23:52Z,2026-08-15T16:54:46Z,69,False,JavaScript
+https://github.com/overnightworks/atelier-2/pull/1058,test_refine_workflow waits through the shared helpers,2026-09-02T22:06:54Z,2026-09-02T22:51:52Z,3,False,Python
+https://github.com/danilodsj/lp-odisys/pull/5,Move environment detection from dataLayer to GTM RegEx variable,2026-09-01T02:30:39Z,2026-09-01T12:02:38Z,0,False,HTML
+https://github.com/lanethefox/taro/pull/11,Sync main: mobile navigation fix,2026-06-06T01:49:28Z,2026-06-06T01:49:34Z,0,False,TypeScript
+https://github.com/Awwyy1/DEV/pull/107,Stop the archive competing with the journal for the same searches,2026-08-23T07:15:46Z,2026-08-23T07:15:58Z,0,False,TypeScript
+https://github.com/alexsabine/SWSC/pull/17,Shrink the stat plus sign so it no longer inflates the line box,2026-07-14T11:30:22Z,2026-07-14T11:30:30Z,0,False,HTML
+https://github.com/okorz001/metal-weather/pull/10,Switch tab from URL param to React state to eliminate page reload,2026-06-13T04:27:13Z,2026-06-13T04:34:06Z,0,False,TypeScript
+https://github.com/tamaa13/khoros/pull/90,feat(landing): split mac download button (arm64|x64),2026-07-03T04:39:46Z,2026-07-03T04:39:49Z,0,False,TypeScript
+https://github.com/AlexandrePachecoo/DjViral/pull/77,Generate readable share tokens from project names,2026-07-08T17:45:03Z,2026-07-08T17:45:34Z,0,False,TypeScript
+https://github.com/inersphobia/Salvation/pull/100,Snapshot latest build as salvation8,2026-07-15T20:03:34Z,2026-07-15T20:03:42Z,0,False,HTML
+https://github.com/brandon-fryslie/slopspot-paste/pull/11,Strip lone-backslash hard-break residue from share captures (slopspot-display-5uo),2026-06-09T09:52:18Z,2026-06-09T09:57:12Z,0,False,TypeScript
+https://github.com/lofibrainwav/HyoDo/pull/192,fix(safe): add a version positive control for the trufflehog adapter,2026-09-07T19:57:50Z,2026-09-07T20:01:50Z,1,False,Python
+https://github.com/brandon-fryslie/slopspot-paste/pull/10,Strip Claude.ai PUA icon glyphs from share captures (slopspot-display-d2q),2026-06-09T09:39:03Z,2026-06-09T09:42:59Z,0,False,TypeScript
+https://github.com/pathorsAI/pensieve/pull/7,[feature] public share links on a separate origin,2026-08-24T19:09:01Z,2026-08-24T19:10:12Z,0,False,TypeScript
+https://github.com/mitch1114/Inventory-Management-System/pull/39,Strip ship date from imported special instructions; Reports period pi…,2026-08-18T15:58:20Z,2026-08-18T15:58:30Z,0,False,JavaScript
+https://github.com/dangerous83/Kangen/pull/20,Add heading and intro above Global Offices image,2026-07-18T10:25:41Z,2026-07-18T10:25:54Z,0,False,JavaScript
+https://github.com/PhotonBounce/occupantkiller-1/pull/54,CI: fetch gameplay video from Drive → frames on a Release,2026-08-10T01:51:26Z,2026-08-10T01:51:32Z,0,False,JavaScript
+https://github.com/edwargas96-rgb/dente-digital-hub/pull/9,Move gestão para a barra lateral (remove /gestao),2026-08-05T02:39:03Z,2026-08-05T02:39:11Z,0,False,TypeScript
+https://github.com/slzwei/lyfe-app/pull/101,feat(db): candidate_callbacks table + shared-types resync,2026-08-06T07:59:27Z,2026-08-06T08:00:56Z,0,False,TypeScript
+https://github.com/jasproj/keywestsandbartours/pull/294,fix(leads): point 2 KWST captures at KWST's own Formspree endpoint,2026-09-03T16:02:23Z,2026-09-03T16:02:25Z,0,False,HTML
+https://github.com/Mohamed-20004/hh-plumbing-gas/pull/12,"About page: story, credentials and accreditations",2026-08-22T09:55:23Z,2026-08-22T10:01:40Z,0,False,TypeScript
+https://github.com/trendvidia/protowire-go/pull/106,"pb: test the codec against protobuf-go on every path, not only against itself",2026-09-07T09:42:09Z,2026-09-07T10:28:19Z,0,False,Go
+https://github.com/Riey/kime/pull/798,test(e2e): red tests for the re-entrant reset double commit in the gtk and qt immodules,2026-08-03T22:22:44Z,2026-08-04T07:50:45Z,627,False,Rust
+https://github.com/Abernus/Athar/pull/17,Project progress checklist and native share,2026-06-27T20:03:19Z,2026-06-27T20:03:26Z,0,False,TypeScript
+https://github.com/9atatimer/tds-utils/pull/130,docs: RD6 design decision for global CLAUDE.md placement,2026-07-10T07:50:57Z,2026-07-10T08:02:23Z,0,False,Emacs Lisp
+https://github.com/KevinBusuttil/mercantis.hub.flutter/pull/38,chore(deps): bump pinned Core ref to 3eb4b40 (WorkflowTransitionEvent),2026-06-09T20:37:52Z,2026-06-09T20:38:03Z,0,False,Dart
+https://github.com/element22llc/e22-plugins/pull/314,"feat(skills): add /steer:explain — shareable, plain-language feature view",2026-07-03T19:43:24Z,2026-07-03T19:50:29Z,2,False,Python
+https://github.com/alearcm/ai-interviewer/pull/6,DEPLOY: no-Tailscale variant — DuckDNS + Caddy HTTPS with basic auth,2026-08-19T00:14:01Z,2026-08-19T00:14:14Z,0,False,Python
+https://github.com/Nexial1st/Nexial1st.github.io/pull/3,Configure custom domain maps.enzyme.consulting,2026-07-11T05:50:42Z,2026-07-11T05:50:53Z,0,False,HTML
+https://github.com/Broiler-Platform/Broiler/pull/1815,Enable PDF opening in Windows and Linux Writer heads,2026-08-25T15:58:47Z,2026-08-25T16:01:20Z,0,False,C#
+https://github.com/MarineTeam/fable-video/pull/25,Enable multi-recipient sharing for per-video Share button,2026-07-29T16:31:41Z,2026-07-29T16:32:06Z,0,False,JavaScript
+https://github.com/westbridge-inc/swift/pull/917,"mobile(G9): a denied permission is explained, with two ways out — never a silent dead end",2026-08-30T03:31:29Z,2026-08-30T03:43:38Z,0,False,TypeScript
+https://github.com/luvbuniz/mathcraft/pull/139,Deploy: 10 unique gift codes,2026-06-16T12:17:31Z,2026-06-16T12:17:37Z,0,False,HTML
+https://github.com/nubbymong/claude-command-center/pull/288,docs(launcher): correct ccc.cmd header to not overstate dev isolation (#264),2026-08-16T21:56:48Z,2026-08-16T23:21:39Z,45,False,TypeScript
+https://github.com/felix-howard/ella/pull/248,feat(drive): add Cash Plan folder to SHARED TO CLIENT structure,2026-08-25T15:01:33Z,2026-08-25T15:33:10Z,0,False,TypeScript
+https://github.com/evgunter/cad/pull/1286,MODEL-AB-LOG: remove a committed conflict block from main (keep-both-dedup),2026-08-30T01:10:27Z,2026-08-30T17:35:53Z,0,False,Rust
+https://github.com/moka1980/AQELYN/pull/323,ECR-0120: sessions in Postgres (lift the single-worker constraint),2026-08-07T07:41:23Z,2026-08-07T07:41:37Z,0,False,Python
+https://github.com/themarginpublication-eng/The-Margin/pull/2,Add Admin Dashboard design reference with Content Studio integration,2026-08-12T03:38:25Z,2026-08-12T03:38:39Z,0,False,HTML
+https://github.com/kstevica/captain-claw/pull/14,Loops & Graphs review + R1–R8 improvements,2026-09-07T07:04:18Z,2026-09-07T08:57:32Z,162,False,Python
+https://github.com/CR4SH3UR/JobCCQ/pull/162,"Recherche : URL partageables, recherches enregistrées, pages SEO régi…",2026-09-05T18:17:33Z,2026-09-05T18:18:15Z,0,False,TypeScript
+https://github.com/NosFabrica/vespa-relay/pull/44,"Add card renderers for social, list, and relay kinds",2026-08-05T13:13:27Z,2026-08-05T13:15:37Z,0,False,Kotlin
+https://github.com/harshilthakkar5/Construction-Drawing-AI-Platform/pull/53,Bound table detection: it was making ingest 4.8x slower on structural…,2026-08-25T13:01:23Z,2026-08-25T13:01:34Z,0,False,TypeScript
+https://github.com/bacsystem/parallel-plan-executor/pull/49,chore(release): promote v0.6.14 to main,2026-07-19T07:46:01Z,2026-07-19T07:46:30Z,2,False,JavaScript
+https://github.com/lang-nextjs/lang-nextjs/pull/27,"chore: mark all 7 packages private, ignore Playwright MCP artifacts",2026-08-24T16:12:45Z,2026-08-24T16:18:10Z,1,False,TypeScript
+https://github.com/nightscout/nocturne/pull/825,fix(connectors): surface CareLink and MyLife publish failures in SyncResult,2026-08-18T10:34:37Z,2026-08-18T10:46:30Z,119,False,C#
+https://github.com/bobpattersonjr/noti/pull/4,docs: add CLAUDE.md guidance for Claude Code,2026-09-06T02:45:19Z,2026-09-06T02:48:31Z,0,True,Go
+https://github.com/Stijndus/motivo/pull/6,Revise AD-14: development shares the production Firebase project,2026-08-25T22:02:19Z,2026-08-25T22:02:28Z,0,False,TypeScript
+https://github.com/patcon/polislike-partykit-reaction-canvas/pull/144,ci(deploy): also push to legacy polislike-partykit-reaction-canvas URL on main deploy,2026-06-08T12:49:04Z,2026-06-08T12:53:58Z,11,False,TypeScript
+https://github.com/danielaismarsolutions-stack/homequest-site/pull/40,Add Dutch language option for intake form,2026-06-25T16:54:38Z,2026-06-25T16:54:44Z,0,False,HTML
+https://github.com/dennisonbertram/harness-arena/pull/33,promote: per-event blob storage (fix event-log clobber),2026-07-22T11:28:34Z,2026-07-22T11:28:45Z,0,False,TypeScript
+https://github.com/wow-look-at-my/cc-marketplace/pull/219,Move no-counts/no-tombstones hooks to slopfmt; fix ledger wedge,2026-09-06T19:42:37Z,2026-09-06T21:28:04Z,0,False,Go
+https://github.com/seanchatmangpt/autofde-lab/pull/108,fix(ci): install docs wheel with uv in ci.yml's own docs job,2026-09-05T02:25:33Z,2026-09-05T02:30:06Z,3,False,Python
+https://github.com/mansiksohn/tombstone-reminder/pull/1,Migrate from CRA to Next.js App Router with product redesign,2026-08-20T12:20:53Z,2026-08-20T12:33:18Z,1,False,TypeScript
+https://github.com/AlekseiBazhenov/vibecoding-claudecode-project-388/pull/7,Add .env to .gitignore,2026-07-15T06:41:14Z,2026-07-15T06:42:06Z,0,False,Python
+https://github.com/saeedmohamed248-dev/mousstec/pull/25,feat(omnichannel): رد يدوي من الـ Inbox (تسليم بشري) + إشعار ذكي عند الحاجة لتدخّل,2026-09-02T23:02:37Z,2026-09-02T23:02:44Z,0,False,Python
+https://github.com/bowo-prasetyo/forkbuild/pull/575,Add Snapshot World Convergence Audit test suite,2026-09-05T08:52:21Z,2026-09-05T08:53:14Z,0,False,JavaScript
+https://github.com/OWFCstats/webpage/pull/96,The offline shell: network-first caching for installed apps,2026-09-02T11:03:34Z,2026-09-02T11:06:27Z,0,False,JavaScript
+https://github.com/gilad12-coder/skynet/pull/171,feat(frontend): redesign favicon as a cream app-icon tile,2026-07-28T12:43:33Z,2026-07-28T12:50:16Z,0,True,TypeScript
+https://github.com/ShockRock2004/grindz/pull/26,"Body-type switcher, retraced female muscle map, and a sharper README",2026-08-17T17:54:03Z,2026-08-17T18:32:03Z,6,False,TypeScript
+https://github.com/sarabeyersdorf-dot/video/pull/2,Add team how-to guide (docs/team-guide.html),2026-08-07T21:51:06Z,2026-08-07T21:51:12Z,0,False,HTML
+https://github.com/berryp23/net-or-kr/pull/1,Enhance SEO and metadata across all article pages,2026-07-17T15:23:24Z,2026-07-17T15:25:24Z,0,False,HTML
+https://github.com/Automattic/minimalistic-site-builder/pull/544,Commit the rounded band geometry a brief states (frm),2026-09-06T04:10:12Z,2026-09-06T04:12:41Z,4,False,PHP
+https://github.com/zwintersd/woodles-space/pull/252,Add a robust context menu to Bloomforge's Systems panel,2026-08-04T21:24:33Z,2026-08-04T21:24:42Z,0,False,TypeScript
+https://github.com/EnzymeAD/Enzyme-JAX/pull/3045,Fold the gep an atomic is taken through into its index,2026-09-01T03:51:00Z,2026-09-01T04:01:47Z,131,False,MLIR
+https://github.com/getagentseal/codeburn/pull/991,fix(optimize): separate connector and local MCP guidance,2026-08-13T20:27:16Z,2026-08-18T15:44:33Z,10895,False,TypeScript
+https://github.com/mfittko/dev-loops/pull/928,docs(deck): refresh Applied dev-loops deck to v0.4.0 + shareable HTML + Playwright UI loop (#926),2026-06-27T07:03:24Z,2026-06-27T07:53:18Z,15,False,JavaScript
+https://github.com/olljanat-ai/Firewall4AI/pull/81,Accept untrusted upstream TLS certificates,2026-08-12T14:14:06Z,2026-08-12T16:47:18Z,1,False,Go
+https://github.com/dchie/sfoapply/pull/5,Log every request as a JSON event and raise the rate caps for shared egress IPs,2026-08-20T20:38:41Z,2026-08-20T20:38:49Z,0,False,JavaScript
+https://github.com/jwhitt3r/intel.overresearched.net/pull/59,🔴 CTI Brief — 2026-05-09,2026-05-10T20:07:45Z,2026-05-10T20:37:34Z,3,False,SCSS
+https://github.com/mhuggins102-sudo/pokergrid-web/pull/220,Morning Paper dark: lift the accent to deep green,2026-07-27T23:48:24Z,2026-07-27T23:48:44Z,0,False,TypeScript
+https://github.com/Breezyslasher/MangaBrain/pull/12,"feat: anilist list exclusion, length filter, tag filter ui, member co…",2026-08-14T04:29:52Z,2026-08-14T04:30:00Z,0,False,Python
+https://github.com/Alexbigot5/matchbook-CRM/pull/22,Add /lifecycle kanban board view for contacts,2026-08-13T03:02:27Z,2026-08-13T03:04:07Z,0,False,TypeScript
+https://github.com/gaib-ai/clawhuddle/pull/6,"chore: reorder provider cards — Google, Token Kiosk, Anthropic, OpenAI first",2026-07-29T05:11:31Z,2026-07-29T05:12:23Z,0,True,TypeScript
+https://github.com/ianluddy/portfolio/pull/24,Add slot-machine scramble animation to homepage header and subheadings,2026-06-16T18:17:51Z,2026-06-29T05:47:53Z,0,False,TypeScript
+https://github.com/mfillbrunn/UnknownMediocreTutorial/pull/12,"Setter Quest badge: drop the text label, letter+progress fill the card",2026-08-06T15:16:10Z,2026-08-06T15:20:39Z,0,False,JavaScript
+https://github.com/mattias242/experiment/pull/3,Calm status message when running as a shared page without network,2026-08-03T05:28:44Z,2026-08-03T05:46:05Z,0,False,JavaScript
+https://github.com/rishaanlabs/R-OS/pull/6,"V0.1.2: Finance module with editing, deletion, and design refinements",2026-09-02T08:25:16Z,2026-09-02T08:35:00Z,0,False,Kotlin
+https://github.com/operacreatives/operacreativesweb/pull/8,"Polish ""Our Work"" / FIFA section to match marquee section's quality",2026-08-29T21:54:25Z,2026-08-29T21:54:35Z,0,False,TypeScript
+https://github.com/tinkertoys3dee-wq/MeshyAIRoblox/pull/49,"Replace Decal wrapper ids with the real, GUI-usable texture ids",2026-09-03T02:57:09Z,2026-09-03T02:57:17Z,0,False,Luau
+https://github.com/timsxh/quant/pull/3,Deployment auf Streamlit Community Cloud vorbereiten,2026-07-16T17:31:43Z,2026-07-16T17:31:50Z,0,False,Python
+https://github.com/ReactivityJS/Qu/pull/87,"Add Kontakte/Verzeichnis as fixed nav-dropdown links, not favorite-only",2026-07-29T08:32:25Z,2026-07-29T08:32:32Z,0,False,JavaScript
+https://github.com/sumit3850/Tour-management-/pull/25,Integrated booking/forms/accommodation/sheet/quotation overhaul,2026-06-29T23:09:52Z,2026-06-29T23:10:21Z,0,False,HTML
+https://github.com/bdwilson/cf-hubitat-dashboard/pull/27,"Add roadmap items for hub URL, theming, and pill colors",2026-07-07T17:55:18Z,2026-07-07T17:55:47Z,0,False,HTML
+https://github.com/Publicly-Traded-Person/shareholder-poker/pull/45,rsvp-status: --who <name> looks up an RSVP by its typed display name,2026-09-06T00:36:48Z,2026-09-06T18:47:18Z,0,False,TypeScript
+https://github.com/Mark-NYC/multiplying-disciples/pull/99,Enlarge menu-drawer nav items to h3 size for prominence,2026-07-17T11:54:34Z,2026-07-17T11:54:41Z,0,False,MDX
+https://github.com/wamburamuhere-afk/BMS/pull/1369,fix(products): warehouse-scope Non-Inventory Products list + create d…,2026-07-17T11:47:19Z,2026-07-17T11:47:28Z,0,False,PHP
+https://github.com/kirinnee/ferretry/pull/237,feat(daemon): mount fleet routes,2026-08-05T00:37:30Z,2026-08-05T01:00:24Z,0,False,TypeScript
+https://github.com/GreyVersusBlue/tools-and-games/pull/4,"Closing Time: give the career an ending, collapse the mobile topbar, …",2026-07-31T06:54:07Z,2026-07-31T06:54:16Z,0,False,JavaScript
+https://github.com/usshadowop/elnerds_STATIC/pull/22,Start partner event directions from the visitor's own location,2026-08-01T21:06:06Z,2026-08-01T21:06:12Z,0,False,TypeScript
+https://github.com/CloudKitty-ai/cloudkitty/pull/160,"exp-004: FR-019 herding verdict — keep, measure in re-baseline",2026-08-09T05:44:32Z,2026-08-09T05:46:27Z,0,False,Rust
+https://github.com/fundedEdgeTrading/TrainingZone.Brief/pull/23,Add FilterBar component and organize navigation by sections,2026-07-21T11:04:26Z,2026-07-21T11:06:58Z,0,False,TypeScript
+https://github.com/Appmixer-ai/appmixer-connectors/pull/1237,chore: move trending-connector-gaps slash command out of the public repo,2026-08-27T07:25:17Z,2026-08-27T07:48:54Z,7,False,HTML
+https://github.com/overnightworks/atelier-2/pull/1075,The shared wait helper fails loud when an awaited workflow never completes,2026-09-03T01:15:51Z,2026-09-03T01:27:34Z,3,False,Python
+https://github.com/LauraRestum/becoming-bergkamp-bridesmaids/pull/66,Add 'Who's wearing what' looks section to Rainbow Fish night,2026-06-12T04:17:24Z,2026-06-12T04:18:04Z,0,False,JavaScript
+https://github.com/starl3xx/wallet-to-social/pull/155,"Footer: Farcaster, llms.txt, and ask-an-AI links",2026-08-23T01:39:41Z,2026-08-23T01:45:20Z,2,False,TypeScript
+https://github.com/overnightworks/atelier-2/pull/1055,test_effect_workflow waits through the shared helpers,2026-09-02T21:20:32Z,2026-09-02T21:37:23Z,3,False,Python
+https://github.com/furkankkokcek/finance/pull/18,fix: investment no longer deducted from cashLeft (nakit kalan),2026-06-06T10:21:41Z,2026-06-06T10:21:51Z,0,False,JavaScript
+https://github.com/Taasiyeda2026/dashboard_system/pull/1592,"Manager board: day drawer, team strip, birthdays, and police clearance",2026-08-19T05:15:08Z,2026-08-19T06:06:08Z,1,False,JavaScript
+https://github.com/felipeharker/hark-ornithology/pull/61,Add comprehensive site editing user guide,2026-08-21T17:07:23Z,2026-08-21T17:07:38Z,1,False,TypeScript
+https://github.com/cowboydaniel/Outback-CommandCore/pull/131,Replace pyproject.toml with setup.py to enable custom install hooks,2026-06-12T02:58:47Z,2026-06-12T02:58:57Z,0,False,Python
+https://github.com/drawbackwards/runladder/pull/273,"Dashboard refinements: Figma/Claude detail pages, rhythm + usage polish, dev view-as switcher",2026-06-03T21:04:51Z,2026-06-03T21:14:23Z,0,False,TypeScript
+https://github.com/contentscoin/automoney/pull/15,브라우저를 찾지 못할 때 원인을 바로 알 수 있게 진단 정보 추가,2026-09-07T15:22:31Z,2026-09-07T20:27:16Z,0,False,TypeScript
+https://github.com/kmwinn21-beep/parlay-demo/pull/514,Add target toggle icon to attendee rows in the rep drill-down drawer,2026-08-05T02:44:20Z,2026-08-05T02:44:27Z,1,False,TypeScript
+https://github.com/kazi-org/kazi/pull/220,docs(lore): L-0014 shared-working-tree concurrency hazard,2026-06-24T19:19:11Z,2026-06-24T19:20:16Z,4,False,Elixir
+https://github.com/patthepenguin921-source/ATLAS/pull/32,Make the app shell responsive for mobile,2026-07-21T14:56:00Z,2026-07-21T14:58:19Z,0,False,Python
+https://github.com/carl641/flotation/pull/6,Replace Designer Color Series swatches with interactive color picker,2026-07-29T04:41:23Z,2026-07-29T04:41:35Z,0,False,HTML
+https://github.com/Jmk125/Territory/pull/30,Widen location info panel and trim unique-share label,2026-06-25T16:59:38Z,2026-06-25T16:59:46Z,0,False,HTML
+https://github.com/cemozturkish/istanbulite/pull/683,Swipe down to dismiss PETEK and Kahve Endeksi on a phone,2026-08-17T15:20:59Z,2026-08-17T16:47:56Z,0,False,HTML
+https://github.com/sarvinshrivastava/Portfolio/pull/25,feat: harden analytics and drop third-party JS,2026-08-20T04:38:34Z,2026-08-20T05:03:21Z,0,False,TypeScript
+https://github.com/neupaneSushant/neupaneSushant/pull/1,Add RAW DNG Camera Android app for Nothing Phone 1,2026-06-07T08:57:39Z,2026-06-07T09:01:44Z,0,False,
+https://github.com/iedora/platform/pull/119,fix(auth): migrate.ts shim for the shared image entrypoint,2026-07-21T12:27:02Z,2026-07-21T12:27:30Z,0,False,TypeScript
+https://github.com/saeedmohamed248-dev/mousstec/pull/26,feat(omnichannel): دعم أكثر من رقم بباقات (رقمان 450ج / أربعة 850ج) + توجيه متعدّد,2026-09-03T12:47:02Z,2026-09-03T12:47:09Z,0,False,Python
+https://github.com/DevSaheerHost/thadikkaran/pull/11,Add PWA installability and WhatsApp OG meta tags for both pages,2026-06-08T05:32:20Z,2026-06-08T05:32:56Z,0,False,JavaScript
+https://github.com/sportsbyadrika/sportsmis.com_home/pull/302,"Scoring Entered Results: add ""Update with 40 to 60"" extrapolation",2026-07-01T07:56:01Z,2026-07-01T07:58:05Z,0,False,PHP
+https://github.com/zhuyetuo/algo_service/pull/31,fix: install libgomp1 for LightGBM OpenMP dependency,2026-06-02T09:01:13Z,2026-06-02T09:01:22Z,0,False,Python
+https://github.com/insightlabs38-pixel/zeros3/pull/15,M8D: Implement copy-on-write namespace fork (zeros3 fork),2026-08-30T04:01:08Z,2026-08-30T04:01:20Z,0,False,Go
+https://github.com/DealPatrol/AI-TUTORING-MACHINE-/pull/4,Add AI Tutor Machine project files,2026-07-24T03:22:15Z,2026-07-24T03:22:32Z,0,False,JavaScript
+https://github.com/tomquist/esphome-b2500/pull/303,Fix BLE scan parameters for ESP-IDF 5.5.5 compatibility,2026-08-25T10:30:21Z,2026-08-26T07:18:51Z,105,False,Jinja
+https://github.com/BentoBoxWorld/bbox-test-harness/pull/5,fix: emit time attributes in JUnit XML so reports show real durations,2026-07-18T15:06:30Z,2026-07-18T15:06:40Z,0,False,Python
+https://github.com/Choi-dujour/The-keymaker/pull/21,Add canonical URLs and domain redirect for SEO,2026-07-06T19:03:15Z,2026-07-06T19:03:43Z,0,False,HTML
+https://github.com/Autometa-AI/Client-RealTerra/pull/3,Move the FAQ and review styles into globals.css,2026-08-05T10:27:51Z,2026-08-05T10:28:01Z,0,False,JavaScript
+https://github.com/phuetz/code-buddy/pull/140,feat(onboarding): profils core/all + six démos en tête de l'aide,2026-08-23T16:43:30Z,2026-08-23T18:22:05Z,36,False,TypeScript
+https://github.com/thefirstofthe300/homelab-cluster/pull/389,"fix(tubearchivist): set HOST_UID to 1000, HOST_GID to 568",2026-07-12T19:56:11Z,2026-07-12T19:57:18Z,0,False,HCL
+https://github.com/genemagg10/maggio.xyz/pull/23,"Mark Wildflour ""coming soon"", Gene & Lafayette Pulse ""in development""",2026-09-02T04:42:41Z,2026-09-02T04:42:46Z,0,False,HTML
+https://github.com/shannonldaly/shannonldaly.github.io/pull/7,"feat: portfolio-first — the page becomes Shannon's portfolio, KL as the flagship",2026-09-01T17:12:20Z,2026-09-01T17:29:33Z,0,False,Python
+https://github.com/jan-writes-codes/fluent/pull/51,Add Microsoft Clarity analytics to all page heads,2026-07-06T17:05:16Z,2026-07-06T17:05:25Z,0,False,HTML
+https://github.com/sarathlal/tinylab.dev/pull/50,"Add AI news brief for June 22, 2026",2026-06-24T21:14:43Z,2026-06-24T21:16:29Z,0,False,HTML
+https://github.com/nipunikajain/agent-harness-experiments/pull/4,Add 2026-07-09 research scout candidates to queue,2026-07-14T06:53:24Z,2026-07-14T06:53:33Z,0,False,Python
+https://github.com/EngraphCode/open-curriculum-ecosystem/pull/9,docs(agent): add cloud environment bootstrap and Slack Watcher skills,2026-08-23T17:19:33Z,2026-08-23T19:40:50Z,0,True,TypeScript
+https://github.com/bacsystem/parallel-plan-executor/pull/58,chore(release): promote v0.6.20 to main,2026-07-20T03:46:04Z,2026-07-20T04:21:46Z,2,False,JavaScript
+https://github.com/yelrambob/protocol_builder/pull/18,Merge pediatric weight-band protocol families onto one page; show ASI…,2026-08-21T14:12:24Z,2026-08-21T14:12:31Z,0,False,Java
+https://github.com/twistedmelonman/projectinsomnia/pull/113,fix: clear pending share-button timeout to prevent stale label restoration,2026-08-11T02:16:25Z,2026-08-11T17:00:27Z,0,False,Astro
+https://github.com/druvus/repgenr/pull/107,Extract shared viral outgroup scaffolding into viral/_outgroup.py,2026-08-30T18:27:06Z,2026-08-30T18:29:20Z,0,True,Python
+https://github.com/IFATEYTAN/natid-crm/pull/145,"refactor(wait-time): unify ""זמן המתנה"" to hours+minutes only everywhere",2026-06-15T08:45:52Z,2026-06-15T08:46:00Z,1,False,JavaScript
+https://github.com/coderoadpl/docu-signer/pull/27,release: pad input fixes and related-links collapse,2026-08-16T16:42:35Z,2026-08-16T17:14:57Z,0,False,TypeScript
+https://github.com/nero1/zobia/pull/424,Fix locale imports to explicitly reference .json file extensions,2026-06-29T01:18:06Z,2026-06-29T01:18:26Z,0,False,TypeScript
+https://github.com/ojuanalves/Orchestrator/pull/2,Refactor: Restructure project into toolbox with Commands and Triggers,2026-09-02T01:02:39Z,2026-09-02T01:16:28Z,0,False,HTML
+https://github.com/tdrk-inc/meti-web/pull/164,Update organization structure in headers and meta tags,2026-08-25T14:59:58Z,2026-08-25T15:00:12Z,0,False,HTML
+https://github.com/1outsyde/outsyde-backend/pull/128,feat(analytics): add vendor analytics API routes,2026-07-30T14:38:31Z,2026-07-30T14:38:39Z,1,False,TypeScript
+https://github.com/VladPhil92/ctg_one_website/pull/15,Rewrite README to match the real architecture; dedupe NAV_ITEMS,2026-08-15T16:10:38Z,2026-08-15T16:19:54Z,0,False,TypeScript
+https://github.com/Aistra91-KS/Kingshot_Toolbox/pull/4,"Keep help ""i"" tooltips inside the screen",2026-07-22T09:54:37Z,2026-07-22T09:54:59Z,1,False,HTML
+https://github.com/ychowdhrey/ultratextgen/pull/795,feat(analytics): add debounced generate_text dataLayer event,2026-08-21T03:41:37Z,2026-08-23T10:33:22Z,0,False,HTML
+https://github.com/ingeniomaps/cauce/pull/219,docs: record and review the four cases 0.62.0 turned up,2026-09-07T01:15:13Z,2026-09-07T01:16:54Z,0,False,JavaScript
+https://github.com/troyco-nerd/apb/pull/32,Replace Dancing Script with Lora italic for tagline text site-wide,2026-07-01T22:58:21Z,2026-07-01T22:58:52Z,0,False,Astro
+https://github.com/Henglicam/zeichentrainer/pull/5,Fix: Export als .json.txt (Chrome-Android teilt kein .json) + sichtbare Version,2026-09-01T09:14:27Z,2026-09-01T09:14:36Z,0,False,JavaScript
+https://github.com/drewskibro/July-2026---Latest-Southdowns-Website-Project/pull/135,Africa page: remove force_defaults now stale ACF values are cleared,2026-08-03T07:05:15Z,2026-08-03T07:05:27Z,0,False,PHP
+https://github.com/slane77/Urgent-nursing-outreach-/pull/14,Branded project brief (shareable),2026-06-06T23:13:32Z,2026-06-06T23:13:39Z,0,False,JavaScript
+https://github.com/AtomiCloud/actions.setup-nix/pull/19,fix: dogfood local action in own CI workflows,2026-07-08T00:54:07Z,2026-07-08T01:02:29Z,0,False,Nix
+https://github.com/starlinpaulino94-cloud/MEMBEGO/pull/83,Fix: Remove duplicate SHARE event tracking when copying referral link,2026-07-08T15:44:08Z,2026-07-08T15:44:19Z,0,False,TypeScript
+https://github.com/aipilotbyjd/agent-1o1/pull/24,Add reusable delete confirmation dialog and require confirmation for …,2026-07-15T16:42:59Z,2026-07-15T16:43:22Z,1,False,TypeScript
+https://github.com/hotaru-ritsuki/ai-daily-briefings/pull/83,Add 2026-07-22 daily AI engineering briefing,2026-07-23T05:21:51Z,2026-07-23T05:22:00Z,2,False,
+https://github.com/dinglebear-ai/unraid/pull/197,feat(auth): accept static bearer token alongside Google OAuth,2026-07-22T01:44:40Z,2026-07-22T01:51:26Z,129,False,Python
+https://github.com/Bherald42/safewave-command-center/pull/13,"CRM: account command center (add accounts, contacts, company dashboard)",2026-08-04T23:07:08Z,2026-08-04T23:07:14Z,0,False,HTML
+https://github.com/CesarNog/portfolioCesarNogueira/pull/100,fix(blog): make author photo and name more prominent,2026-09-01T21:41:01Z,2026-09-01T21:51:19Z,2,False,HTML
+https://github.com/kurzonmorris/ikabot-modules/pull/205,Hold shipments while the trading port is loading; fix the parse crash,2026-09-06T21:20:13Z,2026-09-06T21:20:25Z,3,False,HTML
+https://github.com/natank/digital-twin/pull/57,chore: add shared Claude Code settings,2026-07-25T07:56:25Z,2026-07-25T07:57:02Z,0,False,Python
+https://github.com/ErastusM/Booking-Application/pull/135,Business app: clean up the mobile menu drawer styling,2026-08-27T21:04:21Z,2026-08-27T21:13:27Z,0,False,JavaScript
+https://github.com/softmaple/softmaple/pull/884,Add PresenceRoom implementation and conformance tests,2026-08-12T07:40:11Z,2026-08-12T09:12:31Z,158,False,TypeScript
+https://github.com/fernanbuko/appvet/pull/1,Add secure Cloudinary file deletion via GitHub Actions,2026-08-25T09:28:11Z,2026-08-25T09:37:11Z,0,False,HTML
+https://github.com/SalvageUnion-io/SU-SRD/pull/861,"docs: R2 is enabled, and the account table now lists what is actually there",2026-08-19T04:17:31Z,2026-08-19T04:25:14Z,0,False,TypeScript
+https://github.com/EECS-CoP-Mentor-Matching/Mentor-Matching-Site/pull/121,Charles branch,2026-04-21T06:00:42Z,2026-04-22T04:41:23Z,1,False,TypeScript
+https://github.com/zachJCG/OhioPride/pull/201,"Governor Guide: retitle timeline section to ""Two roads to the Governor's Mansion""",2026-07-30T03:18:59Z,2026-07-30T03:19:07Z,0,False,HTML
+https://github.com/bitwisecook/tcl-lsp/pull/547,Remove lsp/ directory from gitignore and update import path,2026-06-05T09:16:00Z,2026-06-05T10:39:56Z,66,False,Rust
+https://github.com/Optibus/ccalyze/pull/5,feat(habits): --html renders the habit report as a self-contained page,2026-08-18T18:08:14Z,2026-08-19T11:34:11Z,0,False,TypeScript
+https://github.com/axisrow/direct-cli/pull/727,fix(masters): verify DRAFT->MODERATION transition in update_master --launch,2026-08-04T02:05:23Z,2026-08-04T03:11:26Z,6,False,Python
+https://github.com/patricknovak/relationship-copilot/pull/25,"Checklist: Stripe product, price, and webhook provisioned",2026-08-10T14:08:16Z,2026-08-10T15:09:57Z,0,False,TypeScript
+https://github.com/bacsystem/parallel-plan-executor/pull/47,chore(release): promote v0.6.13 to main,2026-07-19T07:11:39Z,2026-07-19T07:11:59Z,2,False,JavaScript
+https://github.com/Omochice/nyctereutes/pull/64,refactor: split the command layer into per-subcommand packages,2026-07-26T16:41:26Z,2026-07-27T11:57:56Z,0,False,Go
+https://github.com/samaritantechs/hope-pmo-v2/pull/351,"The question in flight is shared, the probe always answers, and RUN-ME-018 asks Postgres",2026-09-02T06:08:36Z,2026-09-02T06:08:46Z,0,False,JavaScript
+https://github.com/overnightworks/atelier-2/pull/1053,test_start_run waits through the shared wait helper,2026-09-02T20:45:37Z,2026-09-02T21:10:55Z,3,False,Python
+https://github.com/NosFabrica/vespa-relay/pull/58,Move advanced filters behind a disclosure panel,2026-08-06T03:02:21Z,2026-08-06T03:03:16Z,0,False,Kotlin
+https://github.com/brandon-fryslie/slopspot-paste/pull/16,Display accurate per-message token counts with running total (slopspot-display-tba),2026-06-09T11:14:29Z,2026-06-09T11:21:49Z,0,False,TypeScript
+https://github.com/andymai/gridfinity-layout-tool/pull/3747,feat(workshop): place assemblies in drawer layouts,2026-08-23T06:45:57Z,2026-08-23T07:12:57Z,343,False,TypeScript
+https://github.com/itajaja/dasha2/pull/15,Update meta tags with new description and social preview image,2026-07-14T06:33:37Z,2026-07-14T06:34:07Z,0,False,HTML
+https://github.com/Bennett5143/IPad-Dashboard/pull/224,docs: keep everything archify under docs/archify/,2026-09-07T19:09:42Z,2026-09-07T19:12:21Z,0,False,C#
+https://github.com/NosFabrica/vespa-eventstore/pull/24,Support per-dimension provider attribution in NIP-85 trust system,2026-08-02T00:13:41Z,2026-08-02T00:14:20Z,0,False,Kotlin
+https://github.com/olera-care/olera-web/pull/1831,Promote staging → main: Managed Ads + Provider Growth systems (2026-09-07),2026-09-07T23:12:42Z,2026-09-07T23:12:50Z,0,False,TypeScript
+https://github.com/TheShield2594/clawdia/pull/849,"Add scheduled tasks and deep task mode for AI (#834, #835)",2026-08-28T13:27:03Z,2026-08-28T13:53:50Z,0,False,JavaScript
+https://github.com/casimbahadar/Musical-Forge-Studio/pull/6,Label the Share button with text,2026-07-09T03:25:47Z,2026-07-09T03:25:56Z,0,False,HTML
+https://github.com/JonathanCGill/airuntimesecurity.io/pull/465,Link back to the design-time companion site,2026-07-04T02:54:01Z,2026-07-04T02:54:14Z,0,False,Python
+https://github.com/lucas-link-code/llm-threatintel.github.io/pull/9,fix(iocs): remove 5 false-positive entries listing legitimate Anthropic infrastructure as IOCs,2026-05-19T21:19:36Z,2026-05-19T21:23:08Z,0,False,HTML
+https://github.com/t0k0sh1/taguru/pull/894,"extract: --redact masks the document before anything reads it (ADR 0038, #882)",2026-09-05T15:22:23Z,2026-09-05T15:48:27Z,0,False,Rust
+https://github.com/artifacts-oss/daylog/pull/66,Remove profile from sidebar and reorder nav items,2026-06-12T05:35:00Z,2026-06-12T05:37:38Z,36,False,TypeScript
+https://github.com/PsydoV2/Readlet/pull/1,Add comprehensive README documentation for Readlet project,2026-08-19T10:26:34Z,2026-08-19T10:26:52Z,0,False,TypeScript
+https://github.com/rodneybusiness/bloom/pull/3,Add raw RemNote export as life-101 source material,2026-08-11T15:13:52Z,2026-08-11T15:40:03Z,0,True,Python
+https://github.com/TB1982/vas/pull/570,四語 guide og:image 指向 design 宰相的四語分享圖,2026-07-14T00:07:35Z,2026-07-14T00:07:42Z,0,False,HTML
+https://github.com/msalty/tiltboard/pull/16,Namespace service worker caches to prevent conflicts with sibling PWAs,2026-08-10T01:59:15Z,2026-08-10T02:08:50Z,0,False,HTML
+https://github.com/kamilpajak/AlphaLens/pull/1304,"docs(research): pre-register the insider-cluster forward lane (stage 2, single look)",2026-09-04T09:31:36Z,2026-09-04T09:43:27Z,1,False,Python
+https://github.com/ychowdhrey/ultratextgen/pull/552,Add 30 emoji & kaomoji library pages with hero assets,2026-07-13T13:33:14Z,2026-07-13T16:07:24Z,0,False,HTML
+https://github.com/xcaraballo14/Apple-Watch---Calories-Burn/pull/2,"Add email waitlist, App Store badge, iPhone mockups, and OG meta tags",2026-06-04T00:07:00Z,2026-06-04T00:09:40Z,1,False,Swift
+https://github.com/joshpalay/Joshing-11/pull/693,Add recheck affordance to the answer feedback sheet,2026-06-07T18:46:51Z,2026-06-07T18:46:58Z,0,False,TypeScript
+https://github.com/stecc88/parola/pull/16,feat: teacher notification bell in AppNav,2026-06-28T17:49:43Z,2026-06-28T17:49:54Z,0,False,TypeScript
+https://github.com/ImpactMojo/ImpactMojo/pull/473,"Fix stale ""GitBook"" footer label → ""Documentation"" (site-wide)",2026-06-02T17:24:15Z,2026-06-02T17:24:32Z,2,False,HTML
+https://github.com/dtun/plant-app/pull/27,docs(context): state the problem KeepTend exists to solve,2026-08-21T14:29:41Z,2026-08-22T04:12:10Z,0,False,TypeScript
+https://github.com/TEAMSchools/teamster/pull/4545,docs: assessment Cube direction files for the achievement-director project,2026-07-24T17:53:56Z,2026-07-24T19:05:24Z,16,False,Python
+https://github.com/sarathlal/tinylab.dev/pull/52,"Add AI news brief for June 23, 2026",2026-06-24T21:15:16Z,2026-06-24T21:15:56Z,0,False,HTML
+https://github.com/belovedangel02/darts-of-doom/pull/40,"Use the canonical track URL in the player, not a share short-link",2026-07-26T17:35:32Z,2026-07-26T17:35:41Z,0,False,HTML
+https://github.com/n3r/AgentCAD/pull/6,"World-cad: market research, PRD-based roadmap (32 PRDs), founder-ideas review",2026-08-09T16:20:53Z,2026-08-09T16:30:40Z,0,False,Python
+https://github.com/ValentinMouret/fitness/pull/130,Add share options to the meal dots menu for template-backed meals,2026-06-09T05:34:29Z,2026-06-09T05:34:57Z,0,False,TypeScript
+https://github.com/netease-lcap/wave-agent/pull/1978,确认弹窗按钮 Tab 顺序对齐 Claude（从左到右、主按钮最后）,2026-08-28T03:18:55Z,2026-08-28T03:21:16Z,31,False,TypeScript
+https://github.com/SABI9666/Laxora-billing-admin/pull/17,Shop Logins: share one login across multiple shops,2026-08-11T10:33:47Z,2026-08-11T10:33:58Z,0,False,TypeScript
+https://github.com/xmkqv/money-tree/pull/42,Add 20SMA daily trading strategy,2026-09-06T02:47:48Z,2026-09-06T02:48:34Z,0,False,Python
+https://github.com/PivoCloud/examples/pull/1,docs: point the deployment contract at docs.pivocloud.com,2026-09-05T10:52:14Z,2026-09-05T10:52:22Z,0,False,
+https://github.com/Gnosil/semantix/pull/352,chore(license): relicense to MIT + align all references,2026-08-22T11:54:25Z,2026-08-22T12:04:00Z,406,False,Go
+https://github.com/Grelionel/Invitation/pull/3,Make the app speak the schema the database now enforces,2026-08-28T10:47:16Z,2026-08-28T10:47:49Z,0,False,TypeScript
+https://github.com/Grelionel/Invitation/pull/9,"Make a scanned arrival reach the hall screen, and share the slideshow",2026-09-04T10:18:26Z,2026-09-04T10:19:47Z,0,False,TypeScript
+https://github.com/alejo888/flowpilot/pull/76,"feat(ai): subtask generation UI — slice, entry points, draft editing",2026-08-31T03:45:06Z,2026-08-31T03:54:17Z,0,False,Java
+https://github.com/mjskincare/matildajane-skincare/pull/30,Open mobile menu from the left and bolden menu text,2026-06-11T00:36:38Z,2026-06-11T00:37:08Z,0,False,HTML
+https://github.com/btravstack/btravstack/pull/238,feat!: the leaf is one shape across the three transports,2026-09-01T18:09:45Z,2026-09-02T13:23:11Z,1,False,TypeScript
+https://github.com/bacsystem/parallel-plan-executor/pull/56,chore(release): promote v0.6.19 to main,2026-07-19T21:46:29Z,2026-07-19T21:48:51Z,2,False,JavaScript
+https://github.com/razkaplan/primaries-selector/pull/3,"ריברנדינג מלא: מותג כיפי וחכם, עיצוב חדש לכל האתר, ושכבת SEO ואמון",2026-09-01T21:14:42Z,2026-09-01T21:14:49Z,1,False,TypeScript
+https://github.com/theopenco/llmgateway/pull/3194,feat(ui): add SCX.ai and Gonka24 to landing logos,2026-07-22T20:48:00Z,2026-07-22T21:14:18Z,1615,False,TypeScript
+https://github.com/dhoulb/shelving/pull/284,refactor: replace MemoryDBProvider tests with the universal contract suite,2026-07-31T17:29:59Z,2026-08-01T18:14:50Z,3,False,TypeScript
+https://github.com/PeterHauck/PeterHauck.github.io/pull/130,Family tree: center children (and their spouses) under their parents,2026-08-20T02:32:28Z,2026-08-20T02:32:37Z,0,False,JavaScript
+https://github.com/Garethdavidmiller/roster-app/pull/577,Team button: raspberry colour to distinguish toggle from nav buttons,2026-05-22T17:18:48Z,2026-05-22T17:18:59Z,0,False,JavaScript
+https://github.com/Tylerdonahue1/moonshots-pages/pull/33,Add share-kit link to the hero,2026-06-09T23:51:16Z,2026-06-10T00:05:51Z,0,False,HTML
+https://github.com/YoranKa/funneliq/pull/12,Expose Package 4: super-customer score endpoint,2026-09-06T14:41:37Z,2026-09-06T14:42:30Z,0,False,Jupyter Notebook
+https://github.com/guitorte/tarot/pull/15,Complete 4 of Swords and 5 of Swords hybrid pairings across all suits,2026-06-13T11:27:54Z,2026-06-13T11:34:56Z,1,False,HTML
+https://github.com/DeveloperYK/chauffeur-mvp/pull/169,fix(console): visible inputs on the backfill form; driver pay defaults to the subcontractor price,2026-09-04T17:58:02Z,2026-09-05T16:21:22Z,0,False,TypeScript
+https://github.com/Thiago15da/detailingdeml/pull/2,"Update real contact links — WhatsApp, Instagram, Facebook, TikTok",2026-06-15T13:46:33Z,2026-06-15T13:46:45Z,0,False,HTML
+https://github.com/remit-mail/reader/pull/181,test(drizzle-service): cover the undecodable continuation-token 400 contract (#172),2026-07-21T07:17:37Z,2026-07-21T08:03:08Z,1,False,TypeScript
+https://github.com/xssxghjk/Easy-Time-Tracker/pull/2,Add Analytics dashboard with date range selector and activity distribution,2026-05-26T09:34:40Z,2026-05-26T09:34:49Z,0,False,HTML
+https://github.com/mblua/AgentsCommander/pull/1848,feat(#1801): add the restart-resume settings contract and the persisted-working predicate,2026-09-07T13:44:05Z,2026-09-07T14:16:21Z,10,False,Rust
+https://github.com/sinelym-creator/factory-knowledge-twin/pull/50,docs(plan): open T1-4 ticket and put verification round in flight,2026-08-28T18:53:17Z,2026-08-28T18:53:33Z,1,False,JavaScript
+https://github.com/pilotventure/Pilot-Projects/pull/1,Implement redesigned Pilot Projects website,2026-06-09T06:05:49Z,2026-06-09T06:06:01Z,0,False,HTML
+https://github.com/PMODepartment/planning-app/pull/61,"Minutes of Meeting: UI/UX polish, draft-attendee editing, sort",2026-09-03T11:13:51Z,2026-09-03T11:29:05Z,0,False,HTML
+https://github.com/dazkool223/jigsaw/pull/13,"Restrict the board to a play area, badge held pieces, remove broken c…",2026-09-01T06:59:52Z,2026-09-01T07:00:01Z,0,False,TypeScript
+https://github.com/onnxsim/onnxsim/pull/580,Add auto-run inference option after model conversion,2026-08-03T05:38:47Z,2026-08-03T08:33:31Z,4396,False,Python
+https://github.com/Pryancito/eclipse/pull/605,linux: implement inotify (init1/init/add_watch/rm_watch),2026-07-20T23:42:52Z,2026-07-20T23:42:59Z,2,True,C
+https://github.com/brianramseyau/EveryList/pull/122,Add a /debug diagnostics page restricted to user id 1,2026-08-25T00:32:47Z,2026-08-25T00:40:09Z,0,False,TypeScript
+https://github.com/daler91/Hyrox-Companion/pull/1790,feat(weekly-review): add GET /api/v1/weekly-review,2026-08-15T22:43:08Z,2026-08-15T22:49:46Z,0,False,TypeScript
+https://github.com/jonyfs/wellsofchange/pull/33,fix: make the social card the size it claims to be,2026-09-07T21:44:23Z,2026-09-07T21:47:13Z,0,False,TypeScript
+https://github.com/vchelaru/Gum/pull/4646,Codegen: emit FindFormsControl<T> instead of deprecated TryGetFrameworkElementByName<T>,2026-09-07T15:46:47Z,2026-09-07T15:57:53Z,617,False,C#
+https://github.com/saeedmohamed248-dev/mousstec/pull/28,feat(omnichannel): قناتا إنستجرام + شات الموقع الإلكتروني,2026-09-04T02:44:34Z,2026-09-04T02:44:39Z,0,False,Python
+https://github.com/LukeEvansTech/claude-cloud-env/pull/14,fix(session-start): export TALOS_SECRETBOX_SECRET for gen-config,2026-09-06T22:22:20Z,2026-09-06T22:25:03Z,0,False,Shell
+https://github.com/FleetQ/svod-ui-macos/pull/11,"feat(engines): central engines with personal keys, members, per-vault roles (0.2.23, contract 0.30.0)",2026-09-05T12:32:59Z,2026-09-05T12:33:47Z,1,False,Swift
+https://github.com/plosson/siteio/pull/28,"UI: 4-col grid, consistent detail pages, clickable domains, site logs",2026-08-20T08:36:50Z,2026-08-20T08:36:57Z,6,False,TypeScript
+https://github.com/MuhammadRafay78/Taxprep/pull/12,"Fold qualified dividends into the ordinary dividends row, not a separate line",2026-09-07T13:27:50Z,2026-09-07T13:27:54Z,0,False,HTML
+https://github.com/MuhammadRafay78/Taxprep/pull/8,"Fix Cloudflare ""Update explanation"" button broken by bracket breakdown",2026-09-07T11:29:02Z,2026-09-07T11:29:06Z,0,False,HTML
+https://github.com/prismicio/skills/pull/7,docs(prismic): say that prismic.config.json holds routes and can be edited,2026-09-04T01:54:31Z,2026-09-04T03:43:34Z,1,False,
+https://github.com/harshilthakkar5/Construction-Drawing-AI-Platform/pull/51,Size the Spaces pool for downloads too; stop the benchmark overstatin…,2026-08-25T10:41:33Z,2026-08-25T10:41:46Z,0,False,TypeScript
+https://github.com/cosmopole-org/claude-code/pull/20,github tool: fix caller-identity propagation and self-heal ownership,2026-08-04T10:19:24Z,2026-08-04T10:19:36Z,0,True,TypeScript
+https://github.com/Kross-Club/kross-p2p/pull/21,docs: clarify Supabase multi-project setup under Kross Club org,2026-08-04T17:55:32Z,2026-08-04T22:37:00Z,0,False,TypeScript
+https://github.com/dachhack/ffgame/pull/747,v0.368.6: the one-play returner stops haunting every box score,2026-08-28T23:15:42Z,2026-08-28T23:15:47Z,0,False,TypeScript
+https://github.com/needsmorergb/charlie-protocol-v1/pull/2,"The BURN leg (deploy PR #3), brought under test; enrolment smoke check carries the toll",2026-09-05T01:35:46Z,2026-09-05T02:18:53Z,0,False,Python
+https://github.com/jonyardley/intrada/pull/1248,docs(design): sync CoachAction into Claude Design project + re-export (#1233),2026-08-07T06:46:31Z,2026-08-07T06:53:16Z,0,False,HTML
+https://github.com/alexanderwanyoike/spoke/pull/69,feat(desktop): offer to add the AppImage to the applications menu,2026-09-05T13:24:23Z,2026-09-05T14:21:05Z,1,False,TypeScript
+https://github.com/oasdiff/oasdiff/pull/1212,Promote the severity law into the rules package,2026-09-01T13:01:27Z,2026-09-01T20:29:03Z,1354,False,Go
+https://github.com/weirhere/sports/pull/26,Add multi-season support to team schedule with season selector,2026-08-17T21:05:55Z,2026-08-17T21:06:18Z,0,False,Swift
+https://github.com/akosiArvin081596/logistics-app/pull/130,feat(pdf-viewer): zoom out below fit-width to see the whole document,2026-07-30T12:21:16Z,2026-07-30T12:21:33Z,0,False,JavaScript
+https://github.com/KodiniTools/Interaktiver-Audioequalizer/pull/25,Add EQ presets with custom preset saving (localStorage),2026-07-10T20:46:16Z,2026-07-10T20:46:31Z,0,False,JavaScript
+https://github.com/Arashi20/Workout_Logging_App/pull/94,Add standalone read-only MCP connector service for Claude,2026-09-05T20:08:23Z,2026-09-05T20:13:18Z,0,False,Python
+https://github.com/rulkens/skymap/pull/494,"Fix Moon mean-longitude rate: use sidereal period, not anomalistic",2026-07-23T09:27:23Z,2026-07-23T09:31:17Z,8,False,TypeScript
+https://github.com/ULTRA-OS-Project/UltraCanvas/pull/82,Add orientation-aware scrollbar handle images,2026-07-10T08:53:25Z,2026-07-10T12:41:29Z,2,False,C++
+https://github.com/ShinChven/finance-mcp-server/pull/20,Add skills feature: user-authored procedures for agents,2026-08-20T09:04:26Z,2026-08-20T10:58:06Z,0,False,TypeScript
+https://github.com/unperson22-alt/kriss-bot/pull/13,requirements: SHA shared с переписанной ретушью,2026-08-21T11:17:26Z,2026-08-21T11:19:08Z,0,False,Python
+https://github.com/JossDuff/wikipethia/pull/23,M15: hosted endpoint for Claude web and ChatGPT,2026-08-27T15:37:31Z,2026-08-27T15:37:56Z,8,False,Rust
+https://github.com/infosloption-byte/voice-saas/pull/119,Fix entrypoint so queue-worker and scheduler actually run their commands,2026-06-13T05:19:39Z,2026-06-13T05:19:46Z,0,False,TypeScript
+https://github.com/nikkiwolfe4920/greatgrants/pull/116,Add Dashboard with interactive Great Grants Process workflow,2026-09-03T15:11:07Z,2026-09-03T15:11:16Z,0,False,TypeScript
+https://github.com/Schneewolf-Labs/egirl/pull/84,Add agent loop characterization tests,2026-06-10T02:19:00Z,2026-06-10T11:52:36Z,5,False,TypeScript
+https://github.com/Jayne-Agency/jayne/pull/59,Remove referral program link from footer nav,2026-07-02T14:34:13Z,2026-07-02T14:34:21Z,0,False,TypeScript
+https://github.com/cori/rtappstore/pull/47,Configure hermes-webui to connect to existing Hermes gateway,2026-06-10T10:46:24Z,2026-06-10T12:57:48Z,1,False,TypeScript
+https://github.com/usheikh2561/FamiliaPlanning/pull/1,Add v1: shared weekend availability planner,2026-06-24T21:16:12Z,2026-06-24T21:16:27Z,0,False,JavaScript
+https://github.com/officialinspire/INSPIRE-ORACLE-MAGIC-8BALL/pull/4,Add Open Graph and Twitter Card meta tags for social sharing,2026-08-11T00:55:27Z,2026-08-11T00:56:01Z,1,False,CSS
+https://github.com/ndunl075/OpenQuiz/pull/26,fix: stop a damaged share link leaving an unhandled rejection,2026-09-07T17:18:44Z,2026-09-07T17:18:50Z,0,False,TypeScript
+https://github.com/KandyPhoenix/TX-Method-App/pull/26,Training calendar heatmap + shareable progress card,2026-06-15T17:51:18Z,2026-06-15T17:51:34Z,0,False,JavaScript
+https://github.com/scottxxxxx/ghostpour/pull/812,share card: skip every heading for the zero-state line; bump CARD_VERSION so cached cards re-mint,2026-08-27T00:15:22Z,2026-08-27T00:23:44Z,4,False,Python
+https://github.com/NuunMedya/elitlig-mobile/pull/4,Consolidate player/team screens and modernize UI components,2026-08-20T05:52:55Z,2026-08-20T05:53:06Z,0,False,TypeScript
+https://github.com/sharimsohail1-lab/meraki-by-sam/pull/1,"Update index.html with improved UI: btn-green, active-status styles, …",2026-06-26T03:43:48Z,2026-06-26T03:44:01Z,0,False,HTML
+https://github.com/dob-0/di.iiii/pull/132,di up: the update check stops hurting the offline machine it promises not to,2026-08-10T15:57:42Z,2026-08-10T16:02:50Z,1,False,JavaScript
+https://github.com/sarathlal/tinylab.dev/pull/53,"Add AI news brief for June 24, 2026 — talent exodus and export controls",2026-06-24T21:15:33Z,2026-06-24T21:15:43Z,0,False,HTML
+https://github.com/rafatarrram29/lumen-project/pull/35,"Auto-guess Product from ""Row Labels"", carry fixed-month across a PDF batch",2026-09-01T20:13:51Z,2026-09-01T20:13:57Z,0,False,HTML
+https://github.com/jcchavez650/JC-Home/pull/1,Add World Cup 2026 live tracker app,2026-06-24T12:49:58Z,2026-06-24T12:50:10Z,0,False,JavaScript
+https://github.com/OneVVish/StudentLoanROI/pull/171,"Compare the admin key in constant time, cap the free-text inputs, widen the secrets ignore",2026-08-30T17:53:38Z,2026-08-30T18:37:01Z,0,False,Python
+https://github.com/agentstation/starport/pull/298,CSH-G3: rename the gateway-key identity words to API key words,2026-08-29T16:09:12Z,2026-08-29T16:19:40Z,1,False,Go
+https://github.com/mhboon/popla/pull/35,"feat: winner points, round-winners season ranking, matchdays season tab",2026-09-02T14:38:38Z,2026-09-02T20:17:21Z,1,False,TypeScript
+https://github.com/FiXXX-dev/halo-project/pull/4,Admin: pick owner from bot subscribers instead of typing chat_id,2026-07-15T20:06:02Z,2026-07-15T20:06:35Z,0,False,JavaScript
+https://github.com/eschizoid/stride/pull/289,"fix(sync): answer a missing client credential with its remedy, not internal_error",2026-08-26T16:27:41Z,2026-08-26T19:29:06Z,6,False,Roc
+https://github.com/ChatGPTCentral/linkedin-ads-agent/pull/2,Show real numbers on the deployed app (disable safe/demo mode),2026-06-05T23:51:01Z,2026-06-05T23:51:10Z,0,False,TypeScript
+https://github.com/corbitsdev/react-ui/pull/6,Add a Ladle component workbench and collapse chip duplicates into Badge,2026-08-08T15:49:12Z,2026-08-08T15:49:24Z,0,False,TypeScript
+https://github.com/AkahaneNoriaki/akahanenoriaki.github.io/pull/26,Fix photo save on iOS using Web Share API,2026-06-17T07:46:42Z,2026-06-17T07:46:52Z,0,False,JavaScript
+https://github.com/chloechow/WanderSync/pull/1,Add shared payment support for trip expenses,2026-08-15T08:46:30Z,2026-08-15T09:03:32Z,0,False,HTML
+https://github.com/portalmoesd/vector_portal/pull/349,Add Templates button + floating templates window on dashboards,2026-08-02T21:39:00Z,2026-08-02T21:39:07Z,0,False,JavaScript
+https://github.com/begb0037admin/hr-fa-knowledge-base/pull/8,Bake in the ElevenLabs agent ID so Talk works with zero setup,2026-06-11T07:56:47Z,2026-06-11T07:56:55Z,0,False,HTML
+https://github.com/bryantharpeorg/ergane-web/pull/10,Run one epic at a time: 002 and 003 share too much of pane/,2026-08-23T02:55:42Z,2026-08-23T02:58:41Z,2,False,TypeScript
+https://github.com/1outsyde/outsyde-backend/pull/79,feat(schema): mirror location-type + cancellation-policy fields onto …,2026-07-15T19:26:43Z,2026-07-15T19:26:51Z,1,False,TypeScript
+https://github.com/keyuchen1735-boop/calderyn-shopify-app/pull/250,dashboard/agentic: scope OAuth client list to the shop (+ mcp_tokens RLS),2026-07-02T01:52:58Z,2026-07-02T02:11:20Z,0,False,TypeScript
+https://github.com/linyows/jmapc/pull/54,Name the capability an account comes from,2026-09-05T05:38:22Z,2026-09-05T05:42:30Z,1,False,Go
+https://github.com/stormyybluee-spec/lastlonger/pull/1,Reorganize codebase into feature-based directory structure,2026-08-25T20:00:50Z,2026-08-25T20:06:46Z,0,False,Swift
+https://github.com/OriolSansPlanell/BITS-4D/pull/16,Export per-class bimodal histograms and use class names in file names,2026-08-19T17:13:10Z,2026-08-19T17:13:21Z,0,False,Python
+https://github.com/shnakelol-ops/Paircvision/pull/142,feat(slate): Record Clip + Share parity — missing commit from #141,2026-06-07T21:13:41Z,2026-06-07T21:13:50Z,0,False,TypeScript
+https://github.com/aerele/jarvis/pull/941,Remove the Gemini chat-subscription option (version-15),2026-08-19T16:19:41Z,2026-08-20T03:50:15Z,87,False,Python
+https://github.com/kafoosh/Travel/pull/27,File unassigned stops into groups from a dropdown — no dragging needed,2026-08-06T08:03:37Z,2026-08-06T08:03:54Z,0,False,JavaScript
+https://github.com/kingyx3/cc-ez-theme/pull/97,Make low inventory thresholds configurable per product,2026-08-14T16:21:11Z,2026-08-15T01:47:14Z,1,False,Python
+https://github.com/ranveeraggarwal/ranveeraggarwal.github.io/pull/4,Remove Disqus comments integration,2026-07-15T19:11:05Z,2026-07-15T19:13:29Z,0,False,CSS
+https://github.com/agentydragon/ducktape/pull/2497,mcp/authentik: accept issuer with trailing slash in JWTVerifier,2026-06-26T17:17:03Z,2026-06-26T17:23:29Z,10,False,Python
+https://github.com/mhwar/trip/pull/95,Fix: client view instant preview (no cloud required),2026-05-22T17:23:37Z,2026-05-22T17:24:02Z,0,False,HTML
+https://github.com/MolkaBokh/StartupVillageWebsite/pull/11,Integrate Actualités page into /actualites route,2026-06-25T23:27:24Z,2026-06-25T23:27:33Z,0,False,TypeScript
+https://github.com/h3rb3rn/moe-sovereign/pull/282,fix(portal): Live Monitor widget never renders active/completed requests,2026-07-10T22:38:51Z,2026-07-10T22:39:14Z,9,False,Python
+https://github.com/richmosko/project_template/pull/33,"docs(state): scope 0.4 milestone — 12 issues promoted, PT-2/3/4 deferred",2026-08-20T16:03:23Z,2026-08-20T16:03:41Z,0,False,Python
+https://github.com/dayz-one-life/one-life/pull/103,Back-merge v0.23.0 into develop,2026-07-19T05:38:10Z,2026-07-19T05:38:22Z,0,False,TypeScript
+https://github.com/hossamroger/Admin-portal/pull/42,Simplify Attachments card description,2026-06-07T20:04:26Z,2026-06-07T20:04:32Z,0,False,Java
+https://github.com/locallocal/lightnfs/pull/61,feat(state): stable-store hooks for the reclaim list (plan 10 A3),2026-09-05T06:04:16Z,2026-09-05T06:04:36Z,0,False,C++
+https://github.com/oterrasan/ovalorcapital/pull/160,fix: curtinhas sem foto — layout texto limpo (sem og-default como hero),2026-06-11T00:34:02Z,2026-06-11T00:34:49Z,0,False,HTML
+https://github.com/sz2629/sitongz.github.io/pull/7,"Disable read_time, share, and comment features across site",2026-06-26T00:13:27Z,2026-06-26T00:16:48Z,0,True,SCSS
+https://github.com/dayz-one-life/one-life/pull/100,Back-merge v0.22.0 into develop,2026-07-19T03:19:59Z,2026-07-19T03:20:11Z,0,False,TypeScript
+https://github.com/withpiper/pipekit/pull/178,chore(release): v4.29.1 — snapshot vs. live wasn't a fork in the road,2026-08-03T15:00:56Z,2026-08-03T15:14:05Z,6,False,Shell
+https://github.com/dayz-one-life/one-life/pull/97,Back-merge v0.21.2 into develop,2026-07-19T00:41:50Z,2026-07-19T00:42:00Z,0,False,TypeScript
+https://github.com/iprus2026-tech/BazarDriveCloud/pull/580,docs: Cloud Design now produces multi-screen interactive prototypes,2026-06-18T09:40:17Z,2026-06-18T10:11:12Z,0,False,HTML
+https://github.com/willb77/inspire-genius-frontend/pull/409,"docs(log): sidebar Tools consolidation + Lumen coaching retirement (FE #401, #402, #408)",2026-08-12T19:24:13Z,2026-08-12T19:27:24Z,1,False,TypeScript
+https://github.com/unperson22-alt/kriss-bot/pull/12,requirements: SHA shared с исправленной ретушью,2026-08-21T10:50:49Z,2026-08-21T10:52:26Z,0,False,Python
+https://github.com/Giovanniclini/tetris-lab-gb/pull/16,Credit the community's work by name,2026-08-21T14:13:56Z,2026-08-21T14:18:12Z,1,False,Assembly
+https://github.com/Remy-Margerum/personalWebsite/pull/4,"Nav: Activities dropdown groups Sailing, Cycling, Fishing",2026-08-25T14:23:25Z,2026-08-25T14:23:31Z,0,False,JavaScript
+https://github.com/xingpingsongxia49-dev/age3-tenpo-checklist/pull/1,Add Age.3 Kama store daily report web app,2026-08-31T02:14:55Z,2026-08-31T02:44:49Z,0,False,TypeScript
+https://github.com/hanklobo/colecao/pull/24,Improve X button touch area and redesign progress hero section,2026-06-24T21:57:02Z,2026-06-24T21:57:12Z,0,False,TypeScript
+https://github.com/Nolanevr/Bolt-DG/pull/5,Add loose-key flash: highlight rooms containing unpicked keys,2026-09-07T19:11:32Z,2026-09-07T19:12:18Z,0,False,Lua
+https://github.com/sapiom/sapiom-js/pull/565,chore: share the release-desktop skill with the team,2026-08-07T17:47:57Z,2026-08-07T18:26:49Z,19,False,TypeScript
+https://github.com/Shakedsuki/HUJI-lab-b2-brownian-motion/pull/6,Remove suptitle from plot2 grid,2026-05-31T22:15:35Z,2026-05-31T22:16:47Z,1,False,Python
+https://github.com/jonariver/poop-salary-timer/pull/28,Fix: Session-Share-Bilder hängen sich nie an (Illegal invocation),2026-08-30T13:27:13Z,2026-08-30T13:27:24Z,0,False,JavaScript
+https://github.com/candrikanich/recruiting-compass-ios/pull/55,feat(templates): family-shared communication templates (web parity),2026-08-24T17:54:28Z,2026-08-24T18:00:21Z,0,False,Swift
+https://github.com/ofeknoam83/giftmybook-children-worker/pull/329,"Character sheet: judge against child's photo, elect by face likeness",2026-09-07T20:25:23Z,2026-09-07T20:26:12Z,0,False,JavaScript
+https://github.com/Fauteck/newsku/pull/70,Refactor app bars to use FeedProfileMenu component,2026-04-22T18:25:21Z,2026-04-22T18:25:28Z,0,True,Dart
+https://github.com/Joacohbc/my-devcontainer-installer/pull/74,Reorganize config commands under `config shared` subgroup,2026-07-16T19:38:38Z,2026-07-16T20:03:23Z,0,False,Go
+https://github.com/Raylu42x/Sails-of-Combat/pull/26,"A drawn course with an arrowhead, and a HER GUNS layer for the enemy's reach",2026-09-02T00:28:37Z,2026-09-02T01:12:28Z,0,False,JavaScript
+https://github.com/vanillagreencom/kendex/pull/620,fix(#619): handle --help and reject unknown flags in worktree remove,2026-07-16T21:18:28Z,2026-07-16T21:21:06Z,75,False,Shell
+https://github.com/rhzuccarelli/audio_tools/pull/7,Add per-block playback to arrangement blocks,2026-06-23T21:27:26Z,2026-06-23T21:27:35Z,0,False,HTML
+https://github.com/MuhammadRafay78/Taxprep/pull/19,Use real client names for all 14 sample scenarios,2026-09-07T21:16:57Z,2026-09-07T21:17:04Z,0,False,HTML
+https://github.com/rstewartphysics/rstewartphysics.github.io/pull/74,"Higher: Forces on Charged Particles practice test pair, and a tests i…",2026-09-03T13:59:44Z,2026-09-03T13:59:53Z,0,False,HTML
+https://github.com/rjskene/pipeline/pull/1175,feat(visualize): add /pipeline:visualize — document/diff → self-contained HTML (local render),2026-07-12T14:54:43Z,2026-07-12T15:07:47Z,0,False,Shell
+https://github.com/pharmers961/Orch-NYC/pull/8,Add NY Philharmonic to scraped sources,2026-05-24T05:44:07Z,2026-05-24T05:44:12Z,0,False,TypeScript
+https://github.com/terotests/Ranger/pull/280,Bake full Universal-LPC art into character sprites with per-layer attribution,2026-07-15T08:19:55Z,2026-07-15T08:22:09Z,6,False,JavaScript
+https://github.com/AccumulateNetwork/BlockchainDB/pull/13,Re-enable Compress: Dyna layer reclaims space again,2026-08-24T21:35:21Z,2026-08-24T21:43:37Z,0,False,Go
+https://github.com/PredictiveEcology/SpaDES.core/pull/402,"fix(loadSimList): warn, don't fail, when module code needs a missing package",2026-08-28T19:57:04Z,2026-08-28T20:33:57Z,11,False,R
+https://github.com/dennisyu/local-service-spotlight-skills/pull/34,Add standard: an unanswered ask never stops the work,2026-09-04T23:10:18Z,2026-09-04T23:49:18Z,1,False,Python
+https://github.com/ejzimmer/journal/pull/84,Fix subtask edit form baseline and drop its input border,2026-09-04T23:54:15Z,2026-09-05T00:00:17Z,0,False,TypeScript
+https://github.com/Sinity/polylogue/pull/2365,test(browser-capture): pin native payload coalescing,2026-06-24T12:23:29Z,2026-06-24T12:24:12Z,8,False,Python
+https://github.com/AtchisonTechnology/AtchisonWebsites/pull/18,Bug0001: widen Netlify build-skip check to include shared/,2026-08-31T16:33:24Z,2026-08-31T16:34:06Z,0,False,CSS
+https://github.com/antimatter-studios/diskjockey/pull/74,"The constellation duplication scan, its evidence, and a plan",2026-08-30T15:56:15Z,2026-08-30T17:15:49Z,1,False,Swift
+https://github.com/MuhammadRafay78/Taxprep/pull/10,Break down Schedule 1 additional income and adjustments,2026-09-07T13:04:50Z,2026-09-07T13:04:54Z,0,False,HTML
+https://github.com/oxidar-org/web/pull/36,"Post: De C++ a Rust, reescribiendo un Ray Tracer",2026-07-26T14:22:58Z,2026-08-02T13:19:09Z,0,False,Python
+https://github.com/bitcoin-ghost/ghost/pull/809,fix(deploy): let the first production node start the soak it is asked to wait for (#759),2026-09-01T07:22:14Z,2026-09-01T07:53:30Z,6,False,Rust
+https://github.com/rick040/OSLIFE/pull/179,"Add ""Bureau"" desk layout mode to CRM and Projects views",2026-08-05T18:26:03Z,2026-08-05T18:26:55Z,0,False,TypeScript
+https://github.com/cozy51/MachineErrorCodeDB/pull/8,Use folder ID instead of name for Google Drive root folder,2026-08-17T06:14:49Z,2026-08-17T06:15:10Z,0,False,TypeScript
+https://github.com/brandon-fryslie/slopspot-paste/pull/26,Carry the captured Origin through the editor; display the share URL (slopspot-provenance-2my),2026-06-10T07:07:10Z,2026-06-10T07:15:37Z,0,False,TypeScript
+https://github.com/DZakh/sury/pull/349,Reuse sibling bindings in mutually recursive groups,2026-08-04T14:41:49Z,2026-08-05T10:18:39Z,484,False,TypeScript
+https://github.com/dan335/dominus/pull/49,Fix income/vassal rank ties when the value is 0,2026-07-22T20:31:31Z,2026-07-22T21:39:19Z,110,False,JavaScript
+https://github.com/deputable/deputable.ai/pull/6,Use the logo for the favicon and social share thumbnail,2026-08-20T21:29:37Z,2026-08-20T21:37:37Z,0,False,HTML
+https://github.com/daniel-daga/daedalus-dialog-suite/pull/151,refactor: split ThreeColumnLayout into three column sub-components,2026-04-02T15:28:40Z,2026-04-02T15:28:49Z,1,False,TypeScript
+https://github.com/Chris-Schnaufer/sparcd-exploration/pull/1,"Bundle the login-screen logo and background through auth-ui, not public/",2026-07-31T23:03:13Z,2026-07-31T23:03:25Z,0,True,TypeScript
+https://github.com/TibetY/Foodiedex/pull/25,"Remove the plain-text ""Email list"" share",2026-06-30T17:25:20Z,2026-06-30T17:25:30Z,0,False,TypeScript
+https://github.com/DrMurphyIsIn/Arda/pull/52,Telperion Phase 4: Cauchy–Schwarz emitter (2nd combinatorial family),2026-08-22T01:29:53Z,2026-08-22T03:35:12Z,0,False,Lean
+https://github.com/MatthewDruhl/IssueForge/pull/191,test(#189): PENDING acceptance for committed-baseline-command in prove_red,2026-07-28T16:01:56Z,2026-07-28T16:15:56Z,0,False,Python
+https://github.com/emilyeserven/course-tracker/pull/254,Extract shared FilterSelect; adopt across list pages,2026-06-12T21:11:48Z,2026-06-12T21:29:40Z,0,False,TypeScript
+https://github.com/levisager11-oss/paragon-calc/pull/25,Fix calculator accuracy and unify web/API implementations,2026-08-19T07:24:19Z,2026-08-19T07:25:04Z,2,False,JavaScript
+https://github.com/Khan/actions/pull/231,review: add allowed-domains allowlist for safe-output sanitization,2026-07-09T17:22:11Z,2026-07-09T18:27:59Z,3,False,TypeScript
+https://github.com/Mr-Gupta/PodBrainIntegration/pull/1,Document pod-brain retrieval logging and team memory queries,2026-07-21T19:07:36Z,2026-07-21T19:22:14Z,0,False,Python
+https://github.com/cassienmendez-cyber/text-to-speech-editing-app/pull/1,Add StoryScribe product specification and supporting docs,2026-06-16T05:26:33Z,2026-06-16T05:27:05Z,0,False,TypeScript
+https://github.com/EverAfterWeddingandEvents/griffinandhazel_rsvp/pull/7,Use a map link that Safari can actually open,2026-08-19T06:50:03Z,2026-08-19T06:50:15Z,0,False,HTML
+https://github.com/Mr-Mittt/sportconnect/pull/65,GRP-6: Join Group modal multi-select sport filter + app-wide modal po…,2026-07-21T17:01:35Z,2026-07-21T17:07:20Z,0,False,TypeScript
+https://github.com/wesley-perkins-software/spellingwords/pull/130,Add curriculum philosophy documentation and reorganize grade-level lists,2026-07-07T21:44:22Z,2026-07-07T21:48:22Z,0,False,TypeScript
+https://github.com/weekendclub/weekendclub.github.io/pull/28,Add CBT mock exam for Broadcast University psychology program,2026-07-08T05:39:08Z,2026-07-08T05:43:54Z,0,False,HTML
+https://github.com/jabrown93/plex-exporter/pull/8,ci: verify the build on push and pull request,2026-08-03T14:58:34Z,2026-08-03T15:00:59Z,0,True,Go
+https://github.com/amitsankaran1/Block/pull/13,Fix shields silently failing for blocks with more than 50 apps,2026-06-10T19:10:07Z,2026-07-16T18:41:52Z,0,False,Swift
+https://github.com/anynomous001/Kamai_OMS_frontend/pull/27,Share Receipt: open directly in customer's WhatsApp chat,2026-08-16T18:56:03Z,2026-08-16T18:56:48Z,0,False,TypeScript
+https://github.com/daganesh/find-the-photos/pull/5,Fix CI: build shared package before typecheck,2026-06-16T06:03:19Z,2026-06-16T06:05:08Z,0,False,TypeScript
+https://github.com/Career-RoadMap/dareomotosho/pull/33,Add email-to-self option on Path Finder result,2026-07-15T20:14:43Z,2026-07-15T20:15:04Z,0,False,TypeScript
+https://github.com/rdrewj/content-strategy-portfolio/pull/40,Add CV page with professional experience and education,2026-06-19T17:29:28Z,2026-06-19T17:31:05Z,0,False,HTML
+https://github.com/cprl-team/cprl-team.github.io/pull/17,Fix hero input-label overlap (move x1/x2/x3 left of nodes),2026-06-14T14:42:32Z,2026-06-14T14:42:38Z,0,False,HTML
+https://github.com/liga-auguste/planning-hub/pull/208,Resolve display dates at render time instead of caching them,2026-09-05T09:54:40Z,2026-09-05T10:44:22Z,0,False,Python
+https://github.com/mateusz-klatt/snapper-frontend/pull/338,chore(deps): lucide-react ^1.24.0,2026-07-10T13:51:41Z,2026-07-10T13:56:22Z,0,False,TypeScript
+https://github.com/berensp/berensp.github.io/pull/2421,Add meditative components to rosary mysteries,2026-07-11T04:55:38Z,2026-07-11T04:55:46Z,1,False,HTML
+https://github.com/kamalcharan/VaNiGTM/pull/9,"Phase 0: legacy removal — GTM-only codebase (contacts, cleanup, retargets)",2026-07-25T18:33:13Z,2026-07-25T18:35:25Z,0,False,JavaScript
+https://github.com/chrischall/sixflags-mcp/pull/7,fix(ci): run the Workers test pool in CI,2026-07-19T02:02:24Z,2026-07-19T02:04:03Z,0,False,TypeScript
+https://github.com/kenlasko/monize/pull/1139,Fix CSV formula injection guard to preserve numeric values,2026-08-13T14:28:12Z,2026-08-13T15:20:44Z,231,False,TypeScript
+https://github.com/craigt672/hotel-reservation/pull/7,ci: security scanner v7 — settings.json autorun + npm-implant markers,2026-08-12T14:26:18Z,2026-08-12T14:26:21Z,0,False,Java
+https://github.com/cdagesse/Zerrow/pull/46,"Contacts: per-tab search, multi phones, AI company research",2026-07-25T21:40:21Z,2026-07-25T21:40:29Z,0,True,TypeScript
+https://github.com/aldosanchez2002/WeddingWebpage/pull/8,Replace RSVP system with Firebase-backed name lookup and admin page,2026-08-27T06:29:38Z,2026-08-27T06:29:45Z,0,False,HTML
+https://github.com/keviv1408/literati/pull/17,feat(lobby): invite landing screen is the join form,2026-08-30T06:12:25Z,2026-08-30T06:22:20Z,0,False,JavaScript
+https://github.com/cbrenner04/jarvis/pull/1945,spec: add both-direction guard coverage to the handshake spec,2026-07-22T01:54:42Z,2026-07-22T01:55:36Z,0,False,TypeScript
+https://github.com/patrickdelaney-alt/royalfitness/pull/271,Fix share button doing nothing by preserving user-activation on share,2026-08-07T16:20:51Z,2026-08-07T16:22:14Z,0,False,TypeScript
+https://github.com/bound2/opendarkeden-server/pull/98,diagnostics: carry call-site info with std::source_location,2026-09-05T10:52:38Z,2026-09-05T11:00:04Z,0,False,C++
+https://github.com/bound2/opendarkeden-server/pull/97,wire: constrain the socket stream templates with a WireScalar concept and std::span,2026-09-05T10:51:45Z,2026-09-05T11:00:03Z,0,False,C++
+https://github.com/jabrown93/apcupsd-exporter/pull/6,ci: verify the build on push and pull request,2026-08-03T14:58:39Z,2026-08-03T15:00:42Z,0,True,Go
+https://github.com/Andhani/report-dashboard/pull/7,"Fix Flow1 preview table to group by metric, not month",2026-07-05T06:38:18Z,2026-07-05T06:38:53Z,0,False,JavaScript
+https://github.com/devswapnil/devswapnil.github.io/pull/5,Use profile photo instead of initials for logo and portrait,2026-08-08T05:51:26Z,2026-08-08T05:51:58Z,0,False,CSS
+https://github.com/Muhabuki003/Gecomo/pull/14,Cache-bust shared assets so per-index image windows load correctly,2026-07-14T18:59:58Z,2026-07-14T19:00:08Z,0,False,HTML
+https://github.com/DarkHelmet64/Family-Bank/pull/16,Add one-time chores and past credit functionality,2026-08-14T14:48:53Z,2026-08-14T14:49:11Z,0,False,JavaScript
+https://github.com/jobanputrah/test-game/pull/2,Add insights: SVG line chart of cumulative player scores per round,2026-05-28T08:17:47Z,2026-05-28T08:18:41Z,0,False,HTML
+https://github.com/konstantinosStouras/konstantinosStouras.github.io/pull/174,PortfolioFit: early-continue button with live countdown + hide snake widget,2026-06-15T20:45:27Z,2026-06-15T20:45:37Z,0,False,JavaScript
+https://github.com/mothuuu/ai-visibility-tool/pull/534,Add monthly/annual billing toggle to homepage pricing grid,2026-07-29T18:24:00Z,2026-07-29T18:24:10Z,0,False,JavaScript
+https://github.com/ahmad1368/ChatApp/pull/546,Safety Center and guide for safe meetups (#46),2026-09-05T07:48:47Z,2026-09-06T15:36:05Z,0,False,
+https://github.com/adhanaaan/AILongevWellness/pull/68,Insights: cut the wordiness + add score rings,2026-08-13T01:15:23Z,2026-08-13T01:17:06Z,0,False,TypeScript
+https://github.com/inersphobia/Salvation/pull/126,Consolidate: remove all snapshot copies except salvation9; add salvat…,2026-07-22T00:39:30Z,2026-07-22T00:40:01Z,0,False,HTML
+https://github.com/jabrown93/jellyseerr-exporter/pull/10,ci: verify the build on push and pull request,2026-08-03T14:58:44Z,2026-08-03T15:00:31Z,0,True,Go
+https://github.com/vanna-ung/goldfish/pull/8,Fix water-level phase getting stuck after send,2026-08-23T01:58:24Z,2026-08-23T01:58:31Z,0,False,JavaScript
+https://github.com/otised-inc/AnLar.HtmlToPdf/pull/8,Add POST /pdf/images endpoint to render PDF pages as image array,2026-03-19T05:07:26Z,2026-03-19T05:25:41Z,0,False,C#
+https://github.com/TakoData/tako-mcp/pull/238,feat(widget): opt every displayed card into the embed page's share control,2026-08-13T22:37:31Z,2026-08-14T00:12:27Z,5,False,TypeScript
+https://github.com/CoreyOutlier/Talon-Law-Group/pull/9,Hero clear of the attorney; why-people-call-us ledger; the record re-set,2026-09-05T23:11:14Z,2026-09-05T23:11:21Z,0,False,TypeScript
+https://github.com/jabrown93/nzbget-exporter/pull/4,ci: verify the build on push and pull request,2026-08-03T14:58:31Z,2026-08-03T15:01:11Z,0,False,Go
+https://github.com/labs-cloud/LIB-Plans-Permit-Dashboard/pull/65,feat(budget): add print report popup and live shareable report link,2026-05-26T20:11:16Z,2026-05-26T20:11:24Z,0,False,TypeScript
+https://github.com/TGALLOWAY1/HabitFlowAI/pull/478,fix: guard goal Extend/Repeat against double-firing,2026-05-27T05:27:12Z,2026-05-27T05:27:21Z,1,False,TypeScript
+https://github.com/JuanDuran85/basic-vulnerability-scanner/pull/9,feat: ship as a Claude Code plugin and resolve shared files portably,2026-08-22T17:33:24Z,2026-08-22T17:33:33Z,0,False,PowerShell
+https://github.com/HoebTech/hoebtech-website/pull/18,Add PostHog analytics tracking snippet to <head>,2026-06-28T02:17:41Z,2026-06-28T02:17:52Z,0,False,CSS
+https://github.com/rzasharp79/turducken/pull/2,docs: add shared-noise loss profiling method for dataset pruning,2026-08-11T17:00:13Z,2026-08-11T17:00:23Z,0,False,
+https://github.com/nyanta-kun/kiseki/pull/410,chore(shared): 追跡下に入っていたログ2本を外し、.gitignore の非対称を直す,2026-09-01T11:57:27Z,2026-09-01T14:00:43Z,0,False,Python
+https://github.com/uplinxmarketing/final-app/pull/119,Only carousel-named subfolders are auto-imported from a main folder,2026-06-10T14:09:41Z,2026-06-10T14:09:56Z,0,False,HTML
+https://github.com/albertjr99/Atravessia/pull/13,"Rebrand icons, redesign auth screens, add PDF export for reports",2026-07-13T14:42:39Z,2026-07-13T14:42:47Z,0,False,JavaScript
+https://github.com/craigt672/priority-gate/pull/7,ci: security scanner v7 — settings.json autorun + npm-implant markers,2026-08-12T14:26:38Z,2026-08-12T14:26:41Z,0,False,TypeScript
+https://github.com/Mohammad-Toseef/WhisperFineTuningPOC/pull/12,Round 2: continue round 1's adapter on the reviewed Batch 3 corpus,2026-08-28T10:19:10Z,2026-08-28T10:20:00Z,0,False,Python
+https://github.com/mpcodemonkey/stale-requests/pull/5,Never flag unreleased media as stale,2026-08-07T03:02:52Z,2026-08-07T03:03:06Z,0,False,Python
+https://github.com/tseggai/balkinaAI/pull/408,feat(web): host white-label pitch deck at /deck,2026-07-07T10:47:00Z,2026-07-07T10:47:08Z,0,False,TypeScript
+https://github.com/alexwelcing/carousel/pull/1,Update Publicis Groupe packet for Senior AI TPM role,2026-07-06T21:12:37Z,2026-07-06T21:12:58Z,0,False,HTML
+https://github.com/jabrown93/tautulli-exporter/pull/4,ci: verify the build on push and pull request,2026-08-03T14:58:27Z,2026-08-03T15:20:52Z,0,False,Go
+https://github.com/midlandchemicals/deliverynotes/pull/85,"Apply Quiet Ledger design: sidebar shell, new dashboard, single theme",2026-07-09T07:58:34Z,2026-07-09T07:58:43Z,0,False,JavaScript
+https://github.com/broadmoorsolutionsuw/PowerBI-Embed/pull/7,ci: security scanner v7 — settings.json autorun + npm-implant markers,2026-08-12T14:24:52Z,2026-08-12T14:24:54Z,0,False,TypeScript
+https://github.com/craigt672/craigt672/pull/7,ci: security scanner v7 — settings.json autorun + npm-implant markers,2026-08-12T14:26:07Z,2026-08-12T14:26:10Z,0,False,
+https://github.com/shaheertiger/modernblind/pull/11,Add 1200x630 OG share image,2026-06-14T20:24:11Z,2026-06-14T20:24:20Z,0,True,HTML
+https://github.com/dsabena-byte/Dashboard-Mkt/pull/160,Mercado: nombre de variable en título de Mayores variaciones,2026-06-11T13:49:18Z,2026-06-11T13:49:24Z,0,False,TypeScript
+https://github.com/Foody-isr/web/pull/65,Per-device category banner fit (Cadrage),2026-06-15T10:11:46Z,2026-06-15T10:11:59Z,0,False,TypeScript
+https://github.com/JonasmedJ/Opgaveoversigt/pull/1,Fix user list not persisting across application restarts,2026-07-22T12:18:18Z,2026-07-22T12:24:56Z,0,False,C#
+https://github.com/DavidStahl97/Komoot-Collection/pull/6,Add interactive overlay to collection pages,2026-08-09T11:55:12Z,2026-08-09T11:56:39Z,0,False,Python
+https://github.com/villagehale/hale/pull/515,"feat(coach): the web-grounded activity lane — a find with a gap is still a find, and promises are rows",2026-08-21T06:54:54Z,2026-08-21T07:52:24Z,0,False,TypeScript
+https://github.com/davide-bleggi/openPlan3D/pull/27,Extract display controls to shared bottom bar component,2026-08-14T18:00:36Z,2026-08-14T18:21:34Z,0,True,Svelte
+https://github.com/PeterBlenessy/notesage/pull/648,"iOS: native QuickLook preview for videos, audio and office documents",2026-08-12T09:54:06Z,2026-08-12T10:05:32Z,3,False,TypeScript
+https://github.com/AKSIS-1/AKSIS-1.github.io/pull/7,feat: Stop Protection Audit card,2026-06-27T00:51:01Z,2026-06-27T00:51:10Z,0,False,
+https://github.com/Emperator400/DungenManager/pull/18,Add project showcase index.html,2026-06-06T12:36:26Z,2026-06-06T12:39:56Z,0,False,Dart
+https://github.com/rado-parrak/grocery-shopper/pull/1,Phase 1 & 2: Foundation spine + quick-add/basket-review skills,2026-07-31T20:24:10Z,2026-07-31T20:28:27Z,0,False,JavaScript
+https://github.com/PrashobhPaul/CogniFlow/pull/4,One-command claude.ai connector: Cloudflare Workers MCP entry,2026-09-04T03:16:48Z,2026-09-04T03:18:17Z,0,False,TypeScript
+https://github.com/ychowdhrey/ultratextgen/pull/523,Add Polish language library pages and assets,2026-07-12T11:26:47Z,2026-07-12T13:26:03Z,0,False,HTML
+https://github.com/MuhammadRafay78/Taxprep/pull/17,"Add Schedule H, Form 8863, and two previously-untracked 1040 lines",2026-09-07T21:02:26Z,2026-09-07T21:02:31Z,0,False,HTML
+https://github.com/multidigitalltd/metavchim/pull/451,"ההדרכה מדגישה את מה שצריך לדעת לפני החיבור, ואומרת גם איך משלמים",2026-09-07T18:04:31Z,2026-09-07T18:15:24Z,0,False,TypeScript
+https://github.com/Bralabee/JToye_OaaS_2026/pull/320,docs(k8s): link the topology diagrams from DEPLOYMENT.md,2026-07-28T09:16:54Z,2026-07-28T09:33:12Z,0,False,Java
+https://github.com/cemozturkish/istanbulite/pull/664,"Open TBMM from Ankara, free the map's lower half, match the tint",2026-08-14T15:45:27Z,2026-08-14T15:45:35Z,0,False,HTML
+https://github.com/ilanoppenheimer-debug/Commander/pull/15,fix: clean up orphaned supersetId after exercise reorder,2026-06-08T10:54:02Z,2026-06-08T10:54:14Z,0,False,JavaScript
+https://github.com/j6sistek-ui/acornaut/pull/28,Beta: Big Booty cheeks go absolutely maximum,2026-08-17T04:21:06Z,2026-08-17T12:04:41Z,1,False,HTML
+https://github.com/umizoomi/snapdrop/pull/1,Add CloudPanel deployment setup with GitHub Actions CI/CD,2026-09-07T13:27:21Z,2026-09-07T19:19:04Z,0,True,JavaScript
+https://github.com/surfy2024/image-text-edit/pull/2,Document agent platform installation,2026-07-15T15:26:22Z,2026-07-15T15:30:05Z,0,False,Python
+https://github.com/craigt672/kade-protocol/pull/7,ci: security scanner v7 — settings.json autorun + npm-implant markers,2026-08-12T14:26:28Z,2026-08-12T14:26:31Z,0,False,TypeScript
+https://github.com/supercow5555/claudeplayground/pull/2,Add save/load for notification trigger scenarios,2026-06-10T17:16:31Z,2026-06-10T17:16:40Z,0,False,HTML
+https://github.com/iiamit/MyTailLog/pull/104,feat(sync): Bearer auth on the mobile-facing routes,2026-07-28T00:24:23Z,2026-07-28T00:27:46Z,4,False,TypeScript
+https://github.com/jayfeng0625/octo-santa/pull/33,Upgrade to MCP SDK v2 with structured tool output; add resource-subscriptions spec,2026-07-31T06:25:32Z,2026-08-01T07:54:55Z,0,False,TypeScript
+https://github.com/btclib-org/portanode/pull/464,`.gitattributes`' union-driver paragraph moves out of the half section 14 shares into this repository's own (issue btclib-org/.github#830),2026-09-06T05:46:06Z,2026-09-06T05:46:15Z,0,False,Shell
+https://github.com/micheledallida-web/Nexts.PR/pull/150,Switch mail from Resend API to SMTP via Namecheap Private Email,2026-08-18T03:31:22Z,2026-08-18T07:54:01Z,0,False,JavaScript
+https://github.com/wls-studio/uma-dose/pull/1,Adiciona botão de compartilhar com URL bonita nos artigos,2026-08-26T23:13:05Z,2026-08-26T23:14:07Z,0,False,HTML
+https://github.com/aoprisan/tarot/pull/1,ci: enable Pages via configure-pages and use standard concurrency group,2026-05-23T15:39:21Z,2026-05-23T15:39:31Z,0,False,TypeScript
+https://github.com/wow-look-at-my/agentic-loop/pull/68,Add DialectRefused to read endpoint from refusal bodies,2026-09-04T20:54:53Z,2026-09-04T22:12:23Z,0,False,Go
+https://github.com/spartans-cc-blr/spartans-book-a-slot/pull/109,Rebalance scorecard column widths to fit Dots header,2026-07-28T10:36:07Z,2026-07-28T10:36:15Z,0,False,TypeScript
+https://github.com/RobertPakko/star-voting/pull/1,Allow poll creators to edit options before first vote,2026-08-20T04:01:13Z,2026-08-20T04:26:23Z,0,False,TypeScript
+https://github.com/cberner/hitch/pull/538,Share one copy-to-clipboard helper,2026-06-14T16:50:06Z,2026-06-14T17:08:15Z,1,False,Python
+https://github.com/Matuyuhi/fv/pull/93,Reorder help sections to prioritize current screen,2026-08-25T15:26:19Z,2026-08-25T15:57:49Z,2,False,Rust
+https://github.com/agentstation/starport/pull/290,Add the console account policy panel,2026-08-29T10:43:52Z,2026-08-29T10:54:36Z,1,False,Go
+https://github.com/laurenbmoody-web/cargo.provisions/pull/2,"Add global top nav bar with Cargo logo, account menu, order history",2026-06-08T15:53:23Z,2026-06-08T15:53:45Z,0,False,TypeScript
+https://github.com/grahamivyco/ngm-website/pull/225,One copy size site-wide: all narrative copy at 1.0625rem,2026-08-11T00:43:55Z,2026-08-11T00:44:46Z,0,False,CSS
+https://github.com/ReactivityJS/QuV3/pull/34,"Fix missed install/update events, restructure PWA menu entries, fix N…",2026-08-16T16:02:23Z,2026-08-16T16:02:46Z,0,False,JavaScript
+https://github.com/tingtt/agentsctl/pull/12,feat(tui): support multiline composer prompts,2026-09-06T20:34:33Z,2026-09-06T20:37:46Z,0,False,Go
+https://github.com/Avi-ADAM/1.0/pull/62,docs: add organic X (Twitter) promotion plan,2026-07-13T10:34:05Z,2026-07-13T10:34:15Z,1,False,Svelte
+https://github.com/kssasarma/confluencebot/pull/40,"Fix ""All spaces"" dropdown flying in from the left",2026-09-07T08:01:22Z,2026-09-07T08:03:57Z,1,False,Java
+https://github.com/areeshnanolixdigital/randallfryer/pull/50,"fix(analytics): make Meta Pixel actually fire, and gate it on cookie …",2026-09-03T18:56:31Z,2026-09-03T18:57:09Z,0,False,HTML
+https://github.com/Joielectric/LitFriends/pull/61,Match WNP breadcrumb style to other artist pages,2026-06-08T02:36:36Z,2026-06-08T02:36:41Z,0,False,HTML
+https://github.com/tdveal74-cell/Meta-Supreme-Apex-Genesis-/pull/52,Build 13: Heartbeat spec and registration,2026-08-26T00:27:54Z,2026-08-26T01:22:59Z,0,False,Python
+https://github.com/treychase/nba-stats/pull/2,Add touches and pick and roll tab,2026-08-11T17:05:45Z,2026-08-11T17:05:54Z,0,False,Jupyter Notebook
+https://github.com/foglamp-labs/foglamp/pull/42,feat(marketing): standardize Scan + HUD product pages,2026-07-08T18:24:22Z,2026-07-08T18:24:26Z,343,False,TypeScript
+https://github.com/alysnnix/nalyx/pull/184,feat(claude): block every claude.ai surface,2026-08-31T01:55:47Z,2026-08-31T11:44:05Z,1,False,Nix
+https://github.com/MrHakan/memeforge/pull/2,Publish the site with GitHub Pages,2026-07-30T15:30:15Z,2026-07-30T15:30:25Z,1,False,JavaScript
+https://github.com/cronxco/spark-ios/pull/9,"P0 containment: fix logout, conditional writes, notifications",2026-09-06T15:31:07Z,2026-09-06T17:07:01Z,0,False,Swift
+https://github.com/bmatge/dsfr-data/pull/493,feat(favorites): refonte « Favoris v2 » — grille de vignettes + panneau d'aperçu (Claude Design),2026-08-24T09:36:48Z,2026-08-24T09:41:03Z,3,False,TypeScript
+https://github.com/samcamachoh/Accounting-Somos-Reino/pull/7,Rebrand as member portal with bilingual support,2026-08-16T23:12:35Z,2026-08-16T23:13:29Z,0,False,HTML
+https://github.com/glloq/General-Midi-Boop/pull/1795,fix(keyboard): uniform steel drum pocket size,2026-05-17T12:52:38Z,2026-05-17T12:52:53Z,4,False,JavaScript
+https://github.com/nielsrowinbik/energy-custom-graph/pull/3,fix: clamp forecast to view period so charts respect timespan,2026-07-24T13:33:41Z,2026-07-24T13:33:50Z,0,True,TypeScript
+https://github.com/pucakisses-star/ck3/pull/14,Flat cartographic province mode: precise coasts and islands,2026-08-09T04:25:08Z,2026-08-09T04:25:16Z,0,False,Python
+https://github.com/kontourai/ui/pull/15,feat(tokens): layered overlay elevation + tight desktop radii,2026-06-27T22:15:20Z,2026-06-27T22:16:44Z,1,False,TypeScript
+https://github.com/bowo-prasetyo/forkbuild/pull/225,Add snapshot materialization history tracking (0.8.38),2026-08-26T05:04:26Z,2026-08-26T05:06:09Z,0,False,JavaScript
+https://github.com/kojjob/emakola/pull/583,"feat(web): partners is a hub, not fourteen stacked sections",2026-09-01T13:14:06Z,2026-09-01T19:07:37Z,0,False,HTML
+https://github.com/Dbaldauf147/prospect-tracker/pull/1041,"Agents: surface ""BFO Opportunity Name not tagged to an opp"" warning",2026-07-09T20:46:31Z,2026-07-09T20:46:45Z,0,False,JavaScript
+https://github.com/kuboon/remix3-ssg-gh-pages/pull/26,Glob the island entrypoints instead of naming all twenty,2026-09-07T04:10:05Z,2026-09-07T06:11:00Z,0,False,TypeScript
+https://github.com/quarterback/vroomtv/pull/6,Add favicon and meta tags for social sharing,2026-06-12T03:30:46Z,2026-06-12T03:30:59Z,0,False,Python
+https://github.com/FastTrackStudios/task/pull/55,"feat(resources): sermons live inside the wiki they belong to, with a Sermons.base",2026-09-03T19:36:15Z,2026-09-03T19:36:26Z,0,False,Rust
+https://github.com/brandonjackson/simdpg/pull/30,Pin Railway builder to Dockerfile via railway.json,2026-06-08T20:45:00Z,2026-06-08T20:45:08Z,3,False,TypeScript
+https://github.com/ureshan2011/thisisnotalms/pull/46,Add Jira & Agile free resources bonus lesson with LinkedIn post template,2026-06-20T04:02:12Z,2026-06-20T04:02:34Z,0,False,TypeScript
+https://github.com/LocNgu/YAPT-Yet-Another-Plant-Tracker/pull/481,ci: skip debug keystore decode when secret is absent,2026-07-26T21:51:22Z,2026-07-26T21:56:02Z,1,False,Kotlin
+https://github.com/berketpbs/anamnesis/pull/131,ci: a doc warning is a failure,2026-09-04T00:03:26Z,2026-09-04T00:12:01Z,1,False,Rust
+https://github.com/USA-Dental-Report/dental-news-buffer/pull/5,Clarify content curation guidelines for LinkedIn post drafts,2026-06-17T20:54:19Z,2026-06-17T20:54:41Z,0,False,JavaScript
+https://github.com/monarch-initiative/loinc-ingest/pull/4,phenotype: suppress negated HP edges instead of asserting NOT-X alongside X,2026-08-19T20:10:21Z,2026-08-19T20:16:23Z,0,False,Python
+https://github.com/wilbertjoosen/demo/pull/20,Point testing at main's in-cluster Grafana/Loki/Prometheus/Tempo,2026-08-25T12:13:35Z,2026-08-25T12:25:05Z,0,False,Java
+https://github.com/JonathanCGill/airuntimesecurity.io/pull/436,Correct three-layer diagram: Layer 2 is Reviewing controls,2026-06-23T19:37:18Z,2026-06-23T19:37:37Z,0,False,Python
+https://github.com/jrh91234/Scan-pdf/pull/5,Fix PDF export failing silently,2026-06-05T12:21:35Z,2026-06-05T12:21:56Z,0,False,JavaScript
+https://github.com/aneebbaig/app-starter-skills/pull/6,"docs: rewrite README for users, freshen CONTRIBUTING",2026-07-12T11:35:16Z,2026-07-12T11:35:35Z,0,False,Shell
+https://github.com/dachhack/ffgame/pull/272,Rulebook page: wide OG card so shared links unfurl as a banner,2026-08-08T16:54:38Z,2026-08-08T16:54:47Z,0,False,TypeScript
+https://github.com/ndc-webapps/Vyrthlands/pull/12,Visible role picker on join + animated avatar previews in role buttons,2026-06-12T14:47:30Z,2026-06-12T14:47:41Z,0,False,TypeScript
+https://github.com/yocreoquesi/muga/pull/1169,feat(consent): Tier 2 remote-rule content transport + merge + dispatch (PR B2/B),2026-07-25T22:58:29Z,2026-07-25T23:04:46Z,8,False,JavaScript
+https://github.com/barnickelus/Cbarnickel/pull/18,Line-art frames: add crisp edge lines so creases aren't missing,2026-06-07T01:50:02Z,2026-06-07T01:50:11Z,0,False,HTML
+https://github.com/alxjrvs/alxjrvs.github.io/pull/4,About: new bio copy,2026-07-17T04:37:24Z,2026-07-17T04:37:46Z,0,False,CSS
+https://github.com/zonebond/colime/pull/10,Split pinned sessions into their own sidebar group,2026-07-08T06:49:13Z,2026-07-08T06:52:04Z,0,False,TypeScript
+https://github.com/Kallb123/async-games/pull/181,Highlight shared matches on friend profiles,2026-07-29T13:57:32Z,2026-07-29T14:14:02Z,0,False,TypeScript
+https://github.com/qoolvool/signaler_bot/pull/40,Switch to fixed-percent sizing: trade size = 1% of current balance,2026-06-05T14:40:05Z,2026-06-05T17:30:42Z,0,False,Python
+https://github.com/TetronIO/JIM/pull/837,docs(skills): add guardrails to review-dependabot merge step,2026-06-12T22:55:36Z,2026-06-12T23:02:11Z,6,False,C#
+https://github.com/dinaagz/Go-Flow/pull/65,Add Vite build tooling and package configuration,2026-07-27T18:01:45Z,2026-07-27T18:49:38Z,0,False,HTML
+https://github.com/Sinity/polylogue/pull/4336,perf(devtools): collapse repeated AST walks in oracle integrity,2026-08-27T11:41:24Z,2026-08-27T11:41:32Z,8,False,Python
+https://github.com/cnading12/MerrittWorkspace/pull/190,Refactor membership application confirmation email,2026-08-31T20:48:10Z,2026-08-31T20:48:24Z,0,False,TypeScript

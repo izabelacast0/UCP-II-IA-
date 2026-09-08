@@ -1,0 +1,46 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/jzhao0/portable-ai-context/pull/77,Add privacy-safe Gemini public-share DOM discovery probe,2026-08-20T03:01:53Z,2026-08-20T03:03:00Z,0,False,Python
+https://github.com/escola-de-pacientes/escola-de-pacientes-df/pull/2,"Atualiza o cartão de compartilhamento, troca o Classroom pelo Núcleo EP e corrige o link da SANTA-IA",2026-08-14T00:55:01Z,2026-08-14T00:55:07Z,0,False,HTML
+https://github.com/alibowbow/daropo/pull/4,Update Korea trip planner demo link to Vercel deployment,2026-04-13T15:14:48Z,2026-04-13T15:15:03Z,0,False,HTML
+https://github.com/HLIEN-cyber/ibshfssh/pull/122,Update app URLs for groups 1-5,2026-05-10T05:45:42Z,2026-05-10T05:46:06Z,0,False,HTML
+https://github.com/HLIEN-cyber/ibshfssh/pull/118,Update app URLs for groups 1-5,2026-05-10T05:36:42Z,2026-05-10T05:36:57Z,0,False,HTML
+https://github.com/thompsonson/lestash/pull/99,fix(chrome): support Gemini shared URLs,2026-04-04T17:41:39Z,2026-04-04T18:48:13Z,0,False,Python
+https://github.com/yasushihonda-acg/ai-dev-solutions-lp/pull/18,fix: Google AIコースのCanvas共有記載を正確な情報に修正,2026-03-30T08:40:53Z,2026-03-30T08:40:56Z,0,False,HTML
+https://github.com/Acode-Foundation/acode.app/pull/6,fix: Email leakage in user profile page,2025-10-25T11:29:24Z,2026-02-19T05:53:28Z,30,False,JavaScript
+https://github.com/Bella-Addormentata/XOPTrader/pull/2,Add comprehensive research and planning docs for Chia DEX market maker,2026-03-23T00:53:22Z,2026-03-24T00:19:20Z,1,False,C++
+https://github.com/chaishillomnitech1/context-hub-skills/pull/1,[WIP] Add initial repository setup with SKILL.md definitions,2026-03-12T19:14:19Z,2026-03-12T19:15:11Z,0,False,
+https://github.com/woowacourse/gemini-canvas-mission/pull/121,[사용자가 있는 Gemini 웹앱 출시하기] 먼지 미션 제출합니다.,2026-02-26T08:30:33Z,2026-02-26T16:06:17Z,3,False,
+https://github.com/FuzzysTodd/The-Nexus-Protocol-Token-DAO/pull/328,[WIP] Add integration for public NFT DAO on Ethereum,2025-12-10T02:43:58Z,2025-12-10T03:00:09Z,1,False,Solidity
+https://github.com/khrees/chatdump/pull/1,Add Gemini and Claude share support with provider health checks,2026-03-20T18:52:49Z,2026-03-20T19:42:12Z,0,False,TypeScript
+https://github.com/jiunbae/select-chat-gpt/pull/31,"feat: 멀티 플랫폼 지원 (Claude, Gemini)",2026-01-01T12:26:15Z,2026-01-01T14:46:29Z,0,False,TypeScript
+https://github.com/Vikaash-dev/Ai-research-paper-and-implementation-of-brain-tumor-detection-/pull/1,Implement AI brain tumor detection system with research paper and CNN implementation,2026-01-04T08:14:05Z,2026-01-06T01:13:23Z,0,False,Python
+https://github.com/jhojin7/llm-chat-downloader/pull/8,Add Claude shared chat support alongside Gemini,2025-11-14T19:26:27Z,2025-11-14T19:27:54Z,0,False,Python
+https://github.com/albertlewisvicentine-cell/Aethelguard-Beta-/pull/4,Add user authentication system with Flask web application,2026-01-02T18:37:05Z,2026-01-11T03:37:13Z,0,False,Python
+https://github.com/tikoci/restraml/pull/37,Add side-by-side RouterOS API schema diff page (docs/diff.html),2026-03-13T07:28:33Z,2026-03-13T08:01:42Z,72,False,TypeScript
+https://github.com/bitofbytes-io/anthology/pull/84,Implement Active Shelf Scanning feature,2025-12-09T06:50:01Z,2025-12-10T06:17:58Z,0,False,Go
+https://github.com/BryanAlanCouch/skills-introduction-to-github/pull/3,[WIP] Finish the Omni assistant AIo mega tech platform,2025-11-17T15:20:43Z,2025-11-17T15:21:58Z,1,False,HTML
+https://github.com/n138-kz/Dockerfile.ubuntu/pull/6,add build_at: iso8601 format,2025-08-19T12:53:08Z,2025-08-19T12:56:35Z,0,False,Dockerfile
+https://github.com/abernier/material-theme-builder/pull/74,Recolor,2026-02-09T14:47:09Z,2026-02-10T15:28:16Z,3,True,TypeScript
+https://github.com/Saualmhaus/Saualmhaus.github.io/pull/2,Vorschau-Update index.html,2025-09-04T19:32:46Z,2025-09-04T19:33:24Z,0,False,HTML
+https://github.com/idealase/idealase.github.io/pull/108,"Add ""The Fatal Economy"" document page",2025-11-10T21:46:35Z,2025-11-11T00:39:30Z,1,False,HTML
+https://github.com/bytedance/g3/pull/923,Update dev-setup.md,2025-09-10T01:12:13Z,2025-09-10T02:56:44Z,895,False,Rust
+https://github.com/woowacourse/gemini-canvas-mission/pull/6,[사용자가 있는 Gemini 웹앱 출시하기] 테리 미션 제출합니다.,2026-02-25T15:30:30Z,2026-02-26T16:01:41Z,3,False,
+https://github.com/sunglocto/pi-im/pull/12,make /me parsing more efficient,2025-08-09T01:26:27Z,2025-08-09T07:22:09Z,0,False,Go
+https://github.com/swissspidy/compare-wp-performance/pull/109,[WIP] Add AI prompt output for non-scientist users,2025-10-31T09:27:49Z,2025-10-31T09:34:58Z,18,False,Shell
+https://github.com/p-doom/jasmine/pull/128,fixed spatiotemporal pe and pulled it out of the STBlock,2025-07-30T15:28:15Z,2025-08-05T23:38:11Z,163,True,Python
+https://github.com/luau-lang/site/pull/58,Increase share limit,2025-09-19T03:26:11Z,2025-09-20T01:03:13Z,18,False,Astro
+https://github.com/nesbox/TIC-80/pull/2829,[libretro] Fixes frametime (and weird bugs),2025-09-10T05:19:35Z,2025-09-11T15:37:09Z,6111,False,C
+https://github.com/RyotaTemma/WHI_Intern/pull/21,Task 14: サービス名の検討,2025-07-20T07:36:06Z,2025-07-20T07:37:20Z,0,False,TypeScript
+https://github.com/RyotaTemma/WHI_Intern/pull/20,Task9:検索結果の並べ替え,2025-07-20T07:18:41Z,2025-07-20T07:21:48Z,0,False,TypeScript
+https://github.com/RyotaTemma/WHI_Intern/pull/13,Task6:属性による絞り込み,2025-07-20T01:31:58Z,2025-07-20T02:06:13Z,0,False,TypeScript
+https://github.com/RyotaTemma/WHI_Intern/pull/16,Task 自由課題7&10: カードの内部の拡充と名前の省略設定,2025-07-20T03:02:13Z,2025-07-20T04:03:45Z,0,False,TypeScript
+https://github.com/RyotaTemma/WHI_Intern/pull/12,Task 16&自由課題 9 : Lintの導入とCI,2025-07-20T01:03:16Z,2025-07-20T01:28:05Z,0,False,TypeScript
+https://github.com/tock/tock/pull/4590,capsules/core/alarm: fix `earliest_alarm` to not return expired,2025-09-09T22:57:34Z,2025-09-13T05:04:22Z,6435,False,Rust
+https://github.com/guicaulada/PvPTalentsSaver/pull/2,"1.0.4 to 2.0.0, fully rewritten to work in TWW (11.1.5).",2025-05-16T10:23:22Z,2025-05-16T15:55:33Z,0,False,Lua
+https://github.com/woowacourse-teams/2025-PhotoGather/pull/231,feature: 카카오 소셜 로그인,2025-08-03T02:41:07Z,2025-08-06T02:50:40Z,12,False,Java
+https://github.com/LeoAndo/KMP-App-Template_/pull/6,ログ出力の仕組みを追加,2025-05-13T14:56:40Z,2025-05-13T15:02:21Z,0,False,Kotlin
+https://github.com/qpig0218/Med-Edu/pull/8,完成digitalcapability頁面實作與導航功能,2025-06-20T13:08:06Z,2025-06-20T13:22:02Z,0,False,HTML
+https://github.com/ai-robots-txt/ai.robots.txt/pull/8,Add Google Gemini response on AbsBot-Google for bot metrics table.,2024-04-10T14:47:38Z,2024-04-10T16:08:23Z,4102,False,Python
+https://github.com/pjshub/tfground/pull/9,new steps documented,2024-05-04T06:14:23Z,2024-05-04T06:14:48Z,0,False,HCL
+https://github.com/supabase/supabase/pull/21827,docs: Adding JS example of multiple foreign keys to the same table,2024-03-07T00:28:09Z,2024-03-07T21:21:31Z,108942,False,TypeScript
+https://github.com/FernFinder/UNLV-S24-CS472-Group7/pull/39,Adding documentation for C++ function searchSubstrings - Kamil,2024-02-26T14:30:19Z,2024-02-26T19:39:30Z,0,False,C++
