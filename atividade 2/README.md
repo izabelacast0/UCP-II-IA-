@@ -11,4 +11,12 @@ ChatGPT, Gemini, DeepSeek, Claude e Perplexity.
 - `PRs_LLMs.xlsx` — dados organizados em planilha, uma aba por LLM
 - `analise.md` — análise de uma PR de cada LLM, verificando como a conversa foi usada para ajudar na tarefa
 
+## Resultados da coleta
 
+| LLM | Total encontrado (issueCount) | Linhas salvas no CSV |
+|---|---|---|
+| ChatGPT | 272 | 272 |
+| Gemini | 45 | 45 |
+| DeepSeek | 106 | 106 |
+| Claude | 8.945 | 1.000 (limite da GitHub Search API) |
+| Perplexity | 31 | 31 |
